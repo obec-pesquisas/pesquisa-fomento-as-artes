@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 4_editais_especificos_1.txt | EDITAL DE CREDENCIAMENTO № 001/2023 – SECMA | Maranhão | 2023 | Não encontrado | O edital não especifica indutores de ações afirmativas. |
+| 5_editais_especificos_1.txt | EDITAL Nº 001/2023 | Paraíba | 2023 | Não encontrado | O edital não especifica indutores de ações afirmativas. |
+| 5_editais_especificos_2.txt | EDITAL Nº 018/2023 | Paraíba | 2023 | Não encontrado | O edital não especifica indutores de ações afirmativas. |
+| 5_editais_especificos_3.txt | EDITAL Nº 004/2023 | Paraíba | 2023 | Não encontrado | O edital não especifica indutores de ações afirmativas. |
+| 6_editais_especificos_1.txt | EDITAL DO 1º PRÊMIO TRAJETÓRIAS EM DANÇA MÔNICA JAPIASSU - 2023 | Pernambuco | 2023 | Indutores de pontuação por origem (atribuição de pontos adicionais na seleção para pessoas ou grupos provenientes de determinadas regiões); Atributos de gênero; Atributos de raça/cor | 7.2.2; 7.2.3; Tabela B |
+```

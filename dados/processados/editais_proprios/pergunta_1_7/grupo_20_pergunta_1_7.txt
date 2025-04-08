@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 4_editais_especificos_1.txt | EDITAL DE CREDENCIAMENTO № 001/2023 – SECMA | Maranhão | 2023 | Não encontrado | O edital não especifica uma quantidade total de contemplados. |
+| 5_editais_especificos_1.txt | EDITAL Nº 001/2023 DE CHAMAMENTO PÚBLICO | Paraíba | 2023 | 300 | 4.1. |
+| 5_editais_especificos_2.txt | EDITAL Nº 018/2023 DE CHAMAMENTO PÚBLICO | Paraíba | 2023 | 14 | 4.1. |
+| 5_editais_especificos_3.txt | EDITAL Nº 004/2023 DE CHAMAMENTO PÚBLICO | Paraíba | 2023 | Não encontrado | O edital não especifica uma quantidade total de contemplados. |
+| 6_editais_especificos_1.txt | EDITAL DO 1º PRÊMIO TRAJETÓRIAS EM DANÇA MÔNICA JAPIASSU - 2023 | Pernambuco | 2023 | 16 | Tabela de Premiação Trajetórias em Dança Mônica Japiassu 2023 |
+```

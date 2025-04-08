@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 21_editais_especificos_20.txt | EDITAL PROAC N° 42/2023 | São Paulo | 2023 | A produção e realização de atividades e/ou ações culturais, propostos por artistas iniciantes sediados ou domiciliados no Estado de São Paulo. | 1.1 |
+| 21_editais_especificos_21.txt | EDITAL PROAC N° 43/2023 | São Paulo | 2023 | A formação em arte e cultura visando à realização de cursos e/ou oficinas, por proponentes sediados ou domiciliados no Estado de São Paulo. | 1.1 |
+| 21_editais_especificos_22.txt | EDITAL PROAC N° 01/2023 | São Paulo | 2023 | A produção e temporada de espetáculos inéditos de teatro, exceto para o público infanto-juvenil, realizada por proponentes sediados ou domiciliados no Estado de São Paulo. | 1.1 |
+| 21_editais_especificos_23.txt | EDITAL PROAC N° 02/2023 | São Paulo | 2023 | A circulação de espetáculos de teatro, exceto para o público infanto-juvenil, realizada por proponentes sediados ou domiciliados no Estado de São Paulo. | 1.1 |
+| 21_editais_especificos_24.txt | EDITAL PROAC N° 03/2023 | São Paulo | 2023 | A produção e temporada de espetáculos inéditos de dança, exceto para o público infanto-juvenil, realizada por proponentes sediados ou domiciliados no Estado de São Paulo. | 1.1 |
+```

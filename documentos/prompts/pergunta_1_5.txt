@@ -1,0 +1,1 @@
+Qual o valor total do chamamento público? Inclua apenas dígitos e vírgula em sua resposta. Não inclua ponto, não inclua "R$".

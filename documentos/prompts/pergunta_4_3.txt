@@ -1,0 +1,34 @@
+Quais são as categorias temáticas previstas no edital? Escolha uma ou mais das opções abaixo:
+
+* Acessibilidade
+* Cultura Alimentar e Gastronomia
+* Cultura Cigana
+* Cultura de Matriz Africana
+* Cultura do Sertão
+* Cultura Indígena
+* Cultura Popular
+* Cultura Quilombola
+* Culturas Digitais e Jogos Eletrônicos
+* Culturas Imigrantes e Refugiadas
+* Culturas Periféricas
+* Culturas Rurais e Agroecológicas
+* Culturas Tradicionais e Saberes Populares
+* Economia Criativa e Empreendedorismo Cultural
+* Educação e Cultura
+* Efemérides
+* Festas e Celebrações
+* Gênero
+* Gestão Cultural
+* Hip Hop e Juventudes Urbanas
+* Idosos
+* Infância
+* Juventude
+* LGBTQIA+
+* Meio Ambiente
+* Memória e Direitos Humanos
+* Patrimônio Imaterial
+* Patrimônio Material
+* Saúde
+* Tecnologia
+* Turismo Cultural
+* Outra(s). Especifique:

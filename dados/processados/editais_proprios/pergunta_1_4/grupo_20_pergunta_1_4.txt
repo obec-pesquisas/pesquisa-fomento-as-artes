@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 4_editais_especificos_1.txt | EDITAL DE CREDENCIAMENTO № 001/2023 – SECMA | Maranhão | 2023 | CREDENCIAMENTO de grupos musicais, grupos culturais e artistas consagrados pela crítica especializada ou pela opinião pública, nos termos do art. 25, III, da Lei nº 8.666/1993, a fim de compor a programação oficial do SÃO JOÃO DO MARANHÃO 2023 e demais eventos realizados ou apoiados pela Secretaria de Estado da Cultura no ano de 2023, de acordo com a necessidade e demanda da SECMA, cujo as categorias estejam abrangidas neste instrumento. | 1.1; 1.1.1 |
+| 5_editais_especificos_1.txt | EDITAL Nº 001/2023 DE CHAMAMENTO PÚBLICO | Paraíba | 2023 | concessão de apoio financeiro a iniciativas de circulação artística, que deverão obedecer às condições e exigências estabelecidas neste Regulamento. | Parágrafo primeiro; 4.1 |
+| 5_editais_especificos_2.txt | EDITAL Nº 018/2023 DE CHAMAMENTO PÚBLICO | Paraíba | 2023 | concessão de fomento a projetos de mostras e festivais de cinema realizados em território paraibano, que deverão obedecer às condições e exigências estabelecidas neste Regulamento. | Parágrafo primeiro; 4.1 |
+| 5_editais_especificos_3.txt | EDITAL Nº 004/2023 DE CHAMAMENTO PÚBLICO | Paraíba | 2023 | seleção de projetos culturais para aporte de recursos oriundos do Programa ICMS Cultural, enquadrado no processo de chamada pública, com inscrições de fluxo contínuo pela Internet, analisados e selecionados pela COMISSÃO TÉCNICA DE ANÁLISE DE PROJETOS (CTAP). | 1.1 |
+| 6_editais_especificos_1.txt | EDITAL DO 1º PRÊMIO TRAJETÓRIAS EM DANÇA MÔNICA JAPIASSU - 2023 | Pernambuco | 2023 | seleção e premiação de artistas da dança a partir de suas trajetórias profissionais e práticas no segmento. | 1.1 |
+```

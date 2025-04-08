@@ -1,0 +1,8 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 24_editais_especificos_9.txt | Edital de seleção de projetos n°. 14/2023 | Espírito Santo | 2023 | Não encontrado | Não encontrado |
+| 25_editais_especificos_1.txt | EDITAL DE CONCURSO PÚBLICO Nº 30/2023 | Santa Catarina | 2023 | Artes; Artes Populares; Patrimônio e Paisagem Cultural | 2.1; 2.2; Capítulo 15; Capítulo 16; Capítulo 17 |
+| 26_editais_especificos_1.txt | Edital Sedac nº 03/2023 | Rio Grande do Sul | 2023 | Eventos Culturais Populares | 1.1; 1.1.1; 1.7 |
+| 2_editais_especificos_1.txt | EDITAL N° 007/2023 | Bahia | 2023 | Cultura de Matriz Africana | A Concha Negra foi concebido como demanda de Estado, no sentido de fomentar a cultura afrobaiana e a cadeia produtiva da cultura... |
+| 2_editais_especificos_10.txt | EDITAL N° 006/2023 | Bahia | 2023 | Cultura de Matriz Africana | 1.1.;A 6ª edição do Novembro das Artes Negras foi concebida como demanda de Estado, no sentido de fomentar a cultura afro-baiana e a cadeia produtiva da cultura... |

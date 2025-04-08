@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 3_editais_especificos_3.txt | XVIII EDITAL CEARÁ CICLO NATALINO PARA MOSTRAS REGIONAIS E XVI MOSTRA ESTADUAL - 2023 | Ceará | 2023 | Espaço público (praças, parques, ruas, centros culturais públicos, escolas públicas, bibliotecas públicas, etc) | 3.3 |
+| 3_editais_especificos_4.txt | XVI EDITAL CICLO NATALINO - 2023 | Ceará | 2023 | Não encontrado | Não há menção ao tipo de espaço previsto para realização obrigatória no edital. |
+| 3_editais_especificos_5.txt | Não encontrado | Ceará | 2023 | Não encontrado | Não há menção ao tipo de espaço previsto para realização obrigatória no edital. |
+| 3_editais_especificos_6.txt | XVI EDITAL CEARÁ CICLO CARNAVALESCO – 2023 | Ceará | 2023 | Espaço público (praças, parques, ruas, centros culturais públicos, escolas públicas, bibliotecas públicas, etc) | 4.2 |
+| 3_editais_especificos_7.txt | XV EDITAL MECENAS DO CEARÁ | Ceará | 2023 | Não especificado | O edital não especifica um tipo de espaço obrigatório para realização dos projetos. |
+```

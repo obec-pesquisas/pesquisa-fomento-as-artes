@@ -1,0 +1,15 @@
+O edital tem previsão de reserva de vagas? Se sim, para quais categorias? Escolha uma ou mais das opções abaixo:
+
+* Gênero
+* Pessoas com Deficiência (PCD's)
+* Pessoas negras
+* Pessoas LGBTQIAPN+
+* Povos e Comunidades Tradicionais
+* Território
+* Vulnerabilidade socioeconômica
+* Etária infantil
+* Etária juventude
+* Etária idosos
+* Linguagens artísticas ou setores culturais
+* Não prevê reserva de vagas
+* Outra(s). Especifique:

@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 24_editais_especificos_9.txt | EDITAL DE SELEÇÃO DE PROJETOS Nº. 14/2023 | Espírito Santo | 2023 | 1150000,00 | 2.1 |
+| 25_editais_especificos_1.txt | EDITAL DE CONCURSO PÚBLICO Nº 30/2023 | Santa Catarina | 2023 | 8025000,00 | 3.1 |
+| 26_editais_especificos_1.txt | Edital Sedac nº 03/2023 | Rio Grande do Sul | 2023 | 30000000,00 | 2.1 |
+| 2_editais_especificos_1.txt | EDITAL N° 007/2023 | Bahia | 2023 | Não encontrado | Não encontrado. O edital não especifica um valor total para o chamamento público. |
+| 2_editais_especificos_10.txt | EDITAL N° 006/2023 | Bahia | 2023 | Não encontrado | Não encontrado. O edital não especifica um valor total para o chamamento público. |
+```

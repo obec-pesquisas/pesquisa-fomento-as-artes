@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 18_editais_especificos_5.txt | EDITAL DE CHAMAMENTO PÚBLICO N° 20/2023 | Distrito Federal | 2023 | 250000,00 | 1.14 |
+| 1_editais_especificos_1.txt | EDITAL N° 01/2023 PRÊMIO CARNAVAL 2023 | Alagoas | 2023 | 25000,00; 5000,00 | 7.3; 7.2 |
+| 1_editais_especificos_2.txt | EDITAL N° 02/2023 MOSTRA ALAGOANA DE DANÇA 2023 | Alagoas | 2023 | Não encontrado | Não há informações sobre valores máximos previstos para cada proposta neste edital. |
+| 1_editais_especificos_3.txt | EDITAL N° 03/2023 PRÊMIO CLEMILDA – A RAINHA DO FORRÓ | Alagoas | 2023 | 8000,00; 4000,00; 2000,00 | 6.2 |
+| 1_editais_especificos_4.txt | EDITAL N° 04/2023 – SECULT/AL EDITAL DE INSCRIÇÃO NO REGISTRO DO PATRIMÔNIO VIVO DO ESTADODE ALAGOAS | Alagoas | 2023 | Não encontrado | O edital menciona o pagamento de uma bolsa de incentivo mensal, mas não especifica um valor máximo previsto para cada proposta. |
+```

@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 3_editais_especificos_3.txt | XVIII EDITAL CEARÁ CICLO NATALINO PARA MOSTRAS REGIONAIS E XVI MOSTRA ESTADUAL - 2023 | Ceará | 2023 | Não encontrado | Não encontrado. O edital não lista categorias temáticas. |
+| 3_editais_especificos_4.txt | XVI EDITAL CICLO NATALINO - 2023 PROCESSO DE SELEÇÃO SIMPLIFICADA PARA CURADORAS/ES | Ceará | 2023 | Não encontrado | Não encontrado. O edital não lista categorias temáticas. |
+| 3_editais_especificos_5.txt | Processo de Seleção Simplificada para Pesquisadores(as)/Avaliadores(as) – Ciclo Carnavalesco 2023 | Ceará | 2023 | Não encontrado | Não encontrado. O edital não lista categorias temáticas. |
+| 3_editais_especificos_6.txt | XVI EDITAL CEARÁ CICLO CARNAVALESCO – 2023 | Ceará | 2023 | Não encontrado | Não encontrado. O edital não lista categorias temáticas. |
+| 3_editais_especificos_7.txt | XV EDITAL MECENAS DO CEARÁ | Ceará | 2023 | Acessibilidade; Cultura Alimentar e Gastronomia; Culturas Digitais e Jogos Eletrônicos; Economia Criativa e Empreendedorismo Cultural; Patrimônio Imaterial; Patrimônio Material | 2.2 |
+```

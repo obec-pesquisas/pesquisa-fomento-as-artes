@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 10_editais_especificos_1.txt | EDITAL N° 001/2023 | Acre | 2023 | Não encontrado | O edital trata da seleção de pareceristas, não especificando uma quantidade total de contemplados. |
+| 10_editais_especificos_2.txt | EDITAL DE FOMENTO E INCENTIVO À CULTURA (ARTE E PATRIMÔNIO) 02/2023 | Acre | 2023 | Não encontrado | O edital especifica a quantidade de projetos a serem contemplados por categoria (Pessoa Física, Grupos Informais, Pessoa Jurídica), mas não fornece uma quantidade total de contemplados. |
+| 10_editais_especificos_3.txt | EDITAL 003/2023 | Acre | 2023 | 40 | Art. 3° |
+| 10_editais_especificos_4.txt | EDITAL DE FOMENTO A ENTIDADES ARTISTICO-CULTURAL - 04/2023 | Acre | 2023 | 5 | 8.2. |
+| 10_editais_especificos_5.txt | EDITAL N°. 05/2023 | Acre | 2023 | 30 | 4.2. |
+```

@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 3_editais_especificos_3.txt | XVIII EDITAL CEARÁ CICLO NATALINO PARA MOSTRAS REGIONAIS E XVI MOSTRA ESTADUAL - 2023 | Ceará | 2023 | Não prevê reserva de vagas | Não encontrado. O edital não menciona reserva de vagas. |
+| 3_editais_especificos_4.txt | XVI EDITAL CICLO NATALINO - 2023 | Ceará | 2023 | Não prevê reserva de vagas | Não encontrado. O edital não menciona reserva de vagas. |
+| 3_editais_especificos_5.txt | Processo de Seleção Simplificada para Pesquisadores(as)/Avaliadores(as) – Ciclo Carnavalesco 2023 | Ceará | 2023 | Não prevê reserva de vagas | Não encontrado. O edital não menciona reserva de vagas. |
+| 3_editais_especificos_6.txt | XVI EDITAL CEARÁ CICLO CARNAVALESCO – 2023 | Ceará | 2023 | Pessoas negras; Pessoas com Deficiência (PCD's); Povos e Comunidades Tradicionais | 8.1; 8.2; 8.11; 8.20 |
+| 3_editais_especificos_7.txt | XV EDITAL MECENAS DO CEARÁ | Ceará | 2023 | Não prevê reserva de vagas | Não encontrado. O edital não menciona reserva de vagas. |
+```

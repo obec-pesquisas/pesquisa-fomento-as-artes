@@ -1,0 +1,5 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 9_editais_especificos_3.txt | ENCONTRO NORDESTINO DE CULTURA/2023 | Sergipe | 2023 | O objeto deste edital é a seleção de pessoa física, jurídica ou empreendedor individual para compor a programação do Projeto ENCONTRO NORDESTINO DE CULTURA, evento promovido pela Fundação de Cultura e Arte Aperipê de Sergipe, com foco musical em maior proporcionalidade no gênero FORRÓ, que integra trios Pé de Serra, artistas, grupos e bandas de forró, repentistas e violeiros, oficineiros da área cênica com conteúdo nos saberes e fazeres juninos, quadrilhas juninas, grupos folclóricos e cordelistas; | 1. DO OBJETO:; 1; 7 |
+```

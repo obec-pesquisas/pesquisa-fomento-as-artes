@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 23_editais_especificos_18.txt | EDITAL FEC 02/2023 | Minas Gerais | 2023 | Não encontrado | O edital não especifica o método de validação da reserva de vagas. |
+| 23_editais_especificos_19.txt | EDITAL FEC 03/2023 | Minas Gerais | 2023 | Não encontrado | O edital não especifica o método de validação da reserva de vagas. |
+| 24_editais_especificos_1.txt | EDITAL DE SELEÇÃO DE PROPOSTAS ARTÍSTICAS PARA O PARQUE DE ESCULTURAS DO PARQUE CULTURAL CASA DO GOVERNADOR, VILA VELHA-ES N° 01/2023 | Espírito Santo | 2023 | Autodeclaração | 8.2 Do total de prêmios pelo menos 5 (cinco) prêmios serão destinados a projetos propostos por pessoas negras (pretas, conforme classificação do IBGE) ou indígenas (conforme classificação do IBGE), mediante autodeclaração. |
+| 24_editais_especificos_2.txt | EDITAL DE SELEÇÃO DE PROJETOS n02/2023 | Espírito Santo | 2023 | Não encontrado | O edital não especifica o método de validação da reserva de vagas. |
+| 24_editais_especificos_3.txt | Edital de seleção de projetos nº. 07/2023 | Espírito Santo | 2023 | Não encontrado | O edital não especifica o método de validação da reserva de vagas. |
+```

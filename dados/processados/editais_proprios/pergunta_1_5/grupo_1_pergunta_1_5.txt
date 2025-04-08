@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 11_editais_especificos_1.txt | EDITAL DE CHAMAMENTO PÚBLICO 001/ 2023 – SECULT | Amapá | 2023 | Não encontrado | O edital não especifica o valor total do chamamento público, apenas os cachês individuais. |
+| 17_editais_especificos_1.txt | EDITAL N. ° 002/2022 – FIC/MS | Mato Grosso do Sul | 2022 | 8000000,00 | 2.1 |
+| 18_editais_especificos_1.txt | EDITAL DE CHAMAMENTO PÚBLICO № 08/2023 | Distrito Federal | 2023 | 2750000,00 | 2.1 |
+| 18_editais_especificos_2.txt | EDITAL DE CHAMAMENTO PÚBLICO № 08/2023 | Distrito Federal | 2023 | 2750000,00 | 2.1 |
+| 18_editais_especificos_4.txt | EDITAL DE CHAMAMENTO PÚBLICO N° 16/2023 | Distrito Federal | 2023 | 12000000,00 | 3.1 |
+```

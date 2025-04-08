@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 2_editais_especificos_2.txt | EDITAL N° 003/2023 | Bahia | 2023 | 3296000,00 | 2.2. O total de recursos disponíveis para os prêmios desta Chamada é de R$ 3.296.000,00 (três milhões duzentos e noventa e seismil reais) |
+| 2_editais_especificos_3.txt | CHAMAMENTO PÚBLICO/CONVOCATÓRIA PARA INSCRIÇÃO NAS OFICINAS DO PROJETO ESCRITAS EM TRÂNSITO 2023 | Bahia | 2023 | Não encontrado | Não há informações sobre o valor total destinados às artes neste edital. |
+| 2_editais_especificos_4.txt | CHAMAMENTO PÚBLICO – Bicentenário da Independência do Brasil na Bahia 1823-2023 | Bahia | 2023 | 120000,00 | IX. Dotação orçamentária Valor do Edital: R$ 120.000,00 (cento e vinte mil reais) |
+| 2_editais_especificos_5.txt | EDITAL N° 004/2023 | Bahia | 2023 | Não encontrado | Não há informações sobre o valor total destinados às artes neste edital, apenas o valor dos prêmios individuais. |
+| 2_editais_especificos_6.txt | Edital nº 001/2023 | Bahia | 2023 | 75000,00 | 2.2. O total de recursos disponíveis para os prêmios desta Chamada é de R$ 75.000,00 (setenta e cinco mil reais) |
+```

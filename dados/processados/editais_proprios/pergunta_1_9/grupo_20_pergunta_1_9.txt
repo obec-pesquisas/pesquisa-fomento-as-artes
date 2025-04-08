@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 4_editais_especificos_1.txt | EDITAL DE CREDENCIAMENTO № 001/2023 – SECMA | Maranhão | 2023 | 1500,00 | 14.2 |
+| 5_editais_especificos_1.txt | EDITAL Nº 001/2023 DE CHAMAMENTO PÚBLICO PARA CONCESSÃO DE APOIO A INICIATIVAS DE CIRCULAÇÃO ARTÍSTICA | Paraíba | 2023 | 2000,00 | 5.1.1 |
+| 5_editais_especificos_2.txt | EDITAL Nº 018/2023 DE CHAMAMENTO PÚBLICO PARA CONCESSÃO DE FOMENTO ÀS MOSTRAS E FESTIVAIS DE AUDIOVISUAL | Paraíba | 2023 | 25000,00 | 5.1.2 |
+| 5_editais_especificos_3.txt | EDITAL Nº 004/2023 DE CHAMAMENTO PÚBLICO PARA SELEÇÃO DE PROJETOS CULTURAIS DENTRO DO “PROGRAMA ICMS CULTURAL” | Paraíba | 2023 | Não encontrado | Não existe valor mínimo explicito para cada proposta, o edital informa o valor total a ser captado pelos projetos aprovados. |
+| 6_editais_especificos_1.txt | EDITAL DO 1º PRÊMIO TRAJETÓRIAS EM DANÇA MÔNICA JAPIASSU - 2023 | Pernambuco | 2023 | 7000,00 | 1.2 |
+```

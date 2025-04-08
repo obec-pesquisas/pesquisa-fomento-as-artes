@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 10_editais_especificos_1.txt | EDITAL N° 001/2023 – FUNDAÇÃO DE CULTURA ELIAS MANSOUR – FEM | Acre | 2023 | Não especificado | Não encontrado. O edital não especifica a composição da comissão avaliadora. |
+| 10_editais_especificos_2.txt | EDITAL DE FOMENTO E INCENTIVO À CULTURA (ARTE E PATRIMÔNIO) 02/2023 | Acre | 2023 | Pareceristas contratados via chamada pública; Representantes do Poder público | 9.1; 9.2 |
+| 10_editais_especificos_3.txt | EDITAL 003/2023 PRÊMIO DE FORTALECIMENTO DA CULTURA DOS POVOS ORIGINARIOS | Acre | 2023 | Representantes da sociedade civil; Representantes do Poder público | Art. 15° |
+| 10_editais_especificos_4.txt | EDITAL DE FOMENTO A ENTIDADES ARTISTICO-CULTURAL - 04/2023 | Acre | 2023 | Pareceristas contratados via chamada pública | 10 |
+| 10_editais_especificos_5.txt | EDITAL N°. 05/2023 PRÊMIO MESTRES DA CULTURA POPULAR DO ESTADO DO ACRE | Acre | 2023 | Pareceristas contratados via chamada pública | 9.1 |
+```

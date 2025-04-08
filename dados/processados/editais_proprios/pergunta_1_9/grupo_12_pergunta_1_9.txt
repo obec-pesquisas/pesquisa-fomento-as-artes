@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 22_editais_especificos_11.txt | EDITAL DE CONCURSO N° 005/2023 - FUNARJ | Rio de Janeiro | 2023 | 7000,00 | 7.2 |
+| 22_editais_especificos_2.txt | EDITAL DE CHAMADA EMERGENCIAL DE CREDENCIAMENTO N° 02/2023 | Rio de Janeiro | 2023 | 50000,00; 150000,00 | 5.1.1 |
+| 22_editais_especificos_3.txt | EDITAL DE CHAMADA EMERGENCIAL DE CREDENCIAMENTO N° 04/2023 | Rio de Janeiro | 2023 | 50000,00; 150000,00 | 5.1.1 |
+| 22_editais_especificos_4.txt | EDITAL DE CHAMADA DE PREMIAÇÃO Nº 03/2023 | Rio de Janeiro | 2023 | 70500,00 | 4.1 |
+| 22_editais_especificos_5.txt | EDITAL DE CREDENCIAMENTO N°24/2023 | Rio de Janeiro | 2023 | 15000,00 | 4.2 |
+```

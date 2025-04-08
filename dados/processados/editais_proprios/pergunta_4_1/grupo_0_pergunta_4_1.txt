@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 10_editais_especificos_1.txt | EDITAL N° 001/2023 | Acre | 2023 | Não especificado | Não encontrado. O edital trata de seleção de pareceristas e não especifica espaços para realização de projetos. |
+| 10_editais_especificos_2.txt | EDITAL DE FOMENTO E INCENTIVO À CULTURA (ARTE E PATRIMÔNIO) 02/2023 | Acre | 2023 | Espaço público (praças, parques, ruas, centros culturais públicos, escolas públicas, bibliotecas públicas, etc) | 10.2. Garantia de participação, acesso e interação da área e segmento com a comunidade em geral. a) Atividades realizadas em espaços públicos |
+| 10_editais_especificos_3.txt | EDITAL 003/2023 | Acre | 2023 | Não especificado | Não encontrado. O edital trata de premiação e não especifica espaços para realização obrigatória. |
+| 10_editais_especificos_4.txt | EDITAL DE FOMENTO A ENTIDADES ARTISTICO-CULTURAL - 04/2023 | Acre | 2023 | Espaço público (praças, parques, ruas, centros culturais públicos, escolas públicas, bibliotecas públicas, etc) | 10.5. Garantia de participação, acesso e interação da área e segmento com a comunidade em geral. a) Atividades realizadas em espaços públicos |
+| 10_editais_especificos_5.txt | EDITAL N°. 05/2023 | Acre | 2023 | Não especificado | Não encontrado. O edital trata de premiação e não especifica espaços para realização obrigatória. |
+```

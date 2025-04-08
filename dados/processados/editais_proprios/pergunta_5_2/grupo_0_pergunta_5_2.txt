@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 10_editais_especificos_1.txt | EDITAL N° 001/2023 | Acre | 2023 | Não encontrado | Não há critérios de desempate neste edital. |
+| 10_editais_especificos_2.txt | EDITAL DE FOMENTO E INCENTIVO À CULTURA (ARTE E PATRIMÔNIO) 02/2023 | Acre | 2023 | Aquele que tiver a maior idade | 9.10 |
+| 10_editais_especificos_3.txt | EDITAL 003/2023 | Acre | 2023 | Atendimento ao item D; Maior pontuação no item A; Maior pontuação no item B; Maior pontuação no item C; Persistindo o empate, este será decidido pelo proponente com maior idade. | Art. 16° |
+| 10_editais_especificos_4.txt | EDITAL DE FOMENTO A ENTIDADES ARTISTICO-CULTURAL - 04/2023 | Acre | 2023 | Maior pontuação no item 10.3.1; Maior pontuação no item 10.3.2; Maior pontuação no item 10.3.3; Maior pontuação no item 10.3.4; Persistindo o empate será contemplada a entidade com maior tempo de atuação. | 10.4 |
+| 10_editais_especificos_5.txt | EDITAL N°. 05/2023 | Acre | 2023 | Candidato que tiver a maior idade; Candidato que tiver maior pontuação no tempo de atuação comprovada; Candidato que tiver maior pontuação na situação de risco. | 9.5 |
+```

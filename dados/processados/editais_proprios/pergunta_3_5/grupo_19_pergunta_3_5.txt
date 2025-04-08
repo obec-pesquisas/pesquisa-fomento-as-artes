@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 3_editais_especificos_3.txt | XVIII EDITAL CEARÁ CICLO NATALINO PARA MOSTRAS REGIONAIS E XVI MOSTRA ESTADUAL - 2023 | Ceará | 2023 | Não encontrado | O edital especifica o apoio a Mostras Regionais Natalinas e Mostra Estadual, mas não detalha o número de propostas por linguagem artística. |
+| 3_editais_especificos_4.txt | XVI EDITAL CICLO NATALINO - 2023 | Ceará | 2023 | Não encontrado | O edital trata do processo de seleção simplificada para curadores, não especificando o número de propostas por linguagem artística. |
+| 3_editais_especificos_5.txt | Processo de Seleção Simplificada para Pesquisadores(as)/Avaliadores(as) – Ciclo Carnavalesco 2023 | Ceará | 2023 | Não encontrado | O edital trata do processo de seleção simplificada para pesquisadores/avaliadores, não especificando o número de propostas por linguagem artística. |
+| 3_editais_especificos_6.txt | XVI EDITAL CEARÁ CICLO CARNAVALESCO – 2023 | Ceará | 2023 | Não encontrado | O edital especifica o número de projetos apoiados por categoria (Bailes e Matinês, Difusão de repertório carnavalesco, Maracatus, Escola de Samba, Blocos, Cordões, Afoxés, Culturas Camponesas), mas não por linguagem artística. |
+| 3_editais_especificos_7.txt | XV EDITAL MECENAS DO CEARÁ | Ceará | 2023 | Não encontrado | O edital menciona as áreas culturais (artes integradas, áreas técnicas, arte cultura digital e jogos, artes visuais, fotografia, audiovisual, cultura alimentar, circo, dança, design, economia criativa, literatura, livro e leitura, moda, música, patrimônio material e imaterial, performance, teatro) que podem ser contempladas, mas não especifica o número de propostas previstas para cada uma. |
+```

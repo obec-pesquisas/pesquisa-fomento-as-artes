@@ -1,0 +1,14 @@
+Qual valor destinado por linguagem artística no edital (determine o montante por linguagem artística)? Separe os valores de cada linguagem artística por ponto e vírgula. Por exemplo: artes visuais: 1000,11; audiovisual: 1000,11; circo: 1000,11; dança: 1000,11; literatura: 1000,11; música: 1000,11; teatro: 1000,11; teatro: 1000,11; artes integradas: 1000,11; linguagem não especificada: 1000,11; outras linguagens: 1000,11.
+
+Estas são as linguagens artístiicas:
+
+* Artes Visuais
+* Audiovisual
+* Circo
+* Dança
+* Literatura
+* Música
+* Teatro
+* Artes integradas
+* Linguagem não especificada
+* Outras linguagens

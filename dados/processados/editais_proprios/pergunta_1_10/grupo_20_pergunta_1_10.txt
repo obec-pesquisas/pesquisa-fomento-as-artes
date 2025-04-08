@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 4_editais_especificos_1.txt | EDITAL DE CREDENCIAMENTO № 001/2023 – SECMA | Maranhão | 2023 | Pessoa Jurídica de direito privado, de natureza cultural, com ou sem fins lucrativos; Pessoa Física maior de 18 anos; Artista/Grupo representado por empresário exclusivo | 4.1.1; 4.1.2; 8.4 |
+| 5_editais_especificos_1.txt | EDITAL Nº 001/2023 DE CHAMAMENTO PÚBLICO PARA CONCESSÃO DE APOIO A INICIATIVAS DE CIRCULAÇÃO ARTÍSTICA | Paraíba | 2023 | Pessoa Física (a própria pessoa a ser contemplada) | 7.1.1 |
+| 5_editais_especificos_2.txt | EDITAL Nº 018/2023 DE CHAMAMENTO PÚBLICO PARA CONCESSÃO DE FOMENTO ÀS MOSTRAS E FESTIVAIS DE AUDIOVISUAL | Paraíba | 2023 | Pessoa jurídica com fins lucrativos (Sociedade empresária, Sociedade simples); Microempresário individual- MEI; Pessoa jurídica sem fins lucrativos (Organização da sociedade civil) | 7.1 |
+| 5_editais_especificos_3.txt | EDITAL Nº 004/2023 DE CHAMAMENTO PÚBLICO PARA SELEÇÃO DE PROJETOS CULTURAIS DENTRO DO “PROGRAMA ICMS CULTURAL” | Paraíba | 2023 | Pessoa Física (a própria pessoa a ser contemplada); Pessoa jurídica com fins lucrativos (Sociedade empresária, Sociedade simples); Pessoa jurídica sem fins lucrativos (Organização da sociedade civil) | 3.2; 3.3 |
+| 6_editais_especificos_1.txt | EDITAL DO 1º PRÊMIO TRAJETÓRIAS EM DANÇA MÔNICA JAPIASSU - 2023 | Pernambuco | 2023 | Pessoa Física (a própria pessoa a ser contemplada); Pessoa jurídica com fins lucrativos (Sociedade empresária, Sociedade simples); Pessoa jurídica sem fins lucrativos (Organização da sociedade civil) | 2.1 |
+```

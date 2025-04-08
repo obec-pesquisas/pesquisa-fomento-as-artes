@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 10_editais_especificos_1.txt | EDITAL N° 001/2023 | Acre | 2023 | Não encontrado | O edital trata de credenciamento de pareceristas, não especificando valores por linguagem artística. |
+| 10_editais_especificos_2.txt | EDITAL DE FOMENTO E INCENTIVO À CULTURA (ARTE E PATRIMÔNIO) 02/2023 | Acre | 2023 | Não encontrado | O edital não especifica o valor destinado por linguagem artística. Ele apenas indica os montantes para Pessoa Física (R$ 600.000,00), Grupos Informais (R$ 80.000,00) e Pessoa Jurídica (R$ 320.000,00). |
+| 10_editais_especificos_3.txt | EDITAL 003/2023 | Acre | 2023 | Culinaria / Medicina Ancestral: 125.000,00; Musica / Literatura: 125.000,00; Artesanato: 125.000,00; Educação: 125.000,00 | Art. 3° |
+| 10_editais_especificos_4.txt | EDITAL DE FOMENTO A ENTIDADES ARTISTICO-CULTURAL - 04/2023 | Acre | 2023 | Não encontrado | O edital não especifica o valor destinado por linguagem artística. Ele indica que o valor total é de R$ 300.000,00 e que 05 projetos serão contemplados com até R$ 60.000,00 cada. |
+| 10_editais_especificos_5.txt | EDITAL N°. 05/2023 | Acre | 2023 | Não encontrado | O edital não especifica o valor destinado por linguagem artística. O edital trata da premiação de Mestres da Cultura Popular, destinando R$ 10.000,00 para cada um dos 30 mestres selecionados. |
+```

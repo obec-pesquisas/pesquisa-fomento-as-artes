@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 4_editais_especificos_1.txt | EDITAL DE CREDENCIAMENTO № 001/2023 – SECMA | Maranhão | 2023 | Não encontrado | O edital não especifica o número de propostas previstas por linguagem artística, apenas as categorias para credenciamento. |
+| 5_editais_especificos_1.txt | EDITAL Nº 001/2023 DE CHAMAMENTO PÚBLICO | Paraíba | 2023 | Não encontrado | O edital não especifica o número de propostas previstas por linguagem artística, apenas o número total de iniciativas de circulação artística a serem apoiadas: 140 (regional); 100 (nacional); 60 (internacional). |
+| 5_editais_especificos_2.txt | EDITAL Nº 018/2023 DE CHAMAMENTO PÚBLICO | Paraíba | 2023 | Não encontrado | O edital não especifica o número de propostas previstas por linguagem artística, apenas o número de projetos de mostras ou festivais de cinema a serem fomentados: 10 (com histórico); 4 (estreantes). |
+| 5_editais_especificos_3.txt | EDITAL Nº 004/2023 DE CHAMAMENTO PÚBLICO | Paraíba | 2023 | Não encontrado | O edital não especifica o número de propostas previstas por linguagem artística, apenas o valor total disponível para ser captado pelos projetos aprovados. |
+| 6_editais_especificos_1.txt | EDITAL DO 1º PRÊMIO TRAJETÓRIAS EM DANÇA MÔNICA JAPIASSU - 2023 | Pernambuco | 2023 | Não encontrado | O edital especifica o número de prêmios para diferentes categorias relacionadas à dança (trajetória profissional), não o número de propostas previstas. |
+```

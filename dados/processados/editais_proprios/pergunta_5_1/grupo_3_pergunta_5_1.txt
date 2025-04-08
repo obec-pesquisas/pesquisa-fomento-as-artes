@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 1_editais_especificos_5.txt | EDITAL N° 05/2023 - SECULT/AL | Alagoas | 2023 | Originalidade; Música (melodia, harmonia, arranjo); Performance (presença de palco, interpretação) | 7.1 |
+| 1_editais_especificos_6.txt | EDITAL N° 06/2023-SECULT/AL | Alagoas | 2023 | Música (Os elementos da música em um contexto geral); Letra; Afinação e Ritmo; Interpretação; Arranjo | 7.11 |
+| 1_editais_especificos_7.txt | EDITAL N° 07/2023 | Alagoas | 2023 | Não encontrado | Não há critérios de avaliação explicitados no edital. |
+| 1_editais_especificos_8.txt | EDITAL N°08/2023 – SECULT/AL | Alagoas | 2023 | Relevância Artística (qualidade artística do projeto, considerando a originalidade e criatividade); Qualidade técnica do projeto (apresentação, estrutura do projeto e concepção); Impacto Cultural (potencial do projeto para contribuir para o desenvolvimento da cultura alagoana, a promoção da diversidade cultural e o acesso a cultura); Currículos (proponentes, produtoras, integrantes da equipe básica do projeto e demais profissionais envolvidos) | 7.2 |
+| 20_editais_especificos_1.txt | EDITAL DE LICITAÇÃO/MODALIDADE CONCURSO FOMENTO ÀS AÇÕES FORMATIVAS 1/2023 – FUNDO CULTURAL | Goiás | 2023 | Análise técnica, orçamentária e de planejamento do projeto; Qualificação do proponente e da equipe técnica; Mérito Cultural do Projeto; Potencial para a promoção para área cultural pretendida no Estado de Goiás e seus desdobramentos para a área | 10.9.1 |
+```

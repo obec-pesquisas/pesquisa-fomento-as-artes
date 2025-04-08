@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 18_editais_especificos_5.txt | EDITAL DE CHAMAMENTO PÚBLICO N° 20/2023 | Distrito Federal | 2023 | Não encontrado | O edital não especifica o valor destinado por linguagem artística. |
+| 1_editais_especificos_1.txt | EDITAL N° 01/2023 | Alagoas | 2023 | Não encontrado | O edital não especifica o valor destinado por linguagem artística. |
+| 1_editais_especificos_2.txt | EDITAL N° 02/2023 | Alagoas | 2023 | Não encontrado | O edital não especifica o valor destinado por linguagem artística. |
+| 1_editais_especificos_3.txt | EDITAL N° 03/2023 | Alagoas | 2023 | Bumba-Meu-Boi: 200000,00; Coco de Roda: 240000,00; Quadrilhas Juninas: 440000,00; Trio Forró Pé-de-Serra: 100000,00; Violeiros/Emboladores: 20000,00 | 6.2 |
+| 1_editais_especificos_4.txt | EDITAL N° 04/2023 – SECULT/AL EDITAL DE INSCRIÇÃO NO REGISTRO DO PATRIMÔNIO VIVO DO ESTADODE ALAGOAS | Alagoas | 2023 | Não encontrado | O edital não especifica o valor destinado por linguagem artística. |
+```

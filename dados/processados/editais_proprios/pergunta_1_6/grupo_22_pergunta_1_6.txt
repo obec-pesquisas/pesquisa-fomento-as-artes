@@ -1,0 +1,5 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 9_editais_especificos_3.txt | ENCONTRO NORDESTINO DE CULTURA/2023 | Sergipe | 2023 | Categoria "EDGAR DO ACORDEON“ (R$ 4.000,00); Categoria "MARLUCE” (R$ 8.000,00); Categoria "JOSA, O VAQUEIRO DO SERTÃO" (R$ 12.000,00); CATEGORIA "ROGÉRIO” (R$ 20.000,00); CATEGORIA “PAULINHA ABELHA" (R$ 30.000,00); Categoria "MESTRA IOLANDA” (R$ 2.000,00); Categoria "MARIANO" (R$ 2.000,00); Categoria "CARDOSINHO” (R$ 2.500,00); Categoria"MAESTRO RIVALDO DANTAS" (R$ 2.000,00) | 7.1; 7.2; 7.3; 7.4; 7.5; 7.6; 7.7; 7.8; 7.9 |
+```

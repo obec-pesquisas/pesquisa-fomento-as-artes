@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 21_editais_especificos_7.txt | EDITAL PROAC N° 11/2023 | São Paulo | 2023 | Circo | Parâmetros Específicos; CIRCO / CIRCULAÇÃO DE ESPETÁCULO |
+| 21_editais_especificos_8.txt | EDITAL PROAC N° 12/2023 | São Paulo | 2023 | Artes Visuais | Parâmetros Específicos; ARTES VISUAIS / PRODUÇÃO DE EXPOSIÇÃO INÉDITA |
+| 21_editais_especificos_9.txt | EDITAL PROAC N° 13/2023 | São Paulo | 2023 | Artes Visuais | Parâmetros Específicos; ARTES VISUAIS / CIRCULAÇÃO DE EXPOSIÇÃO |
+| 22_editais_especificos_1.txt | EDITAL DE CHAMADA EMERGENCIAL DE PREMIAÇÃO Nº 01/2023 | Rio de Janeiro | 2023 | Literatura | Nome do Edital |
+| 22_editais_especificos_10.txt | EDITAL DE CONCURSO N° 002/2023 – FUNARJ | Rio de Janeiro | 2023 | Audiovisual; Dança; Música; Teatro | 1.1; b.1; b.2; b.3; b.4 |
+```

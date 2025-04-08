@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 2_editais_especificos_2.txt | EDITAL N° 003/2023 | Bahia | 2023 | Não encontrado | O edital especifica valores de prêmios diferentes para cada categoria, mas não define um valor máximo geral para propostas. |
+| 2_editais_especificos_3.txt | CHAMAMENTO PÚBLICO/CONVOCATÓRIA PARA INSCRIÇÃO NAS OFICINAS DO PROJETO ESCRITAS EM TRÂNSITO 2023 | Bahia | 2023 | Não encontrado | O edital trata de oficinas e não especifica um valor máximo previsto para cada proposta. |
+| 2_editais_especificos_4.txt | CHAMAMENTO PÚBLICO | Bahia | 2023 | 12000,00 | Seção A, item I; Seção B, item 1.3 |
+| 2_editais_especificos_5.txt | EDITAL N° 004/2023 | Bahia | 2023 | 30000,00 | 1.4 |
+| 2_editais_especificos_6.txt | Edital nº 001/2023 | Bahia | 2023 | 20000,00 | 2.1 |
+```

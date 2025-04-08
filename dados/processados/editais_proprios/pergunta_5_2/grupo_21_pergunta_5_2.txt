@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 6_editais_especificos_2.txt | EDITAL DO PRÊMIO PALHAÇO CASCUDO DE INCENTIVO ÀS ARTES CIRCENSES – 2023 | Pernambuco | 2023 | o maior tempo de contribuição da trajetória profissional e o quantitativo de atuação no estado de Pernambuco nos últimos 12 (doze) meses | 11.5 |
+| 7_editais_especificos_2.txt | RESOLUÇÃO Nº 01/2023 | Piauí | 2023 | Não encontrado | O edital não especifica critérios de desempate. |
+| 8_editais_especificos_1.txt | Edital de Fomento Audiovisual Potiguar | Rio Grande do Norte | 2023 | A) o primeiro critério será a pontuação alcançada no quesito Qualidade; B) caso o empate continue, o segundo critério será a pontuação alcançada no quesito Promoção da Diversidade; C) caso o empate ainda permaneça, o terceiro critério será a pontuação alcançada no quesito Efeito Multiplicador. | 10.1.1.12.7 |
+| 9_editais_especificos_1.txt | EDITAL N° 001/2022-CEC | Sergipe | 2022 | Não encontrado | O edital não especifica critérios de desempate. |
+| 9_editais_especificos_2.txt | EDITAL DO VI FESTIVAL SERGIPANO DE ARTES CÊNICAS E DIVERSIDADE CULTURAL | Sergipe | 2023 | Não encontrado | O edital não especifica critérios de desempate. |
+```

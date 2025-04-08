@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 1_editais_especificos_5.txt | EDITAL N° 05/2023 - SECULT/AL | Alagoas | 2023 | Não encontrado | O edital não apresenta os critérios de desempate. |
+| 1_editais_especificos_6.txt | EDITAL N° 06/2023-SECULT/AL | Alagoas | 2023 | Maior nota no quesito música; Maior nota no quesito letra; Maior nota no quesito afinação e ritmo; Maior nota no quesito interpretação; Maior nota no quesito arranjo. | 7.13 |
+| 1_editais_especificos_7.txt | EDITAL N° 07/2023 | Alagoas | 2023 | Não encontrado | O edital não apresenta os critérios de desempate. |
+| 1_editais_especificos_8.txt | EDITAL N°08/2023 – SECULT/AL | Alagoas | 2023 | gestão do edital considerará a banda que tenha apresentado maior pontuação no critério “c”; Persistindo o empate será considerado o critério “a”. | 7.9 |
+| 20_editais_especificos_1.txt | EDITAL DE LICITAÇÃO/MODALIDADE CONCURSO FOMENTO ÀS AÇÕES FORMATIVAS 1/2023 – FUNDO CULTURAL | Goiás | 2023 | Maior pontuação no critério III do item 10.9.1; Maior pontuação no critério IV do item 10.9.1; Maior pontuação no critério II do item 10.9.1; Maior pontuação no critério I do item 10.9.1; Maior idade entre todos os proponentes. | 10.9.4 |
+```

@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 21_editais_especificos_25.txt | EDITAL PROAC N° 04/2023 | São Paulo | 2023 | Circulação | 1.1; 3.1 a |
+| 21_editais_especificos_3.txt | EDITAL PROAC N° 07/2023 | São Paulo | 2023 | Circulação | 1.1; 3.1 a |
+| 21_editais_especificos_4.txt | EDITAL PROAC N° 08/2023 | São Paulo | 2023 | Produção artística material ou digital (obra, produto, publicação, instalação artística, etc); Manutenção de espaços e ambientes culturais; Criação artística e cultural | 1.1; 3.1 a; 3.1 b; 3.1 c |
+| 21_editais_especificos_5.txt | EDITAL PROAC N° 09/2023 | São Paulo | 2023 | Produção artística material ou digital (obra, produto, publicação, instalação artística, etc); Criação artística e cultural | 1.1; 3.1 a |
+| 21_editais_especificos_6.txt | EDITAL PROAC N° 10/2023 | São Paulo | 2023 | Produção artística material ou digital (obra, produto, publicação, instalação artística, etc); Criação artística e cultural | 1.1; 3.1 a |
+```

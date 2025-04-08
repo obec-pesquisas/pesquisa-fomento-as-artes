@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 18_editais_especificos_5.txt | EDITAL DE CHAMAMENTO PÚBLICO N° 20/2023 | Distrito Federal | 2023 | Não encontrado | O edital não especifica a quantidade total de contemplados. |
+| 1_editais_especificos_1.txt | EDITAL N° 01/2023 | Alagoas | 2023 | 131 | 7.1 |
+| 1_editais_especificos_2.txt | EDITAL N° 02/2023 | Alagoas | 2023 | Não encontrado | O edital não especifica a quantidade total de contemplados. |
+| 1_editais_especificos_3.txt | EDITAL N° 03/2023 | Alagoas | 2023 | 145 | 6.1 |
+| 1_editais_especificos_4.txt | EDITAL N° 04/2023 | Alagoas | 2023 | 3 | Art. 2º, §§ 4º e 5º da Lei nº 6.513/04, e 6 |
+```

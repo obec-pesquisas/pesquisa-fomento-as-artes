@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 22_editais_especificos_6.txt | EDITAL DE CREDENCIAMENTO N° 25/2023 "TURMAS DE BATE-BOLAS RJ 2" | Rio de Janeiro | 2023 | Não prevê reserva de vagas | Não encontrado. O edital não menciona reserva de vagas. |
+| 22_editais_especificos_7.txt | EDITAL DE CREDENCIAMENTO N° 26/2023 “BLOCO NAS RUAS 2 RJ” | Rio de Janeiro | 2023 | Não prevê reserva de vagas | Não encontrado. O edital não menciona reserva de vagas. |
+| 22_editais_especificos_8.txt | EDITAL DE CREDENCIAMENTO N° 27/2023 “NÃO DEIXA O SAMBA MORRER RJ 3" | Rio de Janeiro | 2023 | Não prevê reserva de vagas | Não encontrado. O edital não menciona reserva de vagas. |
+| 22_editais_especificos_9.txt | EDITAL DE CONCURSO No 001/2023 - FUNARJ | Minas Gerais | 2023 | Gênero; Pessoas com Deficiência (PCD's); Pessoas negras; Pessoas LGBTQIAPN+; Etária idosos | 6.3.3 |
+| 23_editais_especificos_17.txt | EDITAL FEC 01/2024 AFROMINEIRIDADES | Minas Gerais | 2023 | Gênero; Pessoas com Deficiência (PCD's); Pessoas negras; Pessoas LGBTQIAPN+; Etária idosos | 6.3.3 |
+```

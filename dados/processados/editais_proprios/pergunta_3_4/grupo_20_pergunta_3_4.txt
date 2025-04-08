@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 4_editais_especificos_1.txt | EDITAL DE CREDENCIAMENTO № 001/2023 – SECMA | Maranhão | 2023 | Não encontrado | O edital não especifica o montante destinado por linguagem artística, apenas os cachês por categoria. |
+| 5_editais_especificos_1.txt | EDITAL Nº 001/2023 DE CHAMAMENTO PÚBLICO | Paraíba | 2023 | Não encontrado | O edital não especifica o montante destinado por linguagem artística, apenas o investimento total e os valores por categoria de circulação (regional, nacional, internacional). |
+| 5_editais_especificos_2.txt | EDITAL Nº 018/2023 DE CHAMAMENTO PÚBLICO | Paraíba | 2023 | Não encontrado | O edital não especifica o montante destinado por linguagem artística, apenas o investimento total e os valores por tipo de projeto (estreante ou com histórico). |
+| 5_editais_especificos_3.txt | EDITAL Nº 004/2023 DE CHAMAMENTO PÚBLICO | Paraíba | 2023 | Não encontrado | O edital não especifica o montante destinado por linguagem artística, apenas o aporte total a ser captado pelos projetos aprovados. |
+| 6_editais_especificos_1.txt | EDITAL DO 1º PRÊMIO TRAJETÓRIAS EM DANÇA MÔNICA JAPIASSU - 2023 | Pernambuco | 2023 | dança: 160200,00 | O edital especifica o valor total destinado à premiação em dança. Linha 10.2 |
+```

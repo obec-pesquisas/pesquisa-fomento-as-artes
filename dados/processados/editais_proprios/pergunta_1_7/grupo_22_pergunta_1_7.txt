@@ -1,0 +1,5 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 9_editais_especificos_3.txt | ENCONTRO NORDESTINO DE CULTURA/2023 | Sergipe | 2023 | 220 | 7.1 b); 7.2 b); 7.3 b); 7.4 b); 7.5 b); 7.6 c); 7.7 c); 7.8 e); 7.9 b). Cálculo: 40 + 30 + 30 + 30 + 10 + 20 + 10 + 60 + 10 = 220 |
+```

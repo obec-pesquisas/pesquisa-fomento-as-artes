@@ -1,0 +1,1 @@
+Qual o valor total destinados às artes no edital? Inclua apenas dígitos e vírgula. Não inclua ponto, e não inclua "R$".

@@ -1,0 +1,13 @@
+Quais foram as regras previstas para a distribuição dos produtos no edital? Escolha uma ou mais das opções abaixo:
+
+* Obrigatoriedade de gratuidade total
+* Obrigatoriedade de gratuidade parcial (distribuição gratuita para públicos ou locais específicos)
+* Autorização para cobrança a preço popular (com ou sem faixa de valores definida no edital)
+* Autorização para cobrança a qualquer preço (sem restrições de valores ou público)
+* Permissão de cobrança a preço popular com cota de distribuição gratuita
+* Permissão de cobrança a qualquer preço com cota de distribuição gratuita
+* Previsão de contrapartida social (ex.: realização de atividades gratuitas em espaços públicos, ações formativas etc.)
+* Regra específica para formatos digitais (ex.: disponibilização gratuita em plataformas públicas, restrições de monetização)
+* Não trata do assunto
+* Não especificado. Aberto para escolha do proponente (proponente define a política de distribuição)
+* Outra(s). Especifique:

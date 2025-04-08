@@ -1,0 +1,4 @@
+Qual o recorte principal do edital? Escolha apenas uma das opções:
+
+* Sem recorte (proponente pode aplicar proposta para qualquer área/linguagem/tipo de ação cultural)
+* Recorte definido (o edital prevê recortes para as ações culturais que podem ser contempladas)

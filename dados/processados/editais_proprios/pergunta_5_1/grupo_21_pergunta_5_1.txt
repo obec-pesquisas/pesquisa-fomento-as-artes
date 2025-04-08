@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 6_editais_especificos_2.txt | EDITAL DO PRÊMIO PALHAÇO CASCUDO DE INCENTIVO ÀS ARTES CIRCENSES – 2023 | Pernambuco | 2023 | Contribuição da trajetória profissional para o desenvolvimento e renovação do circo; Tempo de atuação profissional no Circo; Atuação profissional no estado de Pernambuco nos últimos 12 (doze) meses; Contribuição da trajetória profissional para a manutenção de grupos ou comunidades circenses; Contribuição da atuação no processo de registro, publicação, documentação, pesquisa e transmissão de saberes | 11.2 |
+| 7_editais_especificos_2.txt | RESOLUÇÃO Nº 01/2023 | Piauí | 2023 | Não encontrado | O edital não lista critérios de avaliação. |
+| 8_editais_especificos_1.txt | Edital de Fomento Audiovisual Potiguar  Edital N° 01/2023 | Rio Grande do Norte | 2023 | Qualidade, originalidade, criatividade e visão e concepção artística da proposta; Efeito multiplicador do projeto; Adequação da proposta orçamentária e viabilidade do projeto; Potencial da pessoa proponente e da equipe envolvida no projeto; Construção do projeto; Promoção da diversidade e de políticas afirmativas | 3.4 |
+| 9_editais_especificos_1.txt | EDITAL N° 001/2022-CEC | Sergipe | 2023 | Relevância do trabalho desenvolvido pelo(a) candidato(a), em prol da cultura sergipana; Idade do candidato em caso de empate; Avaliação de situação de carência social do candidato | 4.3 |
+| 9_editais_especificos_2.txt | EDITAL DO VI FESTIVAL SERGIPANO DE ARTES CÊNICAS E DIVERSIDADE CULTURAL | Sergipe | 2023 | Condição técnica do trabalho a ser apresentado no festival; Condições do artista/grupo; Acessibilidade; Sergipanidade | 8.1 |
+```

@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 24_editais_especificos_4.txt | Edital de seleção de projetos n°. 09/2023 | Espírito Santo | 2023 | Especialistas da área cultural com experiência comprovada | 7.6 |
+| 24_editais_especificos_5.txt | Edital de seleção de projetos n°. 10/2023 | Espírito Santo | 2023 | Especialistas da área cultural com experiência comprovada | 7.6 |
+| 24_editais_especificos_6.txt | Edital de seleção de projetos n°. 11/2023 | Espírito Santo | 2023 | Especialistas da área cultural com experiência comprovada | 7.6 |
+| 24_editais_especificos_7.txt | Edital de seleção de projetos n°. 12/2023 | Espírito Santo | 2023 | Especialistas da área cultural com experiência comprovada | 7.6 |
+| 24_editais_especificos_8.txt | Edital de seleção de projetos nº°. 13/2023 | Espírito Santo | 2023 | Especialistas da área cultural com experiência comprovada | 7.6 |
+```

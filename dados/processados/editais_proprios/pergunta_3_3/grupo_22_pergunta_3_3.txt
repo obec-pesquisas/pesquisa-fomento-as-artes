@@ -1,0 +1,5 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 9_editais_especificos_3.txt | EDITAL – CHAMAMENTO PÚBLICO ENCONTRO NORDESTINO DE CULTURA/2023 PARA SELEÇÃO DE ATRAÇÕES ARTÍSTICAS | Sergipe | 2023 | Não encontrado | O edital especifica os valores de cachê por categoria (trios, artistas solo, bandas, grupos folclóricos, etc.) no item 7, mas não apresenta um valor total destinado às artes. |
+```

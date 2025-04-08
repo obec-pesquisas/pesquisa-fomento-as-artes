@@ -1,0 +1,21 @@
+Quais os tipos de ações culturais previstas no edital? Escolha uma ou mais das opções abaixo:
+
+* Apresentação
+* Atividades de mediação
+* Atividades de reflexão
+* Aquisição de bens e serviços culturais
+* Circulação
+* Exibição
+* Intercâmbio nacional
+* Intercâmbio internacional
+* Plano de atividades - manutenção de espaços e ambientes culturais
+* Plano de atividades - manutenção de grupos e coletivos
+* Preservação de acervos
+* Formação (curso, oficina, workshop, residência, intercâmbio, etc)
+* Pesquisa
+* Realização de eventos calendarizados
+ * Eventos e ações temporárias (evento, festival, mostra, feira, caravana, circuito, intervenção urbana, etc)
+* Criação artística e cultural
+* Produção artística material ou digital (obra, produto, publicação, instalação artística, etc)
+* Residência
+* Outra(s). Especifique:

@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 24_editais_especificos_9.txt | EDITAL DE SELEÇÃO DE PROJETOS Nº. 14/2023 | Espírito Santo | 2023 | Não encontrado | O edital não especifica o número de propostas previstas por linguagem artística. |
+| 25_editais_especificos_1.txt | EDITAL DE CONCURSO PÚBLICO Nº 30/2023 | Santa Catarina | 2023 | Não encontrado | O edital não especifica o número de propostas previstas por linguagem artística. |
+| 26_editais_especificos_1.txt | Edital Sedac nº 03/2023 | Rio Grande do Sul | 2023 | Não encontrado | O edital não especifica o número de propostas previstas por linguagem artística. |
+| 2_editais_especificos_1.txt | EDITAL Nº 007/2023 | Bahia | 2023 | Não encontrado | O edital não especifica o número de propostas previstas por linguagem artística. |
+| 2_editais_especificos_10.txt | EDITAL N° 006/2023 | Bahia | 2023 | Artes Visuais: 0; Audiovisual: 0; Circo: 1; Dança: 1; Literatura: 1; Música: 1; Teatro: 1; Artes integradas: 0; Linguagem não especificada: 0; Outras linguagens: 4 | 1.1 |
+```

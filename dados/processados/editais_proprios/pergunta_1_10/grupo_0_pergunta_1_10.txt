@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 10_editais_especificos_1.txt | EDITAL N° 001/2023 | Acre | 2023 | Pessoa Física (a própria pessoa a ser contemplada) | 1. O objeto deste Edital é o credenciamento de pessoas físicas |
+| 10_editais_especificos_2.txt | EDITAL DE FOMENTO E INCENTIVO À CULTURA (ARTE E PATRIMÔNIO) 02/2023 | Acre | 2023 | Pessoa Física (a própria pessoa a ser contemplada); Pessoa Física (representando coletivos culturais despersonalizados juridicamente); Pessoa jurídica sem fins lucrativos (Organização da sociedade civil) | Será admitida uma inscrição por proponente, PESSOAS FÍSICAS, GRUPOS INFORMAIS e PESSOAS JURÍDICAS; c) Pessoa Jurídica: de natureza cultural, sem fins lucrativos |
+| 10_editais_especificos_3.txt | EDITAL 003/2023 | Acre | 2023 | Pessoa Física (a própria pessoa a ser contemplada) | Art. 5° - Poderão inscrever-se no EDITAL N° 03/2023 – PRÊMIO DE FORTALECIMENTO DA CULTURA DOS POVOS ORIGINARIOS PESSOAS FISICAS INDIGENAS |
+| 10_editais_especificos_4.txt | EDITAL DE FOMENTO A ENTIDADES ARTISTICO-CULTURAL - 04/2023 | Acre | 2023 | Pessoa jurídica sem fins lucrativos (Organização da sociedade civil) | Será admitida uma inscrição por proponente pessoa jurídica das entidades associativas representativas de áreas ou de segmentos culturais todos sem fins lucrativos |
+| 10_editais_especificos_5.txt | EDITAL N°. 05/2023 | Acre | 2023 | Pessoa Física (a própria pessoa a ser contemplada) | Poderão inscrever-se no Edital Prêmio Mestres da Cultura Popular do Estado do Acre: pessoas físicas |
+```

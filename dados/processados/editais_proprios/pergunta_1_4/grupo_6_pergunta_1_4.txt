@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 20_editais_especificos_6.txt | EDITAL DE LICITAÇÃO/MODALIDADE CONCURSO FOMENTO À CULTURA DIGITAL E JOGOS 6/2023 | Goiás | 2023 | Apoiar propostas culturais de Promoção da Cultura Digital e Jogos. | 1.1 |
+| 20_editais_especificos_7.txt | EDITAL DE LICITAÇÃO/MODALIDADE CONCURSO FOMENTO À DANÇA 7/2023 | Goiás | 2023 | Apoiar propostas culturais de Circulação de Espetáculos de Dança – Nacional e Regional e Manutenção das atividades de grupos, companhias e coletivos de dança com, no mínimo, 5 (anos) anos ininterruptos de atuação constituída e comprovada. | 1.1 |
+| 20_editais_especificos_8.txt | EDITAL DE LICITAÇÃO/MODALIDADE CONCURSO FOMENTO AOS FESTIVAIS E EVENTOS 8/2023 | Goiás | 2023 | Apoiar propostas culturais de Festivais, Eventos e Musicais. | 1.1 |
+| 20_editais_especificos_9.txt | EDITAL DE LICITAÇÃO/MODALIDADE CONCURSO FOMENTO AO HIP-HOP 9/2023 | Goiás | 2023 | Apoiar propostas culturais de Promoção da Cultura Hip-Hop, Eventos e Manutenção de Crews de B.Boys/B.Girls. | 1.1 |
+| 21_editais_especificos_1.txt | EDITAL PROAC N° 05/2023 | São Paulo | 2023 | Apoiar financeiramente projetos que tenham por objeto à realização e temporada de ações inéditas no campo da Performance com ênfase em artes da cena, exceto para o público infanto-juvenil, a serem realizadas por proponentes domiciliados no Estado de São Paulo. | 1.1 |
+```

@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 4_editais_especificos_1.txt | EDITAL DE CREDENCIAMENTO № 001/2023 – SECMA | Maranhão | 2023 | Artes Cênicas; BUMBA MEU BOI; CORDEL E REPENTE; DANÇAS REGIONAIS; FORRÓ PÉ DE SERRA; GRUPO ALTERNATIVO; TAMBOR DE CRIOULA | 3.1.1; 3.1.3; 3.1.4; 3.1.5; 3.1.6; 3.1.7; 3.1.8 |
+| 5_editais_especificos_1.txt | EDITAL Nº 001/2023 DE CHAMAMENTO PÚBLICO PARA CONCESSÃO DE APOIO A INICIATIVAS DE CIRCULAÇÃO ARTÍSTICA | Paraíba | 2023 | Música; Dança; Circo; Teatro; Artes Visuais; Fotografia; Histórias em Quadrinhos; Literatura; Audiovisual; Artesanato; Capoeira; Hip Hop; Gastronomia; Moda; expressões das culturas tradicionais e originárias (ciganas, indígenas e quilombolas) | 3.6 |
+| 5_editais_especificos_2.txt | EDITAL Nº 018/2023 DE CHAMAMENTO PÚBLICO PARA CONCESSÃO DE FOMENTO ÀS MOSTRAS E FESTIVAIS DE AUDIOVISUAL | Paraíba | 2023 | Não encontrado | O edital não lista categorias temáticas específicas, apenas que o fomento é para projetos de mostras e festivais de cinema realizados em território paraibano. |
+| 5_editais_especificos_3.txt | EDITAL Nº 004/2023 DE CHAMAMENTO PÚBLICO PARA SELEÇÃO DE PROJETOS CULTURAIS DENTRO DO “PROGRAMA ICMS CULTURAL” | Paraíba | 2023 | Ópera; produção audiovisual; Arquivo, Museu, Patrimônio e Memória; Artes Integradas; Culturas Digitais; Artes Visuais; Circo; Dança; Teatro; patrimônio histórico material e imaterial, literatura, cultura afro-brasileira, cultura popular, povos indígenas, povos ciganos, comunidade quilombolas, comunidades tradicionais de matriz africana ou de terreiro, capoeira, artesanato, fotografia, grafite, Economia Criativa e Solidária; Formação e Pesquisa na área Cultural; Biblioteca; Música | 1.2.2 |
+| 6_editais_especificos_1.txt | EDITAL DO 1º PRÊMIO TRAJETÓRIAS EM DANÇA MÔNICA JAPIASSU - 2023 | Pernambuco | 2023 | Outra(s). Especifique: Dança | 1.1; 1.3; 6.1 |
+```

@@ -1,0 +1,5 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 9_editais_especificos_3.txt | ENCONTRO NORDESTINO DE CULTURA/2023 | Sergipe | 2023 | Organização do projeto, documentação do (a) proponente, portfólio, atualização de dados; Análise e avaliação do portfólio; Apresentação de material artístico em áudio e vídeo; Apresentação de notas fiscais anexada à programação do evento realizado. | 5.4 |
+```

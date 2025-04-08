@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 21_editais_especificos_15.txt | EDITAL PROAC N° 36/2023 | São Paulo | 2023 | Pontual (apoio concedido uma única vez a um projeto, ação ou instituição) | 1.1 |
+| 21_editais_especificos_16.txt | EDITAL PROAC N° 37/2023 | São Paulo | 2023 | Pontual (apoio concedido uma única vez a um projeto, ação ou instituição) | 1.1 |
+| 21_editais_especificos_17.txt | EDITAL PROAC N° 38/2023 | São Paulo | 2023 | Pontual (apoio concedido uma única vez a um projeto, ação ou instituição) | 1.1 |
+| 21_editais_especificos_19.txt | EDITAL PROAC N° 39/2023 | São Paulo | 2023 | Pontual (apoio concedido uma única vez a um projeto, ação ou instituição) | 1.1 |
+| 21_editais_especificos_2.txt | EDITAL PROAC N° 06/2023 | São Paulo | 2023 | Pontual (apoio concedido uma única vez a um projeto, ação ou instituição) | 1.1 |
+```

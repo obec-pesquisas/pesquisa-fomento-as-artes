@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 21_editais_especificos_25.txt | EDITAL PROAC N° 04/2023 | São Paulo | 2023 | Dança: 1700000,00 | 2.2; Título do edital; I. OBJETO DESTE CONCURSO; 1.1 |
+| 21_editais_especificos_3.txt | EDITAL PROAC N° 07/2023 | São Paulo | 2023 | Não encontrado | O edital especifica o tema "PÚBLICO INFANTO-JUVENIL", mas não a linguagem artística. |
+| 21_editais_especificos_4.txt | EDITAL PROAC N° 08/2023 | São Paulo | 2023 | Circo: 1400000,00 | 2.2; Título do edital; I. OBJETO DESTE CONCURSO; 1.1 |
+| 21_editais_especificos_5.txt | EDITAL PROAC N° 09/2023 | São Paulo | 2023 | Circo: 600000,00 | 2.2; Título do edital; I. OBJETO DESTE CONCURSO; 1.1 |
+| 21_editais_especificos_6.txt | EDITAL PROAC N° 10/2023 | São Paulo | 2023 | Circo: 1000000,00 | 2.2; Título do edital; I. OBJETO DESTE CONCURSO; 1.1 |
+```

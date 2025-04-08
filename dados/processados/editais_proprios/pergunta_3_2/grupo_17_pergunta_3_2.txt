@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 2_editais_especificos_2.txt | EDITAL N° 003/2023 Diálogos Artísticos - Bicentenário da Independência na Bahia | Bahia | 2023 | Não encontrado | O edital não especifica as linguagens artísticas abarcadas. |
+| 2_editais_especificos_3.txt | CHAMAMENTO PÚBLICO/CONVOCATÓRIA PARA INSCRIÇÃO NAS OFICINAS DO PROJETO ESCRITAS EM TRÂNSITO 2023 | Bahia | 2023 | Literatura | 1; 2.1 |
+| 2_editais_especificos_4.txt | CHAMAMENTO PÚBLICO – Bicentenário da Independência do Brasil na Bahia 1823-2023 | Bahia | 2023 | Música | SEÇÃO B - DISPOSIÇÕES ESPECÍFICAS (REGULAMENTO) |
+| 2_editais_especificos_5.txt | EDITAL N° 004/2023 - Prêmio Nacional de Fotografia Pierre Verger - 9º Edição | Bahia | 2023 | Artes Visuais | O edital trata de fotografia, que é uma forma de arte visual. |
+| 2_editais_especificos_6.txt | Edital nº 001/2023- Qualificação no Circo | Bahia | 2023 | Circo | O edital menciona a Coordenação de Artes Circenses e a linguagem do Circo. |
+```

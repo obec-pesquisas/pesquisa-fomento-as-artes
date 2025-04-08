@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 2_editais_especificos_2.txt | EDITAL N° 003/2023 Diálogos Artísticos - Bicentenário da Independência na Bahia | Bahia | 2023 | Não encontrado | O edital especifica o valor total dos recursos disponíveis, mas não detalha a distribuição por categorias ou faixas. |
+| 2_editais_especificos_3.txt | Chamamento Público/Convocatória para Inscrição nas Oficinas do projeto Escritas em Trânsito 2023 | Bahia | 2023 | Não encontrado | O edital não apresenta distribuição de recursos, tratando-se de um chamamento para oficinas. |
+| 2_editais_especificos_4.txt | CHAMAMENTO PÚBLICO – Bicentenário da Independência do Brasil na Bahia 1823-2023 | Bahia | 2023 | R$12.000,00 (doze mil reais) por banda filarmônica | Seção A, item I; Seção B, item 1.3 |
+| 2_editais_especificos_5.txt | EDITAL N° 004/2023 - Prêmio Nacional de Fotografia Pierre Verger - 9º Edição | Bahia | 2023 | R$ 30.000,00 (trinta mil reais) para cada um dos 03 (três) ensaios fotográficos premiados; R$ 2.500,00 (dois mil e quinhentos reais) de ajuda de custo para cada um dos (as) 12 (doze) selecionados (as). | 1.4; 1.7 |
+| 2_editais_especificos_6.txt | Edital nº 001/2023- Qualificação no Circo | Bahia | 2023 | R$ 20.000,00 (vinte mil reais) para a categoria Circo de Lona; R$ 5.000,00 (cinco mil reais) para a categoria Formação em Circo. | 2.1 |
+```

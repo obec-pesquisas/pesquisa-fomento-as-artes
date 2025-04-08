@@ -1,0 +1,1 @@
+Qual o valor máximo previsto para cada proposta no edital? Inclua apenas dígitos e vírgula em sua resposta. Não inclua ponto, não inclua "R$".

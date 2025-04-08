@@ -1,0 +1,14 @@
+Qual o número de propostas previstas para as artes a serem contempladas no edital? Separe os valores de cada linguagem artística por ponto e vírgula. Por exemplo: artes visuais: 42; audiovisual: 42; circo: 42; dança: 42; literatura: 42; música: 42; teatro: 42; teatro: 42; artes integradas: 42; linguagem não especificada: 42; outras linguagens: 42.
+
+Estas são as linguagens artístiicas:
+
+* Artes Visuais
+* Audiovisual
+* Circo
+* Dança
+* Literatura
+* Música
+* Teatro
+* Artes integradas
+* Linguagem não especificada
+* Outras linguagens

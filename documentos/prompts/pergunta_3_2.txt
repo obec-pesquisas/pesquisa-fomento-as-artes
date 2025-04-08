@@ -1,0 +1,12 @@
+Quais foram as linguagens artísticas abarcadas pelo edital? Escolha uma ou mais das opções abaixo:
+
+* Artes Visuais
+* Audiovisual
+* Circo
+* Dança
+* Literatura
+* Música
+* Teatro
+* Artes integradas
+* Linguagem não especificada
+* Outra(s). Especifique:

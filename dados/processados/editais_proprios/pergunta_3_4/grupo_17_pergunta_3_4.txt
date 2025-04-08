@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 2_editais_especificos_2.txt | EDITAL N° 003/2023 | Bahia | 2023 | Linguagem não especificada: 3.296.000,00 | 2.2 |
+| 2_editais_especificos_3.txt | CHAMAMENTO PÚBLICO/CONVOCATÓRIA PARA INSCRIÇÃO NAS OFICINAS DO PROJETO ESCRITAS EM TRÂNSITO 2023 | Bahia | 2023 | Literatura: valor não especificado | Não encontrado |
+| 2_editais_especificos_4.txt | CHAMAMENTO PÚBLICO – Bicentenário da Independência do Brasil na Bahia 1823-2023 | Bahia | 2023 | Música: 120.000,00 | IX; 1 |
+| 2_editais_especificos_5.txt | EDITAL N° 004/2023 - Prêmio Nacional de Fotografia Pierre Verger - 9º Edição | Bahia | 2023 | Artes Visuais: valor não especificado | Não é possível determinar o valor total destinado à linguagem "Artes Visuais" apenas com a informação disponível no edital. |
+| 2_editais_especificos_6.txt | Edital nº 001/2023- Qualificação no Circo | Bahia | 2023 | Circo: 75.000,00 | 2.2 |
+```

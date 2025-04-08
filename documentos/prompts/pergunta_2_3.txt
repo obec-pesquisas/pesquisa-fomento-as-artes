@@ -1,0 +1,4 @@
+Qual a duração do apoio prevista no edital? Escolha apenas uma das opções abaixo:
+
+* Pontual (apoio concedido uma única vez a um projeto, ação ou instituição)
+* Continuado (apoio concedido por mais de uma vez, em diferentes anos fiscais)

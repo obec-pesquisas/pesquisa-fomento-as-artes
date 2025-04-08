@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 2_editais_especificos_7.txt | EDITAL DE CHAMAMENTO PÚBLICO N° 02/2023 | Bahia | 2023 | Não encontrado | Não encontrado |
+| 2_editais_especificos_8.txt | EDITAL DE CHAMAMENTO PÚBLICO Nº 03/2023 | Bahia | 2023 | Não encontrado | Não encontrado |
+| 2_editais_especificos_9.txt | EDITAL N° 001/2023 | Bahia | 2023 | Não encontrado | Não encontrado |
+| 3_editais_especificos_1.txt | XVII EDITAL CEARÁ DA PAIXÃO – 2023 | Ceará | 2023 | Cultura Popular; Culturas Tradicionais e Saberes Populares; Outra(s). Especifique: Espetáculo Cênico da Paixão de Cristo; Manifestação Tradicional Popular; Manifestação Tradicional Popular - Queima de Judas; Culturas Camponesas | 1.1, 2.1, 2.3, 2.4, 2.5 |
+| 3_editais_especificos_2.txt | XVIII EDITAL CEARÁ CICLO NATALINO PARA GRUPOS – 2023 | Ceará | 2023 | Cultura Popular; Culturas Tradicionais e Saberes Populares; Outra(s). Especifique: Grupos de Tradição Natalina; Grupos de Projeção Folclórica (Parafolclórico); Presépios; Grupos de Culturas Camponesas; Tesouros vivos titulados da tradição natalina | 1.1, 2.1 |
+```

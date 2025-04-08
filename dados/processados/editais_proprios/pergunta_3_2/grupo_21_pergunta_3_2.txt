@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 6_editais_especificos_2.txt | EDITAL DO PRÊMIO PALHAÇO CASCUDO DE INCENTIVO ÀS ARTES CIRCENSES – 2023 | Pernambuco | 2023 | Circo | 2.1 |
+| 7_editais_especificos_2.txt | RESOLUÇÃO Nº 01/2023 | Piauí | 2023 | Audiovisual; Artes cênicas; Artes visuais; Cultura Popular; Humanidades; Música; Patrimônio Cultural Material e Imaterial; Artes Integradas | Art. 1º |
+| 8_editais_especificos_1.txt | Edital N° 01/2023 | Rio Grande do Norte | 2023 | Audiovisual | 1.1 |
+| 9_editais_especificos_1.txt | EDITAL N° 001/2022-CEC | Sergipe | 2022 | Linguagem não especificada | 1.3 |
+| 9_editais_especificos_2.txt | EDITAL DO VI FESTIVAL SERGIPANO DE ARTES CÊNICAS E DIVERSIDADE CULTURAL | Sergipe | 2023 | Circo; Dança; Música; Teatro | 4.1 |
+```

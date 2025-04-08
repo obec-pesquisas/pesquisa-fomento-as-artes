@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 22_editais_especificos_11.txt | EDITAL DE CONCURSO N° 005/2023 - FUNARJ | Rio de Janeiro | 2023 | Não especificado | Não encontrado |
+| 22_editais_especificos_2.txt | EDITAL DE CHAMADA EMERGENCIAL DE CREDENCIAMENTO N° 02/2023 | Rio de Janeiro | 2023 | Indutores de pontuação por local de realização da ação cultural (atribuição de pontos adicionais na seleção para ações a serem em determinadas regiões) | 5.4 |
+| 22_editais_especificos_3.txt | EDITAL DE CHAMADA EMERGENCIAL DE CREDENCIAMENTO N° 04/2023 | Rio de Janeiro | 2023 | Indutores de pontuação por local de realização da ação cultural (atribuição de pontos adicionais na seleção para ações a serem em determinadas regiões) | 5.4 |
+| 22_editais_especificos_4.txt | EDITAL DE CHAMADA DE PREMIAÇÃO Nº 03/2023 | Rio de Janeiro | 2023 | Não especificado | Não encontrado |
+| 22_editais_especificos_5.txt | EDITAL DE CREDENCIAMENTO N°24/2023 | Rio de Janeiro | 2023 | Indutores de pontuação por origem (atribuição de pontos adicionais na seleção para pessoas ou groups provenientes de determinadas regiões) | 4.5 |
+```

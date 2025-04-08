@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 23_editais_especificos_18.txt | EDITAL FEC 02/2023 | Minas Gerais | 2023 | Critérios técnicos; Critérios de fomento | Seção 5 |
+| 23_editais_especificos_19.txt | EDITAL FEC 03/2023 | Minas Gerais | 2023 | Critérios Técnicos; Critérios de fomento | Seção 5.1 |
+| 24_editais_especificos_1.txt | EDITAL DE SELEÇÃO DE PROPOSTAS ARTÍSTICAS PARA O PARQUE DE ESCULTURAS DO PARQUE CULTURAL CASA DO GOVERNADOR, VILA VELHA-ES N° 01/2023 | Espírito Santo | 2023 | Qualidade, originalidade, relevância e inovação do projeto; Adequação técnica; Potencial de impacto no cenário artístico e cultural e efeito multiplicador; Acessibilidade do projeto ao público; Adequação da proposta orçamentária e viabilidade do projeto; Potencial de realização do proponente e da equipe envolvida no projeto; Conjunto de obras, regularidade e qualidade da produção do artista | Seção 10.1 |
+| 24_editais_especificos_2.txt | EDITAL DE SELEÇÃO DE PROJETOS n02/2023 | Espírito Santo | 2023 | Relevância da proposta a ser apresentada; Relevância do evento/instituição no campo artístico-cultural em que se insere; Currículo do proponente e de todos que solicitarem locomoção; Projeção e relevância da produção cultural do ES | Seção 8.1 |
+| 24_editais_especificos_3.txt | Edital de seleção de projetos nº. 07/2023 | Espírito Santo | 2023 | Relevância da trajetória; Manutenção das atividades do Circo; Consistência do plano de utilização do prêmio; Acessibilidade | Seção 8.1 |
+```

@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 2_editais_especificos_7.txt | EDITAL DE CHAMAMENTO PÚBLICO N° 02/2023 | Bahia | 2023 | Termo de Fomento | 1, 6.1, 7.1, 14.1, 21, 26.2 |
+| 2_editais_especificos_8.txt | EDITAL DE CHAMAMENTO PÚBLICO Nº 03/2023 | Bahia | 2023 | Termo de Fomento; Termo de Acordo e Compromisso – TAC | 3, 4.1, 7.3, 8.1, 9.1, 15.2, 16.2, 26.2 |
+| 2_editais_especificos_9.txt | EDITAL N° 001/2023 | Bahia | 2023 | Termo de Acordo e Compromisso – TAC | 7.1, 7.4, 7.5, 8.3, 8.4, 8.5, 8.7 |
+| 3_editais_especificos_1.txt | XVII EDITAL CEARÁ DA PAIXÃO – 2023 | Ceará | 2023 | Termo de Execução Cultural | 1, 8.1, 11.1, 13.1 |
+| 3_editais_especificos_2.txt | XVIII EDITAL CEARÁ CICLO NATALINO PARA GRUPOS – 2023 | Ceará | 2023 | Termo de Execução Cultural | 1, 11.1 |
+```

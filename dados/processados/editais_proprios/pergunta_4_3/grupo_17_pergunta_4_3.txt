@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 2_editais_especificos_2.txt | EDITAL N° 003/2023 Diálogos Artísticos - Bicentenário da Independência na Bahia | Bahia | 2023 | Não encontrado | O edital não especifica categorias temáticas, apenas o tema geral do Bicentenário da Independência na Bahia. |
+| 2_editais_especificos_3.txt | Chamamento Público/Convocatória para Inscrição nas Oficinas do projeto Escritas em Trânsito 2023 | Bahia | 2023 | Não encontrado | O edital não especifica categorias temáticas. O edital trata de oficinas de escrita literária. |
+| 2_editais_especificos_4.txt | CHAMAMENTO PÚBLICO - Bicentenário da Independência do Brasil na Bahia 1823 - 2023 | Bahia | 2023 | Não encontrado | O edital não especifica categorias temáticas. O edital tem como objeto a seleção de bandas filarmônicas para o desfile cívico do Dois de Julho. |
+| 2_editais_especificos_5.txt | EDITAL N° 004/2023 - Prêmio Nacional de Fotografia Pierre Verger - 9º Edição | Bahia | 2023 | Ancestralidade e Representação; Questões Históricas; Livre Temática e Técnica | 1.1 |
+| 2_editais_especificos_6.txt | Edital nº 001/2023 - Qualificação no Circo | Bahia | 2023 | Não encontrado | O edital não especifica categorias temáticas como listado na pergunta. |
+```

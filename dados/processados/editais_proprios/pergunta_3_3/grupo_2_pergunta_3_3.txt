@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 18_editais_especificos_5.txt | EDITAL DE CHAMAMENTO PÚBLICO N° 20/2023 | Distrito Federal | 2023 | 6330000,00 | 3.1 |
+| 1_editais_especificos_1.txt | EDITAL N° 01/2023 | Alagoas | 2023 | 775000,00 | 3.2 |
+| 1_editais_especificos_2.txt | EDITAL N° 02/2023 | Alagoas | 2023 | Não encontrado | Não há menção de um valor total destinado às artes. |
+| 1_editais_especificos_3.txt | EDITAL N° 03/2023 | Alagoas | 2023 | 1000000,00 | 6.2 |
+| 1_editais_especificos_4.txt | EDITAL N° 04/2023 | Alagoas | 2023 | Não encontrado | Não se trata de um edital de destinação de recursos financeiros para projetos artísticos, mas sim de inscrição no Registro do Patrimônio Vivo. |
+```

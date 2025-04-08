@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 4_editais_especificos_1.txt | EDITAL DE CREDENCIAMENTO № 001/2023 – SECMA | Maranhão | 2023 | ARTES CÊNICAS: R$ 2.500,00; BANDA / SHOW: R$ 5.000,00; BUMBA MEU BOI Categoria A: R$ 7.000,00; BUMBA MEU BOI Categoria B: R$ 6.000,00; BUMBA MEU BOI Categoria C: R$ 5.000,00; CORDEL E REPENTE: R$ 1.500,00; DANÇAS REGIONAIS: R$ 5.000,00; FORRÓ PÉ DE SERRA: R$ 3.000,00; GRUPO ALTERNATIVO: R$ 7.000,00; TAMBOR DE CRIOULA: R$ 3.000,00 | 14.2 |
+| 5_editais_especificos_1.txt | EDITAL Nº 001/2023 | Paraíba | 2023 | Apoio a iniciativas regionais: R$ 2.000,00; Apoio a iniciativas nacionais: R$ 3.000,00; Apoio a iniciativas internacionais: R$ 7.000,00 | 5.1.1; 5.1.2; 5.1.3 |
+| 5_editais_especificos_2.txt | EDITAL Nº 018/2023 | Paraíba | 2023 | Projetos de mostras ou festivais com histórico de realização: R$ 50.000,00; Projetos de mostras ou festivais estreantes: R$ 25.000,00 | 5.1.1; 5.1.2 |
+| 5_editais_especificos_3.txt | EDITAL Nº 004/2023 | Paraíba | 2023 | Não encontrado | O edital não especifica a distribuição de recursos por categorias ou faixas, apenas o valor total disponível para o programa. |
+| 6_editais_especificos_1.txt | EDITAL DO 1º PRÊMIO TRAJETÓRIAS EM DANÇA MÔNICA JAPIASSU - 2023 | Pernambuco | 2023 | CATEGORIA 1 / FAIXA 1: R$10.500,00; CATEGORIA 1 / FAIXA 2: R$13.000,00; CATEGORIA 2 / FAIXA 1: R$7.000,00; CATEGORIA 2 / FAIXA 2: R$9.550,00 | 1.2 |
+```

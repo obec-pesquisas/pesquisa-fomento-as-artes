@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 20_editais_especificos_15.txt | EDITAL DE LICITAÇÃO/MODALIDADE CONCURSO FOMENTO AO TEATRO 16/2023 | Goiás | 2023 | Circulação Nacional: R$ 80 mil; Circulação Regional: R$ 40 mil; Grupos, companhias e/ou coletivos com 5 ou mais integrantes: R$ 100 mil; Grupos, companhias e/ou coletivos com até 4 integrantes: R$ 50 mil | Anexo I |
+| 20_editais_especificos_2.txt | EDITAL DE LICITAÇÃO/MODALIDADE CONCURSO FOMENTO ÀS ARTES VISUAIS 2/2023 | Goiás | 2023 | Exposição individual ou coletiva: R$ 35 mil; Exposição individual ou coletiva: R$ 72.500,00 | Anexo I |
+| 20_editais_especificos_3.txt | EDITAL DE LICITAÇÃO/MODALIDADE CONCURSO FOMENTO AO ARTESANATO 3/2023 | Goiás | 2023 | Feiras de Artesanato: R$ 75 mil; Aperfeiçoamentos da produção artesanal, por meio de aquisição de insumos ou participação em feiras de artesanato: R$ 25 mil | Anexo I |
+| 20_editais_especificos_4.txt | EDITAL DE LICITAÇÃO/MODALIDADE CONCURSO FOMENTO AO AUDIOVISUAL 4/2023 | Goiás | 2023 | Criação de cineclubes: R$ 25 mil; Desenvolvimento de roteiros de longa-metragens ficcionais ou de animação: R$ 35 mil; Desenvolvimento de roteiros de longa-metragens documentais: R$ 25 mil; Produção e finalização de curta- metragem ficcional ou de animação: R$ 80 mil; Produção e finalização de curta- metragem documental ou experimental: R$ 50 mil | Anexo I |
+| 20_editais_especificos_5.txt | EDITAL DE LICITAÇÃO/MODALIDADE CONCURSO FOMENTO AO CIRCO 5/2023 | Goiás | 2023 | Circulação de espetáculos de circo: R$ 50 mil; Circulação de número circense: R$ 25 mil; Famílias de circo, grupos, trupes ou coletivos de circo: R$ 100 mil | Anexo I |
+```

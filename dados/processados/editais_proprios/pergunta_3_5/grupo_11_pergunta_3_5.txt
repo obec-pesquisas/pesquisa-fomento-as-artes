@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 21_editais_especificos_7.txt | EDITAL PROAC N° 11/2023 | São Paulo | 2023 | Não encontrado | O edital especifica o apoio financeiro a projetos de circo, mas não menciona um número de propostas previstas. |
+| 21_editais_especificos_8.txt | EDITAL PROAC N° 12/2023 | São Paulo | 2023 | Não encontrado | O edital especifica o apoio financeiro a projetos de Artes Visuais, mas não menciona um número de propostas previstas. |
+| 21_editais_especificos_9.txt | EDITAL PROAC N° 13/2023 | São Paulo | 2023 | Não encontrado | O edital especifica o apoio financeiro a projetos de Artes Visuais, mas não menciona um número de propostas previstas. |
+| 22_editais_especificos_1.txt | EDITAL DE CHAMADA EMERGENCIAL DE PREMIAÇÃO Nº 01/2023 | Rio de Janeiro | 2023 | Não encontrado | O edital menciona categorias como projetos literários e redes de bibliotecas comunitárias, mas não especifica o número de propostas previstas para as artes listadas na pergunta. |
+| 22_editais_especificos_10.txt | EDITAL DE CONCURSO N° 002/2023 – FUNARJ | Rio de Janeiro | 2023 | Artes Visuais: Não encontrado; Audiovisual: Não encontrado; Circo: Não encontrado; Dança: 15; Literatura: Não encontrado; Música: 15; Teatro: Não encontrado; Artes integradas: Não encontrado; Linguagem não especificada: Não encontrado; Outras linguagens: Não encontrado | 1.2.1: O edital especifica 15 projetos para Dança e 15 para Música. Não há informações sobre as outras linguagens artísticas. |
+```

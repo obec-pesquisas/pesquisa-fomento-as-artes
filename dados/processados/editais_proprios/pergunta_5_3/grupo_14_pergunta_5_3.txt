@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 23_editais_especificos_18.txt | EDITAL FEC 02/2023 | Minas Gerais | 2023 | Não especificado | O edital não especifica a composição da comissão avaliadora. |
+| 23_editais_especificos_19.txt | EDITAL FEC 03/2023 | Minas Gerais | 2023 | Não especificado | O edital não especifica a composição da comissão avaliadora. |
+| 24_editais_especificos_1.txt | EDITAL DE SELEÇÃO DE PROPOSTAS ARTÍSTICAS PARA O PARQUE DE ESCULTURAS DO PARQUE CULTURAL CASA DO GOVERNADOR, VILA VELHA-ES N° 01/2023 | Espírito Santo | 2023 | Especialistas da área cultural com experiência comprovada | 9.1 A seleção dos projetos inscritos será feita por uma COMISSÃO JULGADORA, designada pelo Secretário de Estado da Cultura, que será composta por, no mínimo, 03 (três) membros de reconhecida idoneidade e notório conhecimento na área cultural ou artística pertinente ao objeto do presente Edital, um dos quais presidirá a Comissão. |
+| 24_editais_especificos_2.txt | EDITAL DE SELEÇÃO DE PROJETOS n02/2023 | Espírito Santo | 2023 | Não especificado | O edital não especifica a composição da comissão avaliadora, apenas que será nomeada pelo Secretário de Estado da Cultura (7.2). |
+| 24_editais_especificos_3.txt | Edital de seleção de projetos nº. 07/2023 | Espírito Santo | 2023 | Não especificado | O edital não especifica a composição da comissão avaliadora, apenas que será nomeada pelo Secretário de Estado da Cultura (7.6). |
+```

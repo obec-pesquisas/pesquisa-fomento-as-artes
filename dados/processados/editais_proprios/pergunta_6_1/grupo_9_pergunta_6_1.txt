@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 21_editais_especificos_20.txt | EDITAL PROAC N° 42/2023 | São Paulo | 2023 | Gratuidade em no mínimo 10% de todas as atividades/apresentações propostas.; No mínimo 01 (uma) atividade de formação ou capacitação.; Participação em ações e programas desta Secretaria, com a atividade cultural viabilizada a partir deste Concurso. | 5.6.1.7 |
+| 21_editais_especificos_21.txt | EDITAL PROAC N° 43/2023 | São Paulo | 2023 | Gratuidade em no mínimo 10% de todas as atividades/apresentações propostas.; No mínimo 01 (uma) atividade de formação ou capacitação.; Participação em ações e programas desta Secretaria, com a atividade cultural viabilizada a partir deste Concurso. | 5.6.1.7 |
+| 21_editais_especificos_22.txt | EDITAL PROAC N° 01/2023 | São Paulo | 2023 | Gratuidade em no mínimo 10% de todas as atividades/apresentações propostas.; No mínimo 01 (uma) atividade de formação ou capacitação.; Participação em ações e programas desta Secretaria, com a atividade cultural viabilizada a partir deste Concurso. | 5.6.1.7 |
+| 21_editais_especificos_23.txt | EDITAL PROAC N° 02/2023 | São Paulo | 2023 | Gratuidade em no mínimo 10% de todas as atividades/apresentações propostas.; No mínimo 01 (uma) atividade de formação ou capacitação.; Participação em ações e programas desta Secretaria, com a atividade cultural viabilizada a partir deste Concurso. | 5.6.1.6 |
+| 21_editais_especificos_24.txt | EDITAL PROAC N° 03/2023 | São Paulo | 2023 | Gratuidade em no mínimo 10% de todas as atividades/apresentações propostas.; No mínimo 01 (uma) atividade de formação ou capacitação.; Participação em ações e programas desta Secretaria, com a atividade cultural viabilizada a partir deste Concurso. | 5.6.1.7 |
+```

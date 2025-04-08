@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 6_editais_especificos_2.txt | EDITAL DO PRÊMIO PALHAÇO CASCUDO DE INCENTIVO ÀS ARTES CIRCENSES – 2023 | Pernambuco | 2023 | Não encontrado | O edital não lista categorias temáticas. |
+| 7_editais_especificos_2.txt | RESOLUÇÃO Nº 01/2023 | Piauí | 2023 | Audiovisual (cinema, vídeo, rádio, tv e novas mídias); Artes cênicas (teatro, dança, circo, performance, mímica, humor, ópera); Artes visuais (pintura, escultura, fotografia, desenho, gravura, intervenção, instalação, artes digitais); Cultura Popular (folclore, mestres da cultura, quadrilhas juninas, grupos, festas e comunidades tradicionais, artesanato, culinária típica piauiense); Humanidades (Literatura e incentivo à leitura); Música (popular, erudita, instrumental, canto e coral); Patrimônio Cultural Material e Imaterial; Museus, Casas, Espaços de Cultura e Memória; Artes Integradas; Ações Formativas; Área Técnica | Art. 1º |
+| 8_editais_especificos_1.txt | Edital de Fomento Audiovisual Potiguar | Rio Grande do Norte | 2023 | Não encontrado | O edital não lista categorias temáticas além das categorias para proponentes. |
+| 9_editais_especificos_1.txt | EDITAL N° 001/2022-CEC | Sergipe | 2023 | Cultura Popular | O Certame disponibiliza 5 (cinco) vagas para o Registro da Cultura Sergipana, sendo pelo menos 3 (três), destinadas às Culturas Populares, referente ao ano de 2023. |
+| 9_editais_especificos_2.txt | EDITAL DO VI FESTIVAL SERGIPANO DE ARTES CÊNICAS E DIVERSIDADE CULTURAL | Sergipe | 2023 | Não encontrado | O edital não lista categorias temáticas além dos segmentos artísticos. |
+```

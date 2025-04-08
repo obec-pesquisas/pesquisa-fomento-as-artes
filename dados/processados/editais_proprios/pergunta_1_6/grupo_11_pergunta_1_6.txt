@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 21_editais_especificos_7.txt | EDITAL PROAC N° 11/2023 | São Paulo | 2023 | Módulo I - R$ 50.000,00; Módulo II - R$ 100.000,00 | 2.1 |
+| 21_editais_especificos_8.txt | EDITAL PROAC N° 12/2023 | São Paulo | 2023 | Módulo I - R$ 100.000,00; Módulo II R$ 200.000,00 | 2.1 |
+| 21_editais_especificos_9.txt | EDITAL PROAC N° 13/2023 | São Paulo | 2023 | Módulo I R$ 50.000,00; Módulo II - R$ 100.000,00 | 2.1 |
+| 22_editais_especificos_1.txt | EDITAL DE CHAMADA EMERGENCIAL DE PREMIAÇÃO Nº 01/2023 | Rio de Janeiro | 2023 | CATEGORIA A: 50 prêmios de R$ 50.000,00; CATEGORIA B: 20 prêmios de R$ 50.000,00; CATEGORIA C: 08 prêmios de R$ 250.000,00 | 5.1.1 |
+| 22_editais_especificos_10.txt | EDITAL DE CONCURSO N° 002/2023 – FUNARJ | Rio de Janeiro | 2023 | ARTES CÉNICAS: R$ 3.500,00; MÚSICA: R$ 3.500,00; SOLO MUSICAL: R$ 2.000,00; DANÇA: R$ 3.500,00 | 8.2 |
+```

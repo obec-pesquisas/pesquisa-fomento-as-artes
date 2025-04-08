@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 6_editais_especificos_2.txt | EDITAL DO PRÊMIO PALHAÇO CASCUDO DE INCENTIVO ÀS ARTES CIRCENSES – 2023 | Pernambuco | 2023 | FAIXA 1 - 12 (doze) prêmios de R$ 5.000,00; Faixa 2 - 12 (doze) prêmios de R$ 5.000,00; Faixa 3 - 06 (seis) prêmios de R$ 5.000,00 | 3.2 |
+| 7_editais_especificos_2.txt | RESOLUÇÃO Nº 01/2023 | Piauí | 2023 | CAPITAL – R$ 4.532.082,43; INTERIOR – R$ 5.032.100,86; GOVERNO – R$ 4.032.064,01 | Art. 5º |
+| 8_editais_especificos_1.txt | Edital de Fomento Audiovisual Potiguar | Rio Grande do Norte | 2023 | Desenvolvimento de Roteiro de Longas-metragens e Séries: 4 projetos de R$ 70.000,00; Produção de Curtas-metragens (Iniciantes): 4 projetos de R$ 55.000,00; Produção de Curtas-metragens: 4 projetos de R$ 85.000,00; Produção de Pilotos de Série: 4 projetos de R$ 80.000,00 | 2.DOS RECURSOS FINANCEIROS |
+| 9_editais_especificos_1.txt | EDITAL N° 001/2022-CEC | Sergipe | 2023 | O Certame disponibiliza 5 (cinco) vagas para o Registro da Cultura Sergipana, sendo pelo menos 3 (três), destinadas às Culturas Populares, referente ao ano de 2023, beneficiando pessoa natural ou residente no Estado de Sergipe. | Primeiro parágrafo do documento |
+| 9_editais_especificos_2.txt | EDITAL DO VI FESTIVAL SERGIPANO DE ARTES CÊNICAS E DIVERSIDADE CULTURAL | Sergipe | 2023 | CATEGORIA I: 10 vagas; CATEGORIA II: 5 vagas; CATEGORIA III: 6 vagas; CATEGORIA IV: 5 vagas; CATEGORIA V: 5 vagas; LOCUTOR CÊNICO I: 1 vaga; LOCUTOR CÊNICO II: 1 vaga | 4.2 |
+```

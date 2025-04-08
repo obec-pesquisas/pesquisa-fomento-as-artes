@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 20_editais_especificos_15.txt | EDITAL DE LICITAÇÃO/MODALIDADE CONCURSO FOMENTO AO TEATRO 16/2023 – FUNDO CULTURAL | Goiás | 2023 | Apoiar propostas culturais de Circulação de Espetáculos de Teatro - Nacional e Regional e Manutenção das atividades de grupos, companhias e coletivos de teatro com, no mínimo, 05 anos ininterruptos de atuação constituída e comprovada. | 1.1 |
+| 20_editais_especificos_2.txt | EDITAL DE LICITAÇÃO/MODALIDADE CONCURSO FOMENTO ÀS ARTES VISUAIS 2/2023 – FUNDO CULTURAL | Goiás | 2023 | Apoiar propostas culturais de Exposições de Pequeno Porte e Exposições de Grande Porte. | 1.1 |
+| 20_editais_especificos_3.txt | EDITAL DE LICITAÇÃO/MODALIDADE CONCURSO FOMENTO AO ARTESANATO 3/2023 – FUNDO CULTURAL | Goiás | 2023 | Apoiar propostas culturais de Realização de Feiras de Artesanato e Aperfeiçoamentos da produção artesanal, por meio de aquisição de insumos ou participação em feiras de artesanato. | 1.1 |
+| 20_editais_especificos_4.txt | EDITAL DE LICITAÇÃO/MODALIDADE CONCURSO FOMENTO AO AUDIOVISUAL 4/2023 – FUNDO CULTURAL | Goiás | 2023 | Apoiar propostas culturais de Criação de Cineclubes; Desenvolvimento de roteiros de longa-metragens; Produção e finalização de curta-metragem. | 1.1 |
+| 20_editais_especificos_5.txt | EDITAL DE LICITAÇÃO/MODALIDADE CONCURSO FOMENTO AO CIRCO 5/2023 – FUNDO CULTURAL | Goiás | 2023 | Apoiar propostas culturais de Circulação de Espetáculos ou Número de Circo e Manutenção das atividades de famílias de circo, grupos, trupes ou coletivos de circo com, no mínimo, 5 (cinco) anos ininterruptos de atuação constituída e comprovada em Goiás. | 1.1 |
+```

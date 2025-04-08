@@ -1,0 +1,5 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 9_editais_especificos_3.txt | ENCONTRO NORDESTINO DE CULTURA/2023 | Sergipe | 2023 | 2000,00 | 7.6; 7.7; 7.9 |
+```

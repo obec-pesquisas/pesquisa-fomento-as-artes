@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 11_editais_especificos_1.txt | EDITAL DE CHAMAMENTO PÚBLICO 001/ 2023 – SECULT | Amapá | 2023 | Vide tabela no Art. 6º | Art. 6º |
+| 17_editais_especificos_1.txt | EDITAL N. ° 002/2022 – FIC/MS | Mato Grosso do Sul | 2022 | R$ 6.400.000,00 PESSOAS FÍSICAS E PESSOAS JURÍDICAS DE DIREITO PRIVADO de natureza cultural sem fins lucrativos; R$ 1.600.000,00 PESSOAS JURÍDICAS DE DIREITO PÚBLICO, ou seja, Prefeituras ou órgãos municipais de cultura do Estado de Mato Grosso do Sul. | 2.3 |
+| 18_editais_especificos_1.txt | EDITAL DE CHAMAMENTO PÚBLICO № 08/2023 | Distrito Federal | 2023 | Não encontrado | O edital não especifica faixas ou categorias de distribuição de recursos, apenas o valor total disponível. |
+| 18_editais_especificos_2.txt | EDITAL DE CHAMAMENTO PÚBLICO № 08/2023 | Distrito Federal | 2023 | Não encontrado | O edital não especifica faixas ou categorias de distribuição de recursos, apenas o valor total disponível. |
+| 18_editais_especificos_4.txt | EDITAL DE CHAMAMENTO PÚBLICO N° 16/2023 | Distrito Federal | 2023 | Categoria A: R$7.000.000,00; Categoria B: R$ 5.000.000,00 | 3.2 |
+```

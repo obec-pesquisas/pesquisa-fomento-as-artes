@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 2_editais_especificos_2.txt | EDITAL N° 003/2023 | Bahia | 2023 | O objetivo do projeto Diálogos Artísticos Bicentenário da Independência na Bahia é premiar iniciativas artísticas que visem promover a celebração do Bicentenário da Independência do Brasil na Bahia, valorizando a história e a cultura do estado. | 1.1 |
+| 2_editais_especificos_3.txt | Chamamento Público/Convocatória para Inscrição nas Oficinas do projeto Escritas em Trânsito 2023 | Bahia | 2023 | O projeto Escritas em Trânsito estimula e qualifica a produção literária de artistas da palavra residentes na Bahia, através da realização de oficinas de escrita literária, com renomadas/os autoras/es do Brasil. | 1 |
+| 2_editais_especificos_4.txt | CHAMAMENTO PÚBLICO – Bicentenário da Independência do Brasil na Bahia 1823-2023 | Bahia | 2023 | A seleção de 10 (dez) bandas filarmónicas com até 41 (quarenta e um) integrantes cada para comporem a grade de programação do Desfile Cívico Dois de Julho - Bicentenário da Independência do Brasil na Bahia. | IV; 1.1 |
+| 2_editais_especificos_5.txt | EDITAL N° 004/2023 | Bahia | 2023 | A premiação de 03 (três) ensaios fotográficos que não tenham sido premiados no Brasil ou no exterior, realizados por fotógrafas ou fotógrafos residentes no Brasil, nas seguintes categorias: a) Categoria 1- ANCESTRALIDADE E REPRESENTAÇÃO; b) Categoria 2 - QUESTÕES HISTÓRICAS; c) Categoria 3 - LIVRE TEMÁTICA E TÉCNICA | 1.1 |
+| 2_editais_especificos_6.txt | Edital nº 001/2023 | Bahia | 2023 | Poderão concorrer projetos de trabalhos artísticos inéditos ou não da linguagem do Circo e que se enquadrem nas categorias: Circo de Lona; Formação em Circo | O QUE SERÁ PREMIADO |
+```

@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 18_editais_especificos_5.txt | EDITAL DE CHAMAMENTO PÚBLICO N° 20/2023 | Distrito Federal | 2023 | Grupo Folia DF 2024 - Mini Porte: R$ 30.000,00; Grupo Folia DF 2024 Pequeno Porte: R$ 45.000,00; Grupo Folia DF 2024 - Médio Porte: R$ 95.000,00; Grupo Folia DF 2024 - Grande Porte: R$ 175.000,00; Grupo Folia DF 2024 Porte Especial: R$ 250.000,00 | 1.2.1; 1.2.2; 1.2.3; 1.2.4; 1.2.5; 1.14 |
+| 1_editais_especificos_1.txt | EDITAL N° 01/2023 | Alagoas | 2023 | Blocos carnavalescos: R$ 5.000,00; Escolas de Samba: R$ 25.000,00 | 7.2; 7.3 |
+| 1_editais_especificos_2.txt | EDITAL N° 02/2023 | Alagoas | 2023 | Não encontrado | O edital não especifica distribuição de recursos em categorias ou faixas. |
+| 1_editais_especificos_3.txt | EDITAL N° 03/2023 | Alagoas | 2023 | Bumba-meu-Boi: R$ 8.000,00; Coco de Roda: R$ 8.000,00; Quadrilhas Juninas: R$ 8.000,00; Trio Forró Pé-de-Serra: R$ 4.000,00; Violeiros/Emboladores: R$ 2.000,00 | 6.2 |
+| 1_editais_especificos_4.txt | EDITAL N° 04/2023 | Alagoas | 2023 | Bolsa de incentivo: 1,5 salário mínimo | 5 |
+```

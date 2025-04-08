@@ -1,0 +1,11 @@
+Qual o tipo de espaço previsto para realização obrigatória no edital? Escolha uma ou mais das opções abaixo:
+
+* Espaço público (praças, parques, ruas, centros culturais públicos, escolas públicas, bibliotecas públicas, etc)
+* Espaço público do ente realizador do edital
+* Espaço privado de acesso público (teatros, centros culturais, museus, galerias, cinemas com programação aberta ao público, etc)
+* Espaço privado com acesso pago (clubes, teatros ou espaços culturais de acesso pago, etc)
+* Espaços comunitários ou alternativos (quilombos, aldeias indígenas, associações comunitárias, centros sociais, etc)
+* Eventos itinerantes (circulação entre diferentes cidades, estados ou territórios, etc)
+* Eventos remotos ou híbridos (atividades online, transmissões ao vivo, conteúdos gravados para acesso posterior, etc)
+* Não especificado
+* Outra(s). Especifique:

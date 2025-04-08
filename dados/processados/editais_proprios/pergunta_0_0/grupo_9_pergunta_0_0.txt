@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 21_editais_especificos_20.txt | EDITAL PROAC N° 42/2023 | São Paulo | 2023 | Não encontrado | O edital tem por finalidade apoiar financeiramente projetos de PRODUÇÃO E REALIZAÇÃO DE PROJETO CULTURAL, propostos por artistas iniciantes. |
+| 21_editais_especificos_21.txt | EDITAL PROAC N° 43/2023 | São Paulo | 2023 | Não encontrado | O edital tem por finalidade apoiar financeiramente projetos que tenham por objeto a formação em arte e cultura visando à realização de cursos e/ou oficinas. |
+| 21_editais_especificos_22.txt | EDITAL PROAC N° 01/2023 | São Paulo | 2023 | Não encontrado | O edital tem por finalidade apoiar financeiramente projetos que tenham por objeto a produção e temporada de espetáculos inéditos de teatro. |
+| 21_editais_especificos_23.txt | EDITAL PROAC N° 02/2023 | São Paulo | 2023 | Não encontrado | O edital tem por finalidade apoiar financeiramente projetos que tenham por objeto a circulação de espetáculos de teatro. |
+| 21_editais_especificos_24.txt | EDITAL PROAC N° 03/2023 | São Paulo | 2023 | Não encontrado | O edital tem por finalidade apoiar financeiramente projetos que tenham por objeto a produção e temporada de espetáculos inéditos de dança. |
+```

@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 3_editais_especificos_3.txt | XVIII EDITAL CEARÁ CICLO NATALINO PARA MOSTRAS REGIONAIS E XVI MOSTRA ESTADUAL - 2023 | Ceará | 2023 | Não encontrado | O edital é uma Chamada Pública para a celebração de Termo de Execução Cultural para apoio a projetos do Ciclo Natalino. |
+| 3_editais_especificos_4.txt | XVI EDITAL CICLO NATALINO - 2023 PROCESSO DE SELEÇÃO SIMPLIFICADA PARA CURADORAS/ES | Ceará | 2023 | Sim | O edital é um processo de seleção simplificada para curadoras/es para o Edital Ceará Ciclo Natalino 2023. |
+| 3_editais_especificos_5.txt | Não encontrado | Ceará | 2023 | Sim | O edital é um processo de seleção simplificada para Pesquisadores(as)/Avaliadores(as) – Ciclo Carnavalesco 2023. |
+| 3_editais_especificos_6.txt | XVI EDITAL CEARÁ CICLO CARNAVALESCO – 2023 | Ceará | 2023 | Não encontrado | O edital regulamenta o processo de inscrição e seleção pública do XVI Edital Ceará Ciclo Carnavalesco para Grupos - 2023. |
+| 3_editais_especificos_7.txt | XV EDITAL MECENAS DO CEARÁ | Ceará | 2023 | Não encontrado | O edital regulamenta o processo de inscrição e seleção pública de projetos culturais que visem a captação de recursos por meio do Mecenato Estadual. |
+```

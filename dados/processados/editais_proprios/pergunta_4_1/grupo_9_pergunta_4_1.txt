@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 21_editais_especificos_20.txt | EDITAL PROAC N° 42/2023 | São Paulo | 2023 | Não especificado | Não há menção no edital sobre tipo de espaço para realização obrigatória. |
+| 21_editais_especificos_21.txt | EDITAL PROAC N° 43/2023 | São Paulo | 2023 | Não especificado | Não há menção no edital sobre tipo de espaço para realização obrigatória. |
+| 21_editais_especificos_22.txt | EDITAL PROAC N° 01/2023 | São Paulo | 2023 | Não especificado | Não há menção no edital sobre tipo de espaço para realização obrigatória. |
+| 21_editais_especificos_23.txt | EDITAL PROAC N° 02/2023 | São Paulo | 2023 | Não especificado | Não há menção no edital sobre tipo de espaço para realização obrigatória. |
+| 21_editais_especificos_24.txt | EDITAL PROAC N° 03/2023 | São Paulo | 2023 | Não especificado | Não há menção no edital sobre tipo de espaço para realização obrigatória. |
+```

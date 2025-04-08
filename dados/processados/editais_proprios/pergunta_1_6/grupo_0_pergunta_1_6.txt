@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 10_editais_especificos_1.txt | EDITAL N° 001/2023 | Acre | 2023 | Não encontrado | O edital trata da seleção de pareceristas, não da distribuição de recursos. |
+| 10_editais_especificos_2.txt | EDITAL DE FOMENTO E INCENTIVO À CULTURA (ARTE E PATRIMÔNIO) 02/2023 | Acre | 2023 | Pessoa Física: R$ 600.000,00 (40 projetos de até R$ 15.000,00); Grupo Informais: R$ 80.000,00 (04 projetos de até R$ 20.000,00); Pessoa Jurídica: R$ 320.000,00 (08 projetos de até R$ 40.000,00) | 6.1 |
+| 10_editais_especificos_3.txt | EDITAL 003/2023 | Acre | 2023 | Culinaria / Medicina Ancestral: R$ 125.000,00 (10 prêmios de R$ 12.500,00); Musica / Literatura: R$ 125.000,00 (10 prêmios de R$ 12.500,00); Artesanato: R$ 125.000,00 (10 prêmios de R$ 12.500,00); Educação: R$ 125.000,00 (10 prêmios de R$ 12.500,00) | Art. 3° |
+| 10_editais_especificos_4.txt | EDITAL DE FOMENTO A ENTIDADES ARTISTICO-CULTURAL - 04/2023 | Acre | 2023 | 05 contemplados com projetos de até R$ 60.000,00 | 8.2 |
+| 10_editais_especificos_5.txt | EDITAL N°. 05/2023 | Acre | 2023 | Prêmio Mestres da Cultura Popular: R$ 300.000,00 (30 prêmios de R$ 10.000,00) | 4.1; 4.2 |
+```

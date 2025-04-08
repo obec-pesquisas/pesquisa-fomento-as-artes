@@ -1,0 +1,5 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 9_editais_especificos_3.txt | ENCONTRO NORDESTINO DE CULTURA/2023 | Sergipe | 2023 | Música: 140; Teatro: 10; Outras linguagens: 20; Dança: 10 | 7.1; 7.2; 7.3; 7.4; 7.5; 7.6; 7.7; 7.8; 7.9 |
+```

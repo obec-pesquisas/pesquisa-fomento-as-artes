@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 24_editais_especificos_4.txt | Edital de seleção de projetos n°. 09/2023 | Espírito Santo | 2023 | Criação artística e cultural; Formação (curso, oficina, workshop, residência, intercâmbio, etc); Intercâmbio nacional; Pesquisa; Produção artística material ou digital (obra, produto, publicação, instalação artística, etc); Outra(s). Especifique: mostras, coletivas, intervenções ou qualquer outro formato livre em artes visuais | 1.3; 1.4 |
+| 24_editais_especificos_5.txt | Edital de seleção de projetos n°. 10/2023 | Espírito Santo | 2023 | Criação artística e cultural | 1.3 |
+| 24_editais_especificos_6.txt | Edital de seleção de projetos n°. 11/2023 | Espírito Santo | 2023 | Produção artística material ou digital (obra, produto, publicação, instalação artística, etc) | 1.3 |
+| 24_editais_especificos_7.txt | Edital de seleção de projetos n°. 12/2023 | Espírito Santo | 2023 | Criação artística e cultural; Produção artística material ou digital (obra, produto, publicação, instalação artística, etc) | 1.3 |
+| 24_editais_especificos_8.txt | Edital de seleção de projetos n°. 13/2023 | Espírito Santo | 2023 | Apresentação; Circulação; Formação (curso, oficina, workshop, residência, intercâmbio, etc); Realização de eventos calendarizados; Outra(s). Especifique: mostras, festivais, simpósios, atividades de formação, registro e memória em música | 1.3 |
+```

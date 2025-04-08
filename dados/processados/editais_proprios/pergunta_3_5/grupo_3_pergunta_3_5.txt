@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 1_editais_especificos_5.txt | EDITAL N° 05/2023 - SECULT/AL | Alagoas | 2023 | Não encontrado | Não há informações sobre o número de propostas previstas para cada arte. |
+| 1_editais_especificos_6.txt | EDITAL N° 06/2023-SECULT/AL | Alagoas | 2023 | Não encontrado | Não há informações sobre o número de propostas previstas para cada arte. |
+| 1_editais_especificos_7.txt | EDITAL N° 07/2023 | Alagoas | 2023 | Não encontrado | Não há informações sobre o número de propostas previstas para cada arte. |
+| 1_editais_especificos_8.txt | EDITAL N°08/2023 – SECULT/AL | Alagoas | 2023 | Não encontrado | Não há informações sobre o número de propostas previstas para cada arte. |
+| 20_editais_especificos_1.txt | EDITAL DE LICITAÇÃO/MODALIDADE CONCURSO FOMENTO ÀS AÇÕES FORMATIVAS 1/2023 – FUNDO CULTURAL | Goiás | 2023 | Não encontrado | Não há especificação do número de propostas por linguagem artística, apenas o total de 16 projetos. |
+```

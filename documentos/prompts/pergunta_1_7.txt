@@ -1,0 +1,2 @@
+Qual a quantidade total de contemplados prevista no edital? Inclua apenas dígitos e vírgula em sua resposta. Não inclua ponto.
+

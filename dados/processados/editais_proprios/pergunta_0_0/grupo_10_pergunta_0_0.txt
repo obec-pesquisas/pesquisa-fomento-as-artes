@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 21_editais_especificos_25.txt | EDITAL PROAC N° 04/2023 | São Paulo | 2023 | Não encontrado | O edital tem por finalidade apoiar financeiramente projetos que tenham por objeto a circulação de espetáculos de dança. |
+| 21_editais_especificos_3.txt | EDITAL PROAC N° 07/2023 | São Paulo | 2023 | Não encontrado | O edital tem por finalidade apoiar financeiramente projetos que tenham por objeto a circulação de espetáculos para o público infanto-juvenil. |
+| 21_editais_especificos_4.txt | EDITAL PROAC N° 08/2023 | São Paulo | 2023 | Não encontrado | O edital tem por finalidade apoiar financeiramente projetos que tenham por objeto a produção ou aprimoramento de espetáculos do circo de lona com itinerância e/ou a manutenção do circo de lona itinerante. |
+| 21_editais_especificos_5.txt | EDITAL PROAC N° 09/2023 | São Paulo | 2023 | Não encontrado | O edital tem por finalidade apoiar financeiramente projetos que tenham por objeto a produção e apresentações de número circense. |
+| 21_editais_especificos_6.txt | EDITAL PROAC N° 10/2023 | São Paulo | 2023 | Não encontrado | O edital tem por finalidade apoiar financeiramente projetos que tenham por objeto a produção e apresentação de espetáculos circenses. |
+```

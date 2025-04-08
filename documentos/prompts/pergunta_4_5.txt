@@ -1,0 +1,9 @@
+Se o edital prever reserva de vaga, qual o método de validação da reserva de vagas? Escolha uma ou mais das opções abaixo:
+
+* Autodeclaração
+* Banca de heteroidentificação
+* Laudo Médico
+* Avaliação psicossocial
+* Declaração de pertencimento étnico assinado por liderança
+* Carta consubstanciada
+* Outro (informar)

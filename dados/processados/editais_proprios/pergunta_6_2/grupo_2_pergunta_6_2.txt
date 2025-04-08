@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 18_editais_especificos_5.txt | EDITAL DE CHAMAMENTO PÚBLICO N° 20/2023 | Distrito Federal | 2023 | Acessibilidade arquitetônica; Acessibilidade comunicacional; Acessibilidade atitudinal | 75, 76 |
+| 1_editais_especificos_1.txt | EDITAL N° 01/2023 PRÊMIO CARNAVAL 2023 | Alagoas | 2023 | Não encontrado | Não encontrado. O edital não menciona medidas para garantir a acessibilidade cultural. |
+| 1_editais_especificos_2.txt | EDITAL N° 02/2023 MOSTRA ALAGOANA DE DANÇA 2023 | Alagoas | 2023 | Não trata do assunto | Não encontrado. O edital não menciona medidas para garantir a acessibilidade cultural. |
+| 1_editais_especificos_3.txt | EDITAL N° 03/2023 PRÊMIO CLEMILDA – A RAINHA DO FORRÓ | Alagoas | 2023 | Não trata do assunto | Não encontrado. O edital não menciona medidas para garantir a acessibilidade cultural. |
+| 1_editais_especificos_4.txt | EDITAL N° 04/2023 – SECULT/AL EDITAL DE INSCRIÇÃO NO REGISTRO DO PATRIMÔNIO VIVO DO ESTADODE ALAGOAS | Alagoas | 2023 | Pessoa com deficiencia de acordo com o Estatuto da Pessoa com Deficiência (Lei nº 13.146/2015) | 6 |
+```

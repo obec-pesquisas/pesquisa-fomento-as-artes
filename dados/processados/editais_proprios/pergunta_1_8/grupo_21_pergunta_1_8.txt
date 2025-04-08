@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo           | Nome do Edital                                                            | Ente Federativo   | Ano  | Resposta | Linha(s) de Referência |
+| ------------------------- | ------------------------------------------------------------------------- | ----------------- | ---- | -------- | ---------------------- |
+| 6_editais_especificos_2.txt | EDITAL DO PRÊMIO PALHAÇO CASCUDO DE INCENTIVO ÀS ARTES CIRCENSES – 2023 | Pernambuco        | 2023 | 5000,00  | 3.2 a; 3.2 b; 3.2 c    |
+| 7_editais_especificos_2.txt | RESOLUÇÃO Nº 01/2023                                                      | Piauí             | 2023 | Não encontrado | Não há informação sobre o valor máximo por proposta. |
+| 8_editais_especificos_1.txt | Edital de Fomento Audiovisual Potiguar                                    | Rio Grande do Norte | 2023 | 85000,00 | Tabela em "2. DOS RECURSOS FINANCEIROS" |
+| 9_editais_especificos_1.txt | EDITAL N° 001/2022-CEC                                                      | Sergipe           | 2022 | Não encontrado | Não há informação sobre o valor máximo por proposta. |
+| 9_editais_especificos_2.txt | EDITAL DO VI FESTIVAL SERGIPANO DE ARTES CÊNICAS E DIVERSIDADE CULTURAL  | Sergipe           | 2023 | 10000,00 | Tabela em "4. DAS CATEGORIAS" |
+```

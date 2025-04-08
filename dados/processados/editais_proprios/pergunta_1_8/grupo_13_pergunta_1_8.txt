@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 22_editais_especificos_6.txt | EDITAL DE CREDENCIAMENTO N° 25/2023 | Rio de Janeiro | 2023 | 25000,00 | 5.2 |
+| 22_editais_especificos_7.txt | EDITAL DE CREDENCIAMENTO N° 26/2023 | Rio de Janeiro | 2023 | 30000,00; 130000,00 | 5.2 a; 5.2 b |
+| 22_editais_especificos_8.txt | EDITAL DE CREDENCIAMENTO N° 27/2023 | Rio de Janeiro | 2023 | 80000,00; 50000,00 | 3.1 |
+| 22_editais_especificos_9.txt | EDITAL DE CONCURSO No 001/2023 | Rio de Janeiro | 2023 | 5500,00 | 7.1 |
+| 23_editais_especificos_17.txt | EDITAL FEC 01/2024 | Minas Gerais | 2023 | 40000,00 | 2.3 |
+```

@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 4_editais_especificos_1.txt | EDITAL DE CREDENCIAMENTO № 001/2023 – SECMA | Maranhão | 2023 | Autorização de uso não exclusiva pelo órgão de cultura (o órgão pode divulgar e utilizar o produto, mas o proponente mantém total controle sobre a exploração comercial) | 23.1; 23.2 |
+| 5_editais_especificos_1.txt | EDITAL Nº 001/2023 DE CHAMAMENTO PÚBLICO PARA CONCESSÃO DE APOIO A INICIATIVAS DE CIRCULAÇÃO ARTÍSTICA | Paraíba | 2023 | Não encontrado | Não há menção sobre a autorização de uso ou cessão de direitos autorais ao órgão de cultura no edital. |
+| 5_editais_especificos_2.txt | EDITAL Nº 018/2023 DE CHAMAMENTO PÚBLICO PARA CONCESSÃO DE FOMENTO ÀS MOSTRAS E FESTIVAIS DE AUDIOVISUAL | Paraíba | 2023 | Não encontrado | Não há menção sobre a autorização de uso ou cessão de direitos autorais ao órgão de cultura no edital. |
+| 5_editais_especificos_3.txt | EDITAL Nº 004/2023 DE CHAMAMENTO PÚBLICO PARA SELEÇÃO DE PROJETOS CULTURAIS DENTRO DO “PROGRAMA ICMS CULTURAL” | Paraíba | 2023 | Não encontrado | Não há menção sobre a autorização de uso ou cessão de direitos autorais ao órgão de cultura no edital. |
+| 6_editais_especificos_1.txt | EDITAL DO 1º PRÊMIO TRAJETÓRIAS EM DANÇA MÔNICA JAPIASSU - 2023 | Pernambuco | 2023 | Autorização de uso não exclusiva pelo órgão de cultura (o órgão pode divulgar e utilizar o produto, mas o proponente mantém total controle sobre a exploração comercial) | 14.3; 14.4; 15.8 |
+```

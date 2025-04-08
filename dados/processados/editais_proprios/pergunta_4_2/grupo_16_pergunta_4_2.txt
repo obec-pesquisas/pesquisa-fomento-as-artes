@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 24_editais_especificos_9.txt | Edital de seleção de projetos n°. 14/2023 | Espírito Santo | 2023 | Recorte definido | 1.1; 1.3 |
+| 25_editais_especificos_1.txt | EDITAL DE CONCURSO PÚBLICO Nº 30/2023 | Santa Catarina | 2023 | Recorte definido | 2.1; 2.2 |
+| 26_editais_especificos_1.txt | Edital Sedac nº 03/2023 | Rio Grande do Sul | 2023 | Recorte definido | 1.1; 1.1.1 |
+| 2_editais_especificos_1.txt | EDITAL N° 007/2023 | Bahia | 2023 | Recorte definido | 1.1; 1.2 |
+| 2_editais_especificos_10.txt | EDITAL N° 006/2023 | Bahia | 2023 | Recorte definido | 1.1 |
+```

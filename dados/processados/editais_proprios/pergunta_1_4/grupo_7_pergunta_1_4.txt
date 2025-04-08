@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 21_editais_especificos_10.txt | EDITAL PROAC N° 14/2023 | São Paulo | 2023 | apoiar financeiramente projetos que tenham por objeto a gravação de álbuns musicais inéditos de música clássica, erudita contemporânea, popular instrumental ou ópera e apresentação de pelo menos 01 (um) show, realizada por proponentes sediados ou domiciliados no Estado de São Paulo. | 1.1 |
+| 21_editais_especificos_11.txt | EDITAL PROAC N° 15/2023 | São Paulo | 2023 | apoiar financeiramente projetos que tenham por objeto a circulação de espetáculos de música clássica, erudita contemporânea, popular instrumental ou ópera, realizada por proponentes sediados ou domiciliados no Estado de São Paulo. | 1.1 |
+| 21_editais_especificos_12.txt | EDITAL PROAC N° 16/2023 | São Paulo | 2023 | apoiar financeiramente projetos que tenham por objeto a gravação de álbuns musicais inéditos de música popular e apresentação de pelo menos 01 (um) show, realizada por proponentes sediados ou domiciliados no Estado de São Paulo. | 1.1 |
+| 21_editais_especificos_13.txt | EDITAL PROAC N° 17/2023 | São Paulo | 2023 | apoiar financeiramente projetos que tenham por objeto a circulação de espetáculos de música popular, realizada por proponentes sediados ou domiciliados no Estado de São Paulo. | 1.1 |
+| 21_editais_especificos_14.txt | EDITAL PROAC N° 40/2023 | São Paulo | 2023 | apoiar financeiramente projetos que tenham por objeto a produção e realização de mostras, festivais, conferência, seminário ou premiação, com no mínimo 01 (uma) edição já realizada. | 1.1 |
+```

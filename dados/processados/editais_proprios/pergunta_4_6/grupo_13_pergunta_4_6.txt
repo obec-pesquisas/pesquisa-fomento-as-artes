@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 22_editais_especificos_6.txt | EDITAL DE CREDENCIAMENTO N° 25/2023 | Rio de Janeiro | 2023 | Não encontrado | Não há menção de indutores de ações afirmativas no edital. |
+| 22_editais_especificos_7.txt | EDITAL DE CREDENCIAMENTO N° 26/2023 | Rio de Janeiro | 2023 | Não encontrado | Não há menção de indutores de ações afirmativas no edital. |
+| 22_editais_especificos_8.txt | EDITAL DE CREDENCIAMENTO N° 27/2023 | Rio de Janeiro | 2023 | Não encontrado | Não há menção de indutores de ações afirmativas no edital. |
+| 22_editais_especificos_9.txt | EDITAL DE CONCURSO No 001/2023 | Rio de Janeiro | 2023 | Não encontrado | Não há menção de indutores de ações afirmativas no edital. |
+| 23_editais_especificos_17.txt | EDITAL FEC 01/2024 | Minas Gerais | 2023 | Atributos de gênero; Atributos de raça/cor | 6.3.3 |
+```

@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 2_editais_especificos_2.txt | EDITAL N° 003/2023 | Bahia | 2023 | Não encontrado | Não há informações sobre acessibilidade cultural no edital. |
+| 2_editais_especificos_3.txt | CHAMAMENTO PÚBLICO/CONVOCATÓRIA PARA INSCRIÇÃO NAS OFICINAS DO PROJETO ESCRITAS EM TRÂNSITO 2023 | Bahia | 2023 | Não encontrado | Não há informações sobre acessibilidade cultural no edital. |
+| 2_editais_especificos_4.txt | CHAMAMENTO PÚBLICO – Bicentenário da Independência do Brasil na Bahia 1823-2023 | Bahia | 2023 | Não encontrado | Não há informações sobre acessibilidade cultural no edital. |
+| 2_editais_especificos_5.txt | EDITAL N° 004/2023 | Bahia | 2023 | Não encontrado | Não há informações sobre acessibilidade cultural no edital. |
+| 2_editais_especificos_6.txt | Edital nº 001/2023 | Bahia | 2023 | Não encontrado | Não há informações sobre acessibilidade cultural no edital. |
+```

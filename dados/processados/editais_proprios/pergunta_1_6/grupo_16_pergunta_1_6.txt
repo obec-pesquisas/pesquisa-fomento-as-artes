@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 24_editais_especificos_9.txt | Edital de seleção de projetos n°. 14/2023 | Espírito Santo | 2023 | R$ 1.150.000,00 distribuídos em 35 prêmios. Detalhes por linha de fomento no ANEXO 1. | 2.1 |
+| 25_editais_especificos_1.txt | EDITAL DE CONCURSO PÚBLICO Nº 30/2023 | Santa Catarina | 2023 | R$8.025.000,00 distribuídos em Artes, Artes Populares, Patrimônio e Paisagem Cultural, divididos em Módulos I e II com valores unitários e quantidades específicas. | 3.1 |
+| 26_editais_especificos_1.txt | Edital Sedac nº 03/2023 | Rio Grande do Sul | 2023 | Entre R$ 50.000,00 e 1.000.000,00 por projeto para municípios do estado, totalizando R$ 30.000.000,00. | 1.7; 2.1 |
+| 2_editais_especificos_1.txt | EDITAL N° 007/2023 | Bahia | 2023 | Remuneração de espetáculos musicais com o valor liquido do borderô da bilheteria, oriundo da venda dos seus ingressos | 9.1 |
+| 2_editais_especificos_10.txt | EDITAL N° 006/2023 | Bahia | 2023 | R$ 6.000,00 para propostas de Salvador; R$ 9.000,00 para propostas de outros municípios, totalizando 09 propostas. | 1.4 |
+```

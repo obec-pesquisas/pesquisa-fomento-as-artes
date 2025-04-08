@@ -1,0 +1,10 @@
+Quais foram os indutores de ações afirmativas no edital? Escolha uma ou mais das opções abaixo:
+
+* Indutores de pontuação por origem (atribuição de pontos adicionais na seleção para pessoas ou grupos provenientes de determinadas regiões).
+* Indutores de pontuação por local de realização da ação cultural (atribuição de pontos adicionais na seleção para ações a serem em determinadas regiões).
+* Atributos de gênero
+* Atributos de raça/cor
+* Categorias específicas do edital para determinadas localidades
+* Ações afirmativas indiretas (busca ativa, simplificação da inscrição, critérios específicos de seleção, etc)
+* Não especificado
+* Outra(s). Especifique:

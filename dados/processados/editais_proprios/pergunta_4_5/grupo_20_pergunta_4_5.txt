@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 4_editais_especificos_1.txt | EDITAL DE CREDENCIAMENTO № 001/2023 – SECMA | Maranhão | 2023 | Não encontrado | O edital não menciona reserva de vagas. |
+| 5_editais_especificos_1.txt | EDITAL Nº 001/2023 DE CHAMAMENTO PÚBLICO PARA CONCESSÃO DE APOIO A INICIATIVAS DE CIRCULAÇÃO ARTÍSTICA | Paraíba | 2023 | Não encontrado | O edital não menciona reserva de vagas. |
+| 5_editais_especificos_2.txt | EDITAL Nº 018/2023 DE CHAMAMENTO PÚBLICO PARA CONCESSÃO DE FOMENTO ÀS MOSTRAS E FESTIVAIS DE AUDIOVISUAL | Paraíba | 2023 | Não encontrado | O edital não menciona reserva de vagas. |
+| 5_editais_especificos_3.txt | EDITAL Nº 004/2023 DE CHAMAMENTO PÚBLICO PARA SELEÇÃO DE PROJETOS CULTURAIS DENTRO DO “PROGRAMA ICMS CULTURAL” | Paraíba | 2023 | Autodeclaração; Declaração de pertencimento étnico assinado por liderança | 7.2.2; 7.2.2.3 |
+| 6_editais_especificos_1.txt | EDITAL DO 1º PRÊMIO TRAJETÓRIAS EM DANÇA MÔNICA JAPIASSU - 2023 | Pernambuco | 2023 | Autodeclaração | 7.2.2.1 |
+```

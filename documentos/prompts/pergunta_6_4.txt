@@ -1,0 +1,11 @@
+Qual a previsão de autorização de uso ou cessão dos direitos autorais ao órgão de cultura no edital? Escolha uma ou mais das opções abaixo:
+
+* Cessão total dos direitos patrimoniais ao órgão de cultura (o proponente perde os direitos sobre a obra ou produto)
+* Cessão parcial dos direitos patrimoniais (o órgão de cultura pode utilizar o produto, mas o proponente mantém direitos sobre ele)
+* Autorização de uso não exclusiva pelo órgão de cultura (o órgão pode divulgar e utilizar o produto, mas o proponente mantém total controle sobre a exploração comercial)
+* Autorização de uso exclusivo pelo órgão de cultura por tempo determinado (o órgão tem direitos exclusivos sobre o produto por um período específico)
+* Obrigatoriedade de disponibilização do produto em domínio público após um período (exemplo: obras financiadas devem ser liberadas uma determinada quantidade de anos)
+* Obrigatoriedade de disponibilização gratuita em plataformas públicas (exemplo: repositórios digitais, sites do governo)
+* Não trata do assunto
+* Aberto para negociação entre o proponente e o órgão de cultura
+* Outra(s). Especifique:

@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 3_editais_especificos_3.txt | XVIII EDITAL CEARÁ CICLO NATALINO PARA MOSTRAS REGIONAIS E XVI MOSTRA ESTADUAL - 2023 | Ceará | 2023 | Execução cultural; Premiação cultural | Título; considerando os princípios e disposições alicerçados na Constituição Federal de 1988, nos artigos 215 e 216; e da Lei Estadual nº 18.012, de 01 de abril de 2022, na Lei Orgânica da Cultura do Estado do Ceará (LOC) dispondo sobre o Sistema Estadual da Cultura do Ceará, decreto n° 35.635/2023 que dispõe sobre os instrumentos termo de execução cultural, termo de patrocínio cultural e termo de premiação cultural do regime próprio de fomento à cultura no ceará, Lei Estadual nº 18.275/2022. Vem tornar de conhecimento público a presente Chamada Pública para a celebração de Termo de Execução Cultural. |
+| 3_editais_especificos_4.txt | XVI EDITAL CICLO NATALINO - 2023 | Ceará | 2023 | Não encontrado | O edital não menciona os instrumentos de fomento. |
+| 3_editais_especificos_5.txt | Processo de Seleção Simplificada para Pesquisadores(as)/Avaliadores(as) – Ciclo Carnavalesco 2023 | Ceará | 2023 | Não encontrado | O edital não menciona os instrumentos de fomento. |
+| 3_editais_especificos_6.txt | XVI EDITAL CEARÁ CICLO CARNAVALESCO – 2023 | Ceará | 2023 | Não encontrado | O edital não menciona os instrumentos de fomento. |
+| 3_editais_especificos_7.txt | XV EDITAL MECENAS DO CEARÁ | Ceará | 2023 | Outra(s). Especifique: Mecenato Estadual | 1.2.1; 1.2.3; 1.2.4 |
+```

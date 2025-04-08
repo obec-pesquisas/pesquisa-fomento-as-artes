@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 6_editais_especificos_2.txt | EDITAL DO PRÊMIO PALHAÇO CASCUDO DE INCENTIVO ÀS ARTES CIRCENSES – 2023 | Pernambuco | 2023 | Salvaguardar as Artes Circenses promovendo a sua sustentabilidade no estado de Pernambuco por meio da premiação de 30 artistas circenses, independentes ou representantes de Circos Itinerantes, Escolas, Espaços de Formação, Companhias, Grupos, Coletivos e Trupes. | 2.1 |
+| 7_editais_especificos_2.txt | RESOLUÇÃO Nº 01/2023 SISTEMA DE INCENTIVO ESTADUAL À CULTURA – SIEC EXERCÍCIO 2023 | Piauí | 2023 | Seleção de Projetos Culturais, junto ao SIEC, no âmbito do Estado do Piauí. | Art. 1º |
+| 8_editais_especificos_1.txt | Edital N° 01/2023 | Rio Grande do Norte | 2023 | Selecionar 14 iniciativas artístico-culturais no segmento do Audiovisual em âmbito estadual, visando fomentar a linguagem audiovisual potiguar. | 1.1 |
+| 9_editais_especificos_1.txt | EDITAL N° 001/2022-CEC | Sergipe | 2022 | Inscrição de pessoa física, de natureza cultural, que após análise documental e decisão do Governador de Sergipe, receberá o registro de Patrimônio Vivo da Cultura Sergipana, implicando na concessão de benefício financeiro por parte do Governo Estadual. | 1.1 |
+| 9_editais_especificos_2.txt | EDITAL DO VI FESTIVAL SERGIPANO DE ARTES CÊNICAS E DIVERSIDADE CULTURAL | Sergipe | 2023 | Seleção de pessoas físicas, pessoas jurídicas ou microempreendedor individual para compor a grade de espetáculos (teatro, dança, circo, música) e contratação de locutor cênico para o VI FESTIVAL SERGIPANO DE ARTES CÊNICAS E DIVERSIDADE CULTURAL. | 1 |
+```

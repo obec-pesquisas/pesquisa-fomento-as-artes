@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 20_editais_especificos_15.txt | EDITAL DE LICITAÇÃO/MODALIDADE CONCURSO FOMENTO AO TEATRO 16/2023 | Goiás | 2023 | Maior pontuação no critério III do item 10.9.1; Maior pontuação no critério IV do item 10.9.1; Maior pontuação no critério II do item 10.9.1; Maior pontuação no critério I do item 10.9.1; Maior idade entre todos os proponentes. | 10.9.4 |
+| 20_editais_especificos_2.txt | EDITAL DE LICITAÇÃO/MODALIDADE CONCURSO FOMENTO ÀS ARTES VISUAIS 2/2023 | Goiás | 2023 | Maior pontuação no critério III do item 10.9.1; Maior pontuação no critério IV do item 10.9.1; Maior pontuação no critério II do item 10.9.1; Maior pontuação no critério I do item 10.9.1; Maior idade entre todos os proponentes. | 10.9.4 |
+| 20_editais_especificos_3.txt | EDITAL DE LICITAÇÃO/MODALIDADE CONCURSO FOMENTO AO ARTESANATO 3/2023 | Goiás | 2023 | Não encontrado | O edital não apresenta os critérios de desempate. |
+| 20_editais_especificos_4.txt | EDITAL DE LICITAÇÃO/MODALIDADE CONCURSO FOMENTO AO AUDIOVISUAL 4/2023 | Goiás | 2023 | Maior pontuação no critério III do item 10.9.1; Maior pontuação no critério IV do item 10.9.1; Maior pontuação no critério II do item 10.9.1; Maior pontuação no critério I do item 10.9.1; Maior idade entre todos os proponentes. | 10.9.4 |
+| 20_editais_especificos_5.txt | EDITAL DE LICITAÇÃO/MODALIDADE CONCURSO FOMENTO AO CIRCO 5/2023 | Goiás | 2023 | Maior pontuação no critério III do item 10.9.1; Maior pontuação no critério IV do item 10.9.1; Maior pontuação no critério II do item 10.9.1; Maior pontuação no critério I do item 10.9.1; Maior idade entre todos os proponentes. | 10.9.4 |
+```

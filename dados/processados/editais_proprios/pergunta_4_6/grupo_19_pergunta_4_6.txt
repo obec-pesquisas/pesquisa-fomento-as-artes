@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 3_editais_especificos_3.txt | XVIII EDITAL CEARÁ CICLO NATALINO PARA MOSTRAS REGIONAIS E XVI MOSTRA ESTADUAL - 2023 | Ceará | 2023 | Atributos de gênero; Atributos de raça/cor | 9.4; 9.4.1; 9.4.2; 9.4.3 |
+| 3_editais_especificos_4.txt | XVI EDITAL CICLO NATALINO - 2023 PROCESSO DE SELEÇÃO SIMPLIFICADA PARA CURADORAS/ES | Ceará | 2023 | Não encontrado | Não há menção a indutores de ações afirmativas no edital. |
+| 3_editais_especificos_5.txt | Processo de Seleção Simplificada para Pesquisadores(as)/Avaliadores(as) – Ciclo Carnavalesco 2023 | Ceará | 2023 | Indutores de pontuação por origem (atribuição de pontos adicionais na seleção para pessoas ou grupos provenientes de determinadas regiões). | OBSERVAÇÕES GERAIS |
+| 3_editais_especificos_6.txt | XVI EDITAL CEARÁ CICLO CARNAVALESCO – 2023 | Ceará | 2023 | Atributos de raça/cor | 8.1; 8.2; 8.3; 8.4; 8.5; 8.6; 8.7; 8.8; 8.9; 8.10; 8.11; 8.12; 8.13; 8.14; 8.15; 8.16; 8.17; 8.18; 8.19; 8.20; 8.21; 8.22; 8.23 |
+| 3_editais_especificos_7.txt | XV EDITAL MECENAS DO CEARÁ | Ceará | 2023 | Não especificado | Não há menção explícita a indutores de ações afirmativas, mas o edital visa garantir o fortalecimento das políticas culturais plurais e inclusivas (1.1) e o fortalecimento de direitos culturais (6f). |
+```

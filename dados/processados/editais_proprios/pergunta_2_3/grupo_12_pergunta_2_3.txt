@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 22_editais_especificos_11.txt | EDITAL DE CONCURSO N° 005/2023 - FUNARJ | Rio de Janeiro | 2023 | Pontual (apoio concedido uma única vez a um projeto, ação ou instituição) | 7.2 – Será destinado o valor de R$ 7.000,00 (sete mil reais) à cada projeto premiado, cujo recebimento será feito em parcela única. |
+| 22_editais_especificos_2.txt | EDITAL DE CHAMADA EMERGENCIAL DE CREDENCIAMENTO N° 02/2023 | Rio de Janeiro | 2023 | Pontual (apoio concedido uma única vez a um projeto, ação ou instituição) | 5.6 Os recursos financeiros destinados aos PROPONENTES selecionados serão transferidos pela SECEC, através do Fundo Estadual de Cultura, em parcela única. |
+| 22_editais_especificos_3.txt | EDITAL DE CHAMADA EMERGENCIAL DE CREDENCIAMENTO N° 04/2023 | Rio de Janeiro | 2023 | Pontual (apoio concedido uma única vez a um projeto, ação ou instituição) | 5.6 Os recursos financeiros destinados aos PROPONENTES selecionados serão transferidos pela SECEC, através do Fundo Estadual de Cultura, em parcela única. |
+| 22_editais_especificos_4.txt | EDITAL DE CHAMADA DE PREMIAÇÃO Nº 03/2023 “EDITAL CASA DE AMÉRICA” | Rio de Janeiro | 2023 | Pontual (apoio concedido uma única vez a um projeto, ação ou instituição) | 5.5 Os recursos financeiros destinados aos PROPONENTES selecionados serão transferidos pela SECEC, através do Fundo Estadual de Cultura, em parcela única. |
+| 22_editais_especificos_5.txt | EDITAL DE CREDENCIAMENTO N°24/2023 “FOLIAS DE REIS RJ 2” | Rio de Janeiro | 2023 | Pontual (apoio concedido uma única vez a um projeto, ação ou instituição) | 4.7 Os recursos financeiros destinados aos PROPONENTES selecionados serão transferidos pela SECEC, através do Fundo Estadual de Cultura, em parcela única. |
+```

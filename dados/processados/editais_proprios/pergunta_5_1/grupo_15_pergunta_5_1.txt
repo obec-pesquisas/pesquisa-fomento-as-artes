@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 24_editais_especificos_4.txt | Edital de seleção de projetos n°. 09/2023 | Espírito Santo | 2023 | Qualidade do projeto; Adequação da proposta orçamentária e viabilidade do projeto; Capacidade do proponente e da equipe envolvida no projeto; Democratização de acesso; Ações de Acessibilidade | 8.1 |
+| 24_editais_especificos_5.txt | Edital de seleção de projetos n°. 10/2023 | Espírito Santo | 2023 | Qualidade do projeto; Adequação da proposta orçamentária e viabilidade do projeto; Capacidade do proponente e da equipe envolvida no projeto; Democratização de acesso; Ações de Acessibilidade | 8.1 |
+| 24_editais_especificos_6.txt | Edital de seleção de projetos n°. 11/2023 | Espírito Santo | 2023 | Originalidade e relevância da obra; Qualidade da Obra; Adequação da proposta orçamentária e viabilidade do projeto; Democratização de acesso; Ações de Acessibilidade | 8.1 |
+| 24_editais_especificos_7.txt | Edital de seleção de projetos n°. 12/2023 | Espírito Santo | 2023 | Qualidade do projeto; Adequação da proposta orçamentária e viabilidade do projeto; Capacidade do proponente e da equipe envolvida no projeto; Democratização de acesso | 8.1 |
+| 24_editais_especificos_8.txt | Edital de seleção de projetos n°. 13/2023 | Espírito Santo | 2023 | Qualidade do projeto; Adequação da proposta orçamentária e viabilidade do projeto; Capacidade do proponente e da equipe envolvida no projeto; Democratização de acesso; Ações de Acessibilidade | 8.1 |
+```

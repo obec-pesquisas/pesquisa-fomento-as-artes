@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 10_editais_especificos_1.txt | EDITAL N° 001/2023 – FUNDAÇÃO DE CULTURA ELIAS MANSOUR – FEM | Acre | 2023 | Não encontrado | O edital trata da seleção de pareceristas, não especificando elos da rede produtiva das artes. |
+| 10_editais_especificos_2.txt | EDITAL DE FOMENTO E INCENTIVO À CULTURA (ARTE E PATRIMÔNIO) 02/2023 | Acre | 2023 | Produção; Formação; Divulgação; Circulação; Intercâmbio | 1.1 |
+| 10_editais_especificos_3.txt | EDITAL 003/2023 PRÊMIO DE FORTALECIMENTO DA CULTURA DOS POVOS ORIGINARIOS | Acre | 2023 | Não encontrado | O edital trata de premiação de agentes culturais indígenas, não especificando elos da rede produtiva das artes. |
+| 10_editais_especificos_4.txt | EDITAL DE FOMENTO A ENTIDADES ARTISTICO-CULTURAL - 04/2023 | Acre | 2023 | Não encontrado | O edital não especifica os elos da rede produtiva das artes a serem contemplados. |
+| 10_editais_especificos_5.txt | EDITAL N°. 05/2023 PRÊMIO MESTRES DA CULTURA POPULAR DO ESTADO DO ACRE | Acre | 2023 | Não encontrado | O edital trata de premiação de mestres da cultura popular, não especificando elos da rede produtiva das artes. |
+```

@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 6_editais_especificos_2.txt | EDITAL DO PRÊMIO PALHAÇO CASCUDO DE INCENTIVO ÀS ARTES CIRCENSES – 2023 | Pernambuco | 2023 | Autorização de uso não exclusiva pelo órgão de cultura (o órgão pode divulgar e utilizar o produto, mas o proponente mantém total controle sobre a exploração comercial) | 18.9 |
+| 7_editais_especificos_2.txt | RESOLUÇÃO Nº 01/2023 | Piauí | 2023 | Não trata do assunto | Não encontrado |
+| 8_editais_especificos_1.txt | Edital de Fomento Audiovisual Potiguar | Rio Grande do Norte | 2023 | Autorização de uso não exclusiva pelo órgão de cultura (o órgão pode divulgar e utilizar o produto, mas o proponente mantém total controle sobre a exploração comercial) | 4.1; 4.2 |
+| 9_editais_especificos_1.txt | EDITAL N° 001/2022-CEC | Sergipe | 2022 | Não trata do assunto | Não encontrado |
+| 9_editais_especificos_2.txt | EDITAL DO VI FESTIVAL SERGIPANO DE ARTES CÊNICAS E DIVERSIDADE CULTURAL | Sergipe | 2023 | Autorização de uso não exclusiva pelo órgão de cultura (o órgão pode divulgar e utilizar o produto, mas o proponente mantém total controle sobre a exploração comercial) | 10.1 |
+```

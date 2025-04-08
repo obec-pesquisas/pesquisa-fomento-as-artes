@@ -1,0 +1,5 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 9_editais_especificos_3.txt | EDITAL – CHAMAMENTO PÚBLICO ENCONTRO NORDESTINO DE CULTURA/2023 PARA SELEÇÃO DE ATRAÇÕES ARTÍSTICAS | Sergipe | 2023 | Criação; Difusão nacional; Formação; Memória; Pesquisa | 2.1-Tem por objetivo a valorização e promoção dos artistas locais e deve englobar as manifestações culturais de popularidade e/ou histórico dedicadoao gênero forró, tendo como metas, a saber: a); b); c); d); e); f); g); h). |
+```

@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 10_editais_especificos_1.txt | EDITAL N° 001/2023 | Acre | 2023 | Não encontrado | O edital trata da seleção de pareceristas, não especificando categorias temáticas de projetos. |
+| 10_editais_especificos_2.txt | EDITAL DE FOMENTO E INCENTIVO À CULTURA (ARTE E PATRIMÔNIO) 02/2023 | Acre | 2023 | Não encontrado | O edital menciona "Áreas de Arte, Patrimônio Cultural e Humanidades", mas não detalha categorias temáticas conforme as opções fornecidas. |
+| 10_editais_especificos_3.txt | EDITAL 003/2023 | Acre | 2023 | Cultura Indígena; Culinaria / Medicina Ancestral; Musica / Literatura; Artesanato; Educação | Art. 3° e tabela subsequente |
+| 10_editais_especificos_4.txt | EDITAL DE FOMENTO A ENTIDADES ARTISTICO-CULTURAL - 04/2023 | Acre | 2023 | Não encontrado | O edital foca no fomento a entidades culturais, sem detalhar categorias temáticas específicas conforme as opções fornecidas. |
+| 10_editais_especificos_5.txt | EDITAL N°. 05/2023 | Acre | 2023 | Cultura Popular; Culturas Tradicionais e Saberes Populares; Outra(s). Especifique: MESTRE BRINCANTE DA CULTURA POPULAR/FOLGUEDOS; MESTRE DE OFICIOS TRADICIONAIS; MESTRE GRIÔ DE COMUNIDADES TRADICIONAIS DE MATRIZ AFRICANA; MESTRE DE COMUNIDADES TRADICIONAIS AYAHUASQUEIRAS; MESTRE DA MÚSICALIDADE TRADICIONAL | 2 - DAS DEFINIÇÕES; 3- DAS CATEGORIAS |
+```

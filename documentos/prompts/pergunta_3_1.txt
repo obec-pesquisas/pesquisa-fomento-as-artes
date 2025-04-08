@@ -1,0 +1,5 @@
+Qual a abrangência do objeto de cada do edital? Escolha apenas uma das opções abaixo:
+
+* Edital direcionado a uma linguagem artística especifica
+* Edital direcionado a duas ou mais linguagens artísticas
+* Edital amplo (inclui as artes indiretamente)

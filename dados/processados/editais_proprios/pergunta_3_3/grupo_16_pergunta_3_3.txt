@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 24_editais_especificos_9.txt | EDITAL DE SELEÇÃO DE PROJETOS N°. 14/2023 | Espírito Santo | 2023 | Não encontrado | Não há informação sobre o valor total destinado às artes. |
+| 25_editais_especificos_1.txt | EDITAL DE CONCURSO PÚBLICO Nº 30/2023 | Santa Catarina | 2023 | 3425000,00 | Capítulo 15, item 15.3.1 |
+| 26_editais_especificos_1.txt | Edital Sedac nº 03/2023 | Rio Grande do Sul | 2023 | Não encontrado | O edital não especifica um valor total destinado às artes. |
+| 2_editais_especificos_1.txt | EDITAL Nº 007/2023 | Bahia | 2023 | Não encontrado | O edital não especifica um valor total destinado às artes. |
+| 2_editais_especificos_10.txt | EDITAL N° 006/2023 | Bahia | 2023 | Não encontrado | O edital não especifica um valor total destinado às artes. |
+```

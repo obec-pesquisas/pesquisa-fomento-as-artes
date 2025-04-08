@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 10_editais_especificos_1.txt | EDITAL N° 001/2023 – FUNDAÇÃO DE CULTURA ELIAS MANSOUR – FEM | Acre | 2023 | Não encontrado | O edital trata do credenciamento de pareceristas, não especificando valores mínimos para propostas. |
+| 10_editais_especificos_2.txt | EDITAL DE FOMENTO E INCENTIVO À CULTURA (ARTE E PATRIMÔNIO) 02/2023 | Acre | 2023 | 15000,00 | "• Pessoa Física: montante de recursos: R$ 600.000,00 (seiscentos mil reais), para contemplação de 40 projetos de até R$ 15.000,00 (quinze mil reais);" |
+| 10_editais_especificos_3.txt | EDITAL 003/2023 PRÊMIO DE FORTALECIMENTO DA CULTURA DOS POVOS ORIGINARIOS | Acre | 2023 | 12500,00 | Tabela com os valores dos prêmios. |
+| 10_editais_especificos_4.txt | EDITAL DE FOMENTO A ENTIDADES ARTISTICO-CULTURAL - 04/2023 | Acre | 2023 | 60000,00 | "8.2. Os limites financeiros dos projetos culturais do presente certame serão: 05 contemplados com projetos de até R$ 60.000,00 (sessenta mil reais) com projetos de caráter estadual;" |
+| 10_editais_especificos_5.txt | EDITAL N°. 05/2023 PRÊMIO MESTRES DA CULTURA POPULAR DO ESTADO DO ACRE | Acre | 2023 | 10000,00 | "4. 2. O Prêmio Mestres da Cultura Popular contemplará 30 (trinta) candidatos (as) vencedores (as) que receberão o diploma de reconhecimento e premiação no valor de R$ 10.000,00 (dez mil reais) cada um, em parcela única." |
+```

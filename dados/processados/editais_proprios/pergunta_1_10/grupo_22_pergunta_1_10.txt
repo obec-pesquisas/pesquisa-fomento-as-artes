@@ -1,0 +1,5 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 9_editais_especificos_3.txt | EDITAL – CHAMAMENTO PÚBLICO ENCONTRO NORDESTINO DE CULTURA/2023 PARA SELEÇÃO DE ATRAÇÕES ARTÍSTICAS | Sergipe | 2023 | Pessoa Física (a própria pessoa a ser contemplada); Pessoa jurídica com fins lucrativos (Sociedade empresária, Sociedade simples); Microempresário individual- MEI | 3.3- Só serão aceitas inscrições de microempreendedor individual, pessoa física ou pessoa jurídica através do proponente ou representante devidamente legalizado; |
+```

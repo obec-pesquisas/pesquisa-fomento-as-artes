@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 21_editais_especificos_7.txt | EDITAL PROAC N° 11/2023 | São Paulo | 2023 | Recorte definido | Título; I. OBJETO DESTE CONCURSO |
+| 21_editais_especificos_8.txt | EDITAL PROAC N° 12/2023 | São Paulo | 2023 | Recorte definido | Título; I. OBJETO DESTE CONCURSO |
+| 21_editais_especificos_9.txt | EDITAL PROAC N° 13/2023 | São Paulo | 2023 | Recorte definido | Título; I. OBJETO DESTE CONCURSO |
+| 22_editais_especificos_1.txt | EDITAL DE CHAMADA EMERGENCIAL DE PREMIAÇÃO Nº 01/2023 | Rio de Janeiro | 2023 | Recorte definido | Título; 3. DO OBJETO DA CHAMADA; 4. CATEGORIAS |
+| 22_editais_especificos_10.txt | EDITAL DE CONCURSO N° 002/2023 | Rio de Janeiro | 2023 | Recorte definido | Título; 1. DO OBJETO |
+```

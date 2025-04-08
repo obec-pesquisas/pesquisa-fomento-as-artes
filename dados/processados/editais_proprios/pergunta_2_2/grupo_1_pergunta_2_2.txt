@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 11_editais_especificos_1.txt | EDITAL DE CHAMAMENTO PÚBLICO 001/ 2023 – SECULT | Amapá | 2023 | Apresentação; Exibição | Art. 6º |
+| 17_editais_especificos_1.txt | EDITAL N. ° 002/2022 – FIC/MS | Mato Grosso do Sul | 2022 | Circulação; Formação (curso, oficina, workshop, residência, intercâmbio, etc); Pesquisa; Realização de eventos calendarizados; Produção artística material ou digital (obra, produto, publicação, instalação artística, etc) | 1.1; 7 |
+| 18_editais_especificos_1.txt | EDITAL DE CHAMAMENTO PÚBLICO № 08/2023 | Distrito Federal | 2023 | Exibição; Formação (curso, oficina, workshop, residência, intercâmbio, etc); Atividades de reflexão | 1.1; 1.6 |
+| 18_editais_especificos_2.txt | EDITAL DE CHAMAMENTO PÚBLICO № 08/2023 | Distrito Federal | 2023 | Exibição; Formação (curso, oficina, workshop, residência, intercâmbio, etc); Atividades de reflexão | 1.1; 1.6 |
+| 18_editais_especificos_4.txt | EDITAL DE CHAMAMENTO PÚBLICO N° 16/2023 | Distrito Federal | 2023 | Não encontrado | O edital não explicita os tipos de ações culturais previstas. |
+```

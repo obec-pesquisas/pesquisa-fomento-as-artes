@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 10_editais_especificos_1.txt | EDITAL N° 001/2023 | Acre | 2023 | Não encontrado | O edital trata de credenciamento de pareceristas, não especificando a duração do apoio a projetos. |
+| 10_editais_especificos_2.txt | EDITAL DE FOMENTO E INCENTIVO À CULTURA (ARTE E PATRIMÔNIO) 02/2023 | Acre | 2023 | Não encontrado | O edital não especifica se o apoio é pontual ou continuado, apenas indica o prazo de execução dos projetos aprovados (item 11.1). |
+| 10_editais_especificos_3.txt | EDITAL 003/2023 | Acre | 2023 | Pontual (apoio concedido uma única vez a um projeto, ação ou instituição) | Art. 3°; Art. 4º |
+| 10_editais_especificos_4.txt | EDITAL DE FOMENTO A ENTIDADES ARTISTICO-CULTURAL - 04/2023 | Acre | 2023 | Não encontrado | O edital não especifica se o apoio é pontual ou continuado. |
+| 10_editais_especificos_5.txt | EDITAL N°. 05/2023 | Acre | 2023 | Pontual (apoio concedido uma única vez a um projeto, ação ou instituição) | 4.2. O Prêmio Mestres da Cultura Popular contemplará 30 (trinta) candidatos (as) vencedores (as) que receberão o diploma de reconhecimento e premiação no valor de R$ 10.000,00 (dez mil reais) cada um, em parcela única. |
+```

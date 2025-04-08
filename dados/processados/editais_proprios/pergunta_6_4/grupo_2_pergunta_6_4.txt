@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 18_editais_especificos_5.txt | EDITAL DE CHAMAMENTO PÚBLICO N° 20/2023 | Distrito Federal | 2023 | Não encontrado | O edital não trata do assunto. |
+| 1_editais_especificos_1.txt | EDITAL N° 01/2023 PRÊMIO CARNAVAL 2023 | Alagoas | 2023 | Não encontrado | O edital não trata do assunto. |
+| 1_editais_especificos_2.txt | EDITAL N° 02/2023 MOSTRA ALAGOANA DE DANÇA 2023 | Alagoas | 2023 | Autorização de uso não exclusiva pelo órgão de cultura (o órgão pode divulgar e utilizar o produto, mas o proponente mantém total controle sobre a exploração comercial) | 6.4; ANEXO II |
+| 1_editais_especificos_3.txt | EDITAL N° 03/2023 PRÊMIO CLEMILDA – A RAINHA DO FORRÓ | Alagoas | 2023 | Não encontrado | O edital não trata do assunto. |
+| 1_editais_especificos_4.txt | EDITAL N° 04/2023 – SECULT/AL EDITAL DE INSCRIÇÃO NO REGISTRO DO PATRIMÔNIO VIVO DO ESTADODE ALAGOAS | Alagoas | 2023 | Cessão parcial dos direitos patrimoniais (o órgão de cultura pode utilizar o produto, mas o proponente mantém direitos sobre ele) | b) Ceder ao Estado, para fins não lucrativos, de natureza educacional e cultural, em especial para sua documentação e divulgação e sem exclusividade em relação a outros eventuais cessionários que o inscrito houver por bem constituir, os direitos patrimoniais de autor sobre os conhecimentos e as técnicas que detiver. |
+```

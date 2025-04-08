@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 10_editais_especificos_1.txt | EDITAL N° 001/2023 | Acre | 2023 | Não especificado | Não encontrado. O edital não especifica indutores de ações afirmativas. |
+| 10_editais_especificos_2.txt | EDITAL DE FOMENTO E INCENTIVO À CULTURA (ARTE E PATRIMÔNIO) 02/2023 | Acre | 2023 | Indutores de pontuação por origem (atribuição de pontos adicionais na seleção para pessoas ou grupos provenientes de determinadas regiões) | 6.2. Fica instituída uma cota de participação de 50% de projetos advindos do interior em cada modalidade; |
+| 10_editais_especificos_3.txt | EDITAL 003/2023 | Acre | 2023 | Não especificado | Não encontrado. O edital não especifica indutores de ações afirmativas. |
+| 10_editais_especificos_4.txt | EDITAL DE FOMENTO A ENTIDADES ARTISTICO-CULTURAL - 04/2023 | Acre | 2023 | Não especificado | Não encontrado. O edital não especifica indutores de ações afirmativas. |
+| 10_editais_especificos_5.txt | EDITAL N°. 05/2023 | Acre | 2023 | Não especificado | Não encontrado. O edital não especifica indutores de ações afirmativas. |
+```

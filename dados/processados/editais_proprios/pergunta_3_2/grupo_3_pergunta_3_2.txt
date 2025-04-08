@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 1_editais_especificos_5.txt | EDITAL N° 05/2023 - SECULT/AL | Alagoas | 2023 | Música; Outra(s). Especifique: Rock | 1.1; 3.1; 4.5 |
+| 1_editais_especificos_6.txt | EDITAL N° 06/2023-SECULT/AL | Alagoas | 2023 | Música | 1.1; 3.1 |
+| 1_editais_especificos_7.txt | EDITAL N° 07/2023 | Alagoas | 2023 | Dança | 1.1; 2.1 |
+| 1_editais_especificos_8.txt | EDITAL N°08/2023 – SECULT/AL | Alagoas | 2023 | Artes integradas; Música; Outra(s). Especifique: Grupos culturais | 3.1; 3.4 |
+| 20_editais_especificos_1.txt | EDITAL DE LICITAÇÃO/MODALIDADE CONCURSO FOMENTO ÀS AÇÕES FORMATIVAS 1/2023 – FUNDO CULTURAL | Goiás | 2023 | Artes Visuais; Audiovisual; Circo; Dança; Literatura; Música; Teatro; Artes integradas | Página 1, "São 16 certames que contemplam os segmentos de ações formativas; artes visuais; artesanato; artes cênicas; audiovisual; circo; cultura digital e de jogos; dança; festivais e eventos; hip hop; literatura; museus, arquivos e bibliotecas; música; patrimônio material e imaterial; pontos de cultura; teatro e meu primeiro edital." |
+```

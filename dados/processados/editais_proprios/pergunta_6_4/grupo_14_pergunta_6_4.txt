@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 23_editais_especificos_18.txt | EDITAL FEC 02/2023 | Minas Gerais | 2023 | Não trata do assunto | Não encontrado. O edital não especifica autorização de uso ou cessão de direitos autorais. |
+| 23_editais_especificos_19.txt | EDITAL FEC 03/2023 | Minas Gerais | 2023 | Não trata do assunto | Não encontrado. O edital não especifica autorização de uso ou cessão de direitos autorais. |
+| 24_editais_especificos_1.txt | EDITAL DE SELEÇÃO DE PROPOSTAS ARTÍSTICAS PARA O PARQUE DE ESCULTURAS DO PARQUE CULTURAL CASA DO GOVERNADOR, VILA VELHA-ES N° 01/2023 | Espírito Santo | 2023 | Cessão total dos direitos patrimoniais ao órgão de cultura (o proponente perde os direitos sobre a obra ou produto); Autorização de uso não exclusiva pelo órgão de cultura (o órgão pode divulgar e utilizar o produto, mas o proponente mantém total controle sobre a exploração comercial) | 2.5.1.1; 16.4 |
+| 24_editais_especificos_2.txt | EDITAL DE SELEÇÃO DE PROJETOS n02/2023 | Espírito Santo | 2023 | Autorização de uso não exclusiva pelo órgão de cultura (o órgão pode divulgar e utilizar o produto, mas o proponente mantém total controle sobre a exploração comercial) | 11.3 |
+| 24_editais_especificos_3.txt | Edital de seleção de projetos nº. 07/2023 | Espírito Santo | 2023 | Não trata do assunto | Não encontrado. O edital não especifica autorização de uso ou cessão de direitos autorais. |
+```

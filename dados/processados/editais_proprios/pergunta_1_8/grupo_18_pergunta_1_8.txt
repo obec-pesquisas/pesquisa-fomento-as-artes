@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 2_editais_especificos_7.txt | EDITAL DE CHAMAMENTO PÚBLICO N° 02/2023 | Bahia | 2023 | 1000000,00 | 12.1 |
+| 2_editais_especificos_8.txt | EDITAL DE CHAMAMENTO PÚBLICO Nº 03/2023 | Bahia | 2023 | 500000,00; 400000,00; 300000,00; 200000,00; 150000,00; 100000,00 | 7.2 |
+| 2_editais_especificos_9.txt | EDITAL N° 001/2023 | Bahia | 2023 | 100000,00 | Anexo I |
+| 3_editais_especificos_1.txt | XVII EDITAL CEARÁ DA PAIXÃO – 2023 | Ceará | 2023 | 26795,14 | 2.6 |
+| 3_editais_especificos_2.txt | XVIII EDITAL CEARÁ CICLO NATALINO PARA GRUPOS – 2023 | Ceará | 2023 | 22000,00; 17920,00; 4005,00; 14270,00; 23500,00 | 3.4 |
+```

@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 3_editais_especificos_3.txt | XVIII EDITAL CEARÁ CICLO NATALINO PARA MOSTRAS REGIONAIS E XVI MOSTRA ESTADUAL - 2023 | Ceará | 2023 | A proposta que obtiver maior pontuação na soma dos critérios “a” do Mérito Cultural e Capacidade Técnica; Caso persista o empate será considerada a maior pontuação na soma dos critérios “b” e, assim, sucessivamente. | 9.7.5 |
+| 3_editais_especificos_4.txt | XVI EDITAL CICLO NATALINO - 2023 | Ceará | 2023 | Maior pontuação no item D; Maior pontuação no item C; Maior pontuação no item B; Maior pontuação no item A; A/O que possuir maior idade. |  |
+| 3_editais_especificos_5.txt | Processo de Seleção Simplificada para Pesquisadores(as)/Avaliadores(as) – Ciclo Carnavalesco 2023 | Ceará | 2023 | 1) maior pontuação no item c; 2) maior pontuação no item b; 3) maior pontuação no item a; 4) maior idade (dia/mês e ano). |  |
+| 3_editais_especificos_6.txt | XVI EDITAL CEARÁ CICLO CARNAVALESCO – 2023 | Ceará | 2023 | A Comissão de Avaliação e Seleção promoverá o desempate com prioridade para a proposta que obtiver maior pontuação na soma dos critérios “a” do Mérito Cultural e Capacidade Técnica, de acordo com a categoria; Caso persista o empate será considerada a maior pontuação na soma dos critérios “b” e, assim, sucessivamente. | 16.9 |
+| 3_editais_especificos_7.txt | XV EDITAL MECENAS DO CEARÁ | Ceará | 2023 | Não encontrado | O edital não especifica critérios de desempate. |
+```

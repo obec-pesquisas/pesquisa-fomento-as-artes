@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 10_editais_especificos_1.txt | EDITAL N° 001/2023 – FUNDAÇÃO DE CULTURA ELIAS MANSOUR – FEM | Acre | 2023 | Não encontrado | O edital trata da seleção de pareceristas, não especificando critérios de avaliação para projetos culturais. |
+| 10_editais_especificos_2.txt | EDITAL DE FOMENTO E INCENTIVO À CULTURA (ARTE E PATRIMÔNIO) 02/2023 | Acre | 2023 | Proposição do projeto, qualidade e viabilidade de execução; Garantia de participação, acesso e interação da área e segmento com a comunidade em geral; Currículo do proponente; Relevância do Projeto para o segmento em que se insere e as possibilidades de desdobramentos | 10 |
+| 10_editais_especificos_3.txt | EDITAL 003/2023 PRÊMIO DE FORTALECIMENTO DA CULTURA DOS POVOS ORIGINARIOS | Acre | 2023 | Trajetoria do Candidato; Importância de suas Ações na Etnia onde se Insere; Contribuição com o Processo de Desenvolvimento da Cultura Indígena; Que resida em terra indigena, comprovando situação de aldeado; Promove a continuidade e fortalecimento das identidades e memorias culturais indigenas; Promove dialogo entre as culturas indigenas e a sociedade em geral | Art. 15 |
+| 10_editais_especificos_4.txt | EDITAL DE FOMENTO A ENTIDADES ARTISTICO-CULTURAL - 04/2023 | Acre | 2023 | Proposição do projeto, qualidade e viabilidade de execução; Garantia de participação, acesso e interação da área e segmento com a comunidade em geral; Relevância do Projeto para o segmento em que se insere e as possibilidades de desdobramentos; Currículo da Entidade | 10.4; 10.5; 10.6; 10.7 |
+| 10_editais_especificos_5.txt | EDITAL N°. 05/2023 PRÊMIO MESTRES DA CULTURA POPULAR DO ESTADO DO ACRE | Acre | 2023 | Currículo do Mestre; Transmissão de saberes e fazeres inerentes à Cultura Popular e tradicional; Situação de Risco; Sustentabilidade das ações | 9.3 |
+```

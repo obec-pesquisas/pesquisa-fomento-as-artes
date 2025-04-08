@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 20_editais_especificos_6.txt | EDITAL DE LICITAÇÃO/MODALIDADE CONCURSO FOMENTO À CULTURA DIGITAL E JOGOS 6/2023 – FUNDO CULTURAL | Goiás | 2023 | Não trata do assunto | Não encontrado |
+| 20_editais_especificos_7.txt | EDITAL DE LICITAÇÃO/MODALIDADE CONCURSO FOMENTO À DANÇA 7/2023 – FUNDO CULTURAL | Goiás | 2023 | Não trata do assunto | Não encontrado |
+| 20_editais_especificos_8.txt | EDITAL DE LICITAÇÃO/MODALIDADE CONCURSO FOMENTO AOS FESTIVAIS E EVENTOS 8/2023 – FUNDO CULTURAL | Goiás | 2023 | Não trata do assunto | Não encontrado |
+| 20_editais_especificos_9.txt | EDITAL DE LICITAÇÃO/MODALIDADE CONCURSO FOMENTO AO HIP-HOP 9/2023 – FUNDO CULTURAL | Goiás | 2023 | Não trata do assunto | Não encontrado |
+| 21_editais_especificos_1.txt | EDITAL PROAC N° 05/2023 PROGRAMA DE AÇÃO CULTURAL - ProAC | São Paulo | 2023 | Não trata do assunto | Não encontrado |
+```

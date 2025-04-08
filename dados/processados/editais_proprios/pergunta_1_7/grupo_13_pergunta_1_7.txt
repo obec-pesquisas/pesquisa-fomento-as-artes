@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 22_editais_especificos_6.txt | EDITAL DE CREDENCIAMENTO N° 25/2023 "TURMAS DE BATE-BOLAS RJ 2" | Rio de Janeiro | 2023 | 100 | 3.1 |
+| 22_editais_especificos_7.txt | EDITAL DE CREDENCIAMENTO N° 26/2023 “BLOCO NAS RUAS 2 RJ” | Rio de Janeiro | 2023 | 109 | 3.1 |
+| 22_editais_especificos_8.txt | EDITAL DE CREDENCIAMENTO N° 27/2023 “NÃO DEIXA O SAMBA MORRER RJ 3" | Rio de Janeiro | 2023 | 102 | 3.1 |
+| 22_editais_especificos_9.txt | EDITAL DE CONCURSO No 001/2023 - FUNARJ | Rio de Janeiro | 2023 | 60 | 1.2 |
+| 23_editais_especificos_17.txt | EDITAL FEC 01/2024  AFROMINEIRIDADES | Minas Gerais | 2023 | 65 | 2.3 |
+```

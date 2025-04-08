@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 11_editais_especificos_1.txt | EDITAL DE CHAMAMENTO PÚBLICO 001/ 2023 – SECULT | Amapá | 2023 | Não encontrado | Não encontrado. O edital não contém informações sobre acessibilidade cultural. |
+| 17_editais_especificos_1.txt | EDITAL N. ° 002/2022 – FIC/MS | Mato Grosso do Sul | 2022 | Ações de acessibilidade adequadas ao projeto proposto. Ex: Acessibilidade arquitetônica; Acessibilidade comunicacional; Acessibilidade metodológica; Acessibilidade instrumental. | 7.1.13, C.1 |
+| 18_editais_especificos_1.txt | EDITAL DE CHAMAMENTO PÚBLICO № 08/2023 | Distrito Federal | 2023 | Ações afirmativas e de acessibilidade; estratégias de ampliação da quantidade de exibições acessíveis a pessoas com deficiência e mobilidade reduzida; plano de acessibilidade audiovisual, incluídos os processos de audiodescrição e legendas descritivas para os filmes das mostras competitivas em atendimento a Lei nº 6.858/2021 | 1.6; 2.11; 2.11.1; 2.11.2 |
+| 18_editais_especificos_2.txt | EDITAL DE CHAMAMENTO PÚBLICO № 08/2023 | Distrito Federal | 2023 | Ações afirmativas e de acessibilidade; estratégias de ampliação da quantidade de exibições acessíveis a pessoas com deficiência e mobilidade reduzida; plano de acessibilidade audiovisual, incluídos os processos de audiodescrição e legendas descritivas para os filmes das mostras competitivas em atendimento a Lei nº 6.858/2021 | 1.6; 2.11; 2.11.1; 2.11.2 |
+| 18_editais_especificos_4.txt | EDITAL DE CHAMAMENTO PÚBLICO N° 16/2023 | Distrito Federal | 2023 | Lei Distrital 6858/2021, que dispõe sobre a garantia de acessibilidade dos deficientes visuais aos projetos culturais patrocinados ou fomentados com verba pública no Distrito Federal. | 2.3.6; 7.4; 7.4; 10.2; 10.2 |
+```

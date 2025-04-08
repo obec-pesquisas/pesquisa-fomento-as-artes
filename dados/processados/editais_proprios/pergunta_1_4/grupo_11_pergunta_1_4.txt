@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 21_editais_especificos_7.txt | EDITAL PROAC N° 11/2023 | São Paulo | 2023 | Apoiar financeiramente projetos que tenham por objeto a circulação de espetáculos circenses, realizada por proponentes sediados ou domiciliados no Estado de São Paulo. | 1.1 |
+| 21_editais_especificos_8.txt | EDITAL PROAC N° 12/2023 | São Paulo | 2023 | Apoiar financeiramente projetos que tenham por objeto a produção de exposições inéditas de artes visuais, realizada por proponentes sediados ou domiciliados no Estado de São Paulo. | 1.1 |
+| 21_editais_especificos_9.txt | EDITAL PROAC N° 13/2023 | São Paulo | 2023 | Apoiar financeiramente projetos que tenham por objeto a circulação de exposições de artes visuais, realizada por proponentes sediados ou domiciliados no Estado de São Paulo. | 1.1 |
+| 22_editais_especificos_1.txt | EDITAL DE CHAMADA EMERGENCIAL DE PREMIAÇÃO Nº 01/2023 | Rio de Janeiro | 2023 | Premiar Pessoas Jurídicas para a realização de ações de projetos literários continuados, para a realização de novas feiras literárias, bem como para redes de bibliotecas comunitárias, obrigatoriamente, no Estado do Rio de Janeiro. | 3.1 |
+| 22_editais_especificos_10.txt | EDITAL DE CONCURSO N° 002/2023 | Rio de Janeiro | 2023 | Disciplinar a promoção de licitação, na modalidade concurso, para seleção e premiação, por parte da FUNARJ, de projetos de produções culturais inéditas, nas áreas de artes cênicas, música, solo musical e dança, no formato audiovisual, visando viabilizar o acesso ao trabalho de artistas que ainda não sejam consagrados pela crítica especializada e promover a circulação pública de artistas já consagrados. | 1.1 |
+```

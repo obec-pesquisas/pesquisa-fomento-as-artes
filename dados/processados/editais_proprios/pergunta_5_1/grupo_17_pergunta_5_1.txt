@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 2_editais_especificos_2.txt | EDITAL N° 003/2023 | Bahia | 2023 | Não encontrado | Não há informações sobre critérios de avaliação no edital. |
+| 2_editais_especificos_3.txt | CHAMAMENTO PÚBLICO/CONVOCATÓRIA PARA INSCRIÇÃO NAS OFICINAS DO PROJETO ESCRITAS EM TRÂNSITO 2023 | Bahia | 2023 | Não encontrado | O edital não apresenta critérios de avaliação, mas sim condições para inscrição (item 4). |
+| 2_editais_especificos_4.txt | CHAMAMENTO PÚBLICO – Bicentenário da Independência do Brasil na Bahia 1823-2023 | Bahia | 2023 | Avaliação da relevância histórica, através do portifólio e/ou currículo e clipagem da banda filarmónica.; Avaliação da qualidade artística através dos Links para acesso a vídeos e músicas da banda filarmónica.; Avaliação do repertório da banda filarmonica e sua pertinência com o Dois de Julho. | 6.2 |
+| 2_editais_especificos_5.txt | EDITAL N° 004/2023 | Bahia | 2023 | Adequação à categoria escolhida e viabilidade técnica; Percurso do artista através de portifólio ou currículo e clipagem do mesmo; Qualidade artística da obra inscrita, atendendo aos aspectos de criatividade, êxito na execução da proposta e domínio da técnica. | 5.1.2 |
+| 2_editais_especificos_6.txt | Edital nº 001/2023 | Bahia | 2023 | Qualidade artística do projeto, levando em consideração a clareza e a coerência das ideias apresentadas; Relevância da atuação local e/ou regional dos agentes envolvidos na realização do projeto; Viabilidade de execução da proposta; Importância do projeto como estimulador da diversidade artístico-cultural. | 5.2 |
+```

@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 2_editais_especificos_2.txt | EDITAL N° 003/2023 | Bahia | 2023 | Não encontrado | O edital não especifica o número de propostas previstas para cada linguagem artística. Ele menciona a premiação de 116 propostas no total, distribuídas por categorias e territórios de identidade. |
+| 2_editais_especificos_3.txt | Chamamento Público/Convocatória para Inscrição nas Oficinas do projeto Escritas em Trânsito 2023 | Bahia | 2023 | Não encontrado | O edital não especifica o número de propostas previstas para cada linguagem artística. O edital trata de oficinas de escrita literária. |
+| 2_editais_especificos_4.txt | CHAMAMENTO PÚBLICO – Bicentenário da Independência do Brasil na Bahia 1823-2023 | Bahia | 2023 | Não encontrado | O edital não especifica o número de propostas previstas para cada linguagem artística. Ele visa selecionar 10 bandas filarmônicas. |
+| 2_editais_especificos_5.txt | EDITAL N° 004/2023 - Prêmio Nacional de Fotografia Pierre Verger - 9º Edição | Bahia | 2023 | Não encontrado | O edital não especifica o número de propostas previstas para cada linguagem artística. Ele trata especificamente da premiação de ensaios fotográficos. |
+| 2_editais_especificos_6.txt | Edital nº 001/2023 - Qualificação no Circo | Bahia | 2023 | Não encontrado | O edital não especifica o número de propostas previstas para cada linguagem artística. O edital visa a premiação de circos e artistas circenses. |
+```

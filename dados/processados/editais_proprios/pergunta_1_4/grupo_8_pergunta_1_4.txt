@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 21_editais_especificos_15.txt | EDITAL PROAC N° 36/2023 | São Paulo | 2023 | apoiar financeiramente a produção e a realização de projetos que tenham por objeto o desenvolvimento da cultura popular, caiçara, indígena, cigana e/ou quilombola, realizada por proponentes sediados ou domiciliados no Estado de São Paulo. | 1.1 |
+| 21_editais_especificos_16.txt | EDITAL PROAC N° 37/2023 | São Paulo | 2023 | apoiar financeiramente a produção e a realização de projetos que tenham por objeto o desenvolvimento da cultura negra, urbana e hip hop, realizada por proponentes sediados ou domiciliados no Estado de São Paulo. | 1.1 |
+| 21_editais_especificos_17.txt | EDITAL PROAC N° 38/2023 | São Paulo | 2023 | apoiar financeiramente a produção e a realização de projetos que tenham por objeto o desenvolvimento da cultura LGBTI+, realizada por proponentes sediados ou domiciliados no Estado de São Paulo. | 1.1 |
+| 21_editais_especificos_19.txt | EDITAL PROAC N° 39/2023 | São Paulo | 2023 | apoiar financeiramente projetos que tenham por objeto a produção, realização e/ou manutenção de atividades culturais realizadas por proponentes atuantes das periferias do Estado de São Paulo. | 1.1 |
+| 21_editais_especificos_2.txt | EDITAL PROAC N° 06/2023 | São Paulo | 2023 | apoiar financeiramente projetos que tenham por objeto a produção e temporada de espetáculos inéditos para o público infanto-juvenil, realizada por proponentes sediados ou domiciliados no Estado de São Paulo. | 1.1 |
+```

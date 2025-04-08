@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 10_editais_especificos_1.txt | EDITAL N° 001/2023 | Acre | 2023 | Não trata do assunto | Não trata do assunto. |
+| 10_editais_especificos_2.txt | EDITAL DE FOMENTO E INCENTIVO À CULTURA (ARTE E PATRIMÔNIO) 02/2023 | Acre | 2023 | Previsão de contrapartida social (ex.: realização de atividades gratuitas em espaços públicos, ações formativas etc.) | Item 10.5.b): Apresenta estratégias de acessibilidade; Item 10.5.c): Propõe acesso gratuito à comunidade. |
+| 10_editais_especificos_3.txt | EDITAL 003/2023 | Acre | 2023 | Não trata do assunto | Não trata do assunto. |
+| 10_editais_especificos_4.txt | EDITAL DE FOMENTO A ENTIDADES ARTISTICO-CULTURAL - 04/2023 | Acre | 2023 | Previsão de contrapartida social (ex.: realização de atividades gratuitas em espaços públicos, ações formativas etc.) | Não há obrigatoriedade de gratuidade total, mas o edital pontua projetos que apresentem estratégias de acessibilidade (10.5), proponham acesso gratuito à comunidade (10.5) e proponham integração e acesso da comunidade aos bens produzidos (10.6). |
+| 10_editais_especificos_5.txt | EDITAL N°. 05/2023 | Acre | 2023 | Não trata do assunto | Não trata do assunto. |
+```

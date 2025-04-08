@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 2_editais_especificos_2.txt | EDITAL N° 003/2023 Diálogos Artísticos - Bicentenário da Independência na Bahia | Bahia | 2023 | Não especificado | O edital não especifica o tipo de espaço para realização das atividades. |
+| 2_editais_especificos_3.txt | CHAMAMENTO PÚBLICO/CONVOCATÓRIA PARA INSCRIÇÃO NAS OFICINAS DO PROJETO ESCRITAS EM TRÂNSITO 2023 | Bahia | 2023 | Espaço público (praças, parques, ruas, centros culturais públicos, escolas públicas, bibliotecas públicas, etc); Espaços comunitários ou alternativos (quilombos, aldeias indígenas, associações comunitárias, centros sociais, etc) | 2.3; 2.4; 2.5; 2.6 |
+| 2_editais_especificos_4.txt | CHAMAMENTO PÚBLICO – Bicentenário da Independência do Brasil na Bahia 1823-2023 | Bahia | 2023 | Espaço público (praças, parques, ruas, centros culturais públicos, escolas públicas, bibliotecas públicas, etc) | IV; 1.2 |
+| 2_editais_especificos_5.txt | EDITAL N° 004/2023 - Prêmio Nacional de Fotografia Pierre Verger - 9º Edição | Bahia | 2023 | Espaço público (praças, parques, ruas, centros culturais públicos, escolas públicas, bibliotecas públicas, etc) | 8.1 |
+| 2_editais_especificos_6.txt | Edital nº 001/2023- Qualificação no Circo | Bahia | 2023 | Não especificado | O edital não especifica o tipo de espaço para realização das atividades. |
+```

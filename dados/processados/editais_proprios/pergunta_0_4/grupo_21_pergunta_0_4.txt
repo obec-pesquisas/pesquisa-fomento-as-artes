@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 6_editais_especificos_2.txt | EDITAL DO PRÊMIO PALHAÇO CASCUDO DE INCENTIVO ÀS ARTES CIRCENSES – 2023 | Pernambuco | 2023 | Não encontrado | O edital não menciona renúncia ou incentivo fiscal. |
+| 7_editais_especificos_2.txt | RESOLUÇÃO Nº 01/2023 | Piauí | 2023 | Sim | Art. 5º Os recursos necessários para o desenvolvimento desta ação serão oriundos da renúncia fiscal de 0,5% do orçamento estadual, totalizando numericamente em R$ 13.596.247,30 (treze milhões, quinhentos e noventa e seis mil, duzentos e quarenta e sete reais e trinta centavos). |
+| 8_editais_especificos_1.txt | Edital de Fomento Audiovisual Potiguar | Rio Grande do Norte | 2023 | Não encontrado | O edital não menciona renúncia ou incentivo fiscal. |
+| 9_editais_especificos_1.txt | EDITAL N° 001/2022-CEC | Sergipe | 2023 | Não encontrado | O edital não menciona renúncia ou incentivo fiscal. |
+| 9_editais_especificos_2.txt | EDITAL DO VI FESTIVAL SERGIPANO DE ARTES CÊNICAS E DIVERSIDADE CULTURAL | Sergipe | 2023 | Não encontrado | O edital não menciona renúncia ou incentivo fiscal. |
+```

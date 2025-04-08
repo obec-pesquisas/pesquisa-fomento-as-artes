@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 24_editais_especificos_4.txt | Edital de seleção de projetos n°. 09/2023 | Espírito Santo | 2023 | A SECULT repassará o total de R$ 1.220.000,00 (um milhão, duzentos e vinte mil reais), distribuído em 26 (vinte e seis) prêmios. | 2.1 |
+| 24_editais_especificos_5.txt | Edital de seleção de projetos n°. 10/2023 | Espírito Santo | 2023 | A SECULT repassará o total de R$ 2.440.000,00 (dois milhões, quatrocentos e quarenta mil reais), distribuído em 49 (quarenta e nove) prêmios. | 2.1 |
+| 24_editais_especificos_6.txt | Edital de seleção de projetos n°. 11/2023 | Espírito Santo | 2023 | R$ 700.000,00 distribuídos em 35 prêmios. | Tabela no início do edital e 2.1 |
+| 24_editais_especificos_7.txt | Edital de seleção de projetos n°. 12/2023 | Espírito Santo | 2023 | A SECULT repassará o total de R$ 500.000,00 (quinhentos mil reais), distribuído em 14 (quatorze) prêmios. | 2.1 |
+| 24_editais_especificos_8.txt | Edital de seleção de projetos n°. 13/2023 | Espírito Santo | 2023 | A SECULT repassará o total de R$ 1.400.000,00 (um milhão e quatrocentos mil reais), distribuído em 22 (vinte e dois) prêmios. | 2.1 |
+```

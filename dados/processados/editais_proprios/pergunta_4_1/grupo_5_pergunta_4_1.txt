@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 20_editais_especificos_15.txt | EDITAL DE LICITAÇÃO/MODALIDADE CONCURSO FOMENTO AO TEATRO 16/2023 | Goiás | 2023 | Não especificado | Não encontrado. O edital não especifica um tipo de espaço obrigatório para a realização do projeto. |
+| 20_editais_especificos_2.txt | EDITAL DE LICITAÇÃO/MODALIDADE CONCURSO FOMENTO ÀS ARTES VISUAIS 2/2023 | Goiás | 2023 | Espaço privado de acesso público (teatros, centros culturais, museus, galerias, cinemas com programação aberta ao público, etc) | Anexo I, Modalidade 1 e 2, alínea e. "Informar o espaço (galeria, museu, entre outros) onde a exposição será realizada" |
+| 20_editais_especificos_3.txt | EDITAL DE LICITAÇÃO/MODALIDADE CONCURSO FOMENTO AO ARTESANATO 3/2023 | Goiás | 2023 | Não especificado | Não encontrado. O edital não especifica um tipo de espaço obrigatório para a realização do projeto. |
+| 20_editais_especificos_4.txt | EDITAL DE LICITAÇÃO/MODALIDADE CONCURSO FOMENTO AO AUDIOVISUAL 4/2023 | Goiás | 2023 | Não especificado | Não encontrado. O edital não especifica um tipo de espaço obrigatório para a realização do projeto. |
+| 20_editais_especificos_5.txt | EDITAL DE LICITAÇÃO/MODALIDADE CONCURSO FOMENTO AO CIRCO 5/2023 | Goiás | 2023 | Não especificado | Não encontrado. O edital não especifica um tipo de espaço obrigatório para a realização do projeto. |
+```

@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 20_editais_especificos_10.txt | EDITAL DE LICITAÇÃO/MODALIDADE CONCURSO FOMENTO À LITERATURA 10/2023 | Goiás | 2023 | Não encontrado | Informação não encontrada no edital. |
+| 20_editais_especificos_11.txt | EDITAL DE LICITAÇÃO/MODALIDADE CONCURSO FOMENTO AO "MEU PRIMEIRO EDITAL" 11/2023 | Goiás | 2023 | Criação artística e cultural; Circulação; Formação (curso, oficina, workshop, residência, intercâmbio, etc); Pesquisa | 1.1 |
+| 20_editais_especificos_12.txt | EDITAL DE LICITAÇÃO/MODALIDADE CONCURSO FOMENTO À MÚSICA 13/2023 | Goiás | 2023 | Produção artística material ou digital (obra, produto, publicação, instalação artística, etc); Plano de atividades - manutenção de grupos e coletivos; Plano de atividades - manutenção de espaços e ambientes culturais; Circulação | 1.1; 1.2; 1.3; 1.4 |
+| 20_editais_especificos_13.txt | EDITAL DE LICITAÇÃO/MODALIDADE CONCURSO FOMENTO AO PATRIMÔNIO MATERIAL E IMATERIAL 14/2023 | Goiás | 2023 | Pesquisa; Realização de eventos calendarizados; Circulação; Restauração de patrimônio material | 1.1 |
+| 20_editais_especificos_14.txt | EDITAL DE LICITAÇÃO/MODALIDADE CONCURSO FOMENTO AOS PONTOS DE CULTURA 15/2023 | Goiás | 2023 | Realização de eventos calendarizados | 1.1.a |
+```

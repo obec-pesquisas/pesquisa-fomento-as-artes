@@ -1,0 +1,5 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 9_editais_especificos_3.txt | EDITAL – CHAMAMENTO PÚBLICO ENCONTRO NORDESTINO DE CULTURA/2023 | Sergipe | 2023 | Não trata do assunto | O edital foca na seleção de atrações artísticas e não aborda a distribuição de produtos. |
+```

@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 1_editais_especificos_5.txt | EDITAL N° 05/2023 - SECULT/AL | Alagoas | 2023 | Bandas/Artistas - R$ 10.000,00 | 9.2 |
+| 1_editais_especificos_6.txt | EDITAL N° 06/2023-SECULT/AL | Alagoas | 2023 | 1º lugar: R$ 10.000,00; 2º lugar: R$ 8.000,00; 3º lugar: R$ 6.000,00; 4º lugar: R$ 4.000,00; 5º lugar: R$ 2.000,00; Prêmio para melhor música: R$ 1.500,00; Prêmio para melhor intérprete: R$ 1.200,00; Prêmio para melhor letra: R$ 1.200,00; Prêmio para melhor Arranjo: R$ 1.200,00 | 8.1 |
+| 1_editais_especificos_7.txt | EDITAL N° 07/2023 | Alagoas | 2023 | Não encontrado | O edital não especifica a distribuição de recursos em categorias ou faixas. |
+| 1_editais_especificos_8.txt | EDITAL N°08/2023 – SECULT/AL | Alagoas | 2023 | Bandas e Artistas Solo – R$ 5.000,00; Grupos culturais – R$ 4.000,00 | 9.1.1; 9.1.2 |
+| 20_editais_especificos_1.txt | EDITAL DE LICITAÇÃO/MODALIDADE CONCURSO FOMENTO ÀS AÇÕES FORMATIVAS 1/2023 | Goiás | 2023 | Módulo 1 - Curso de formação no exterior - R$ 110 mil; Módulo 2 - curso de formação no Brasil (exceto no Estado de Goiás) - R$ 50 mil; Módulo de cursos até 40h - R$ 25 mil; Módulo de cursos acima de 80h - R$ 80 mil | ANEXO I |
+```

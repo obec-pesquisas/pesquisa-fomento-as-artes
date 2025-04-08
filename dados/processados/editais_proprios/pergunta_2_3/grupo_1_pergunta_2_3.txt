@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 11_editais_especificos_1.txt | EDITAL DE CHAMAMENTO PÚBLICO 001/ 2023 – SECULT | Amapá | 2023 | Pontual (apoio concedido uma única vez a um projeto, ação ou instituição) | Art. 3º |
+| 17_editais_especificos_1.txt | EDITAL N. ° 002/2022 – FIC/MS | Mato Grosso do Sul | 2022 | Pontual (apoio concedido uma única vez a um projeto, ação ou instituição) | 3.5 |
+| 18_editais_especificos_1.txt | EDITAL DE CHAMAMENTO PÚBLICO № 08/2023 | Distrito Federal | 2023 | Pontual (apoio concedido uma única vez a um projeto, ação ou instituição) | 1.1; 1.4 |
+| 18_editais_especificos_2.txt | EDITAL DE CHAMAMENTO PÚBLICO № 08/2023 | Distrito Federal | 2023 | Pontual (apoio concedido uma única vez a um projeto, ação ou instituição) | 1.1; 1.4 |
+| 18_editais_especificos_4.txt | EDITAL DE CHAMAMENTO PÚBLICO N° 16/2023 | Distrito Federal | 2023 | Pontual (apoio concedido uma única vez a um projeto, ação ou instituição) | 2.1 |
+```

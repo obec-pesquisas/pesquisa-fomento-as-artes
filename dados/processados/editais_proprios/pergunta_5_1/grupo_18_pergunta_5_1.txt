@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 2_editais_especificos_7.txt | EDITAL DE CHAMAMENTO PÚBLICO N° 02/2023 | Bahia | 2023 | Não encontrado | O edital não apresenta os critérios de avaliação no formato de barema. |
+| 2_editais_especificos_8.txt | EDITAL DE CHAMAMENTO PÚBLICO Nº 03/2023 | Bahia | 2023 | Não encontrado | O edital não apresenta os critérios de avaliação no formato de barema. |
+| 2_editais_especificos_9.txt | EDITAL N° 001/2023 | Bahia | 2023 | Não encontrado | O edital não apresenta os critérios de avaliação no formato de barema. |
+| 3_editais_especificos_1.txt | CHAMADA PÚBLICA XVII EDITAL CEARÁ DA PAIXÃO – 2023 | Ceará | 2023 | Critérios de Mérito Cultural: a) Contribuição das ações culturais para a preservação da memória coletiva; b) Contribuição no intercâmbio de formas de expressão; c) Sustentabilidade socioeconômica e ambiental da proposta; d) Grau de contribuição na promoção da acessibilidade; e) Contribuição sociocultural da proposta; Capacidade Técnica: a) Capacidade técnica de execução da proposta; b) Exequibilidade da proposta; c) Capacidade de mobilização de público beneficiário; d) Capacidade de articulação e mobilização de parcerias | 6.3.1; 6.3.2 |
+| 3_editais_especificos_2.txt | XVIII EDITAL CEARÁ CICLO NATALINO PARA GRUPOS – 2023 | Ceará | 2023 | a) Capacidade técnica de execução da proposta; b) Contribuição no intercâmbio de formas de expressão; c) Sustentabilidade socioeconômica e ambiental da proposta; d) Exequibilidade da proposta; e) Capacidade de mobilização de público beneficiário; f) Grau de contribuição na promoção da acessibilidade; g) Contribuição da proposta que contenha atividades formativas; h) Contribuição sociocultural proporcionada pela atuação dos grupos. | 9.1 |
+</tbody>

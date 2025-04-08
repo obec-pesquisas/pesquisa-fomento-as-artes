@@ -1,0 +1,2323 @@
+
+
+<!-- imagem -->
+
+Governo do Estado do Rio de Janeiro
+Secretaria de Estado de Cultura e Economia
+EDITAL DE CHAMADA EMERGENCIAL DE CREDENCIAMENTO N° 02/2023
+"ARRAIÁ CULTURAL RJ 2”, QUE DISPÕE SOBRE O CREDENCIAMENTO DE
+QUADRILHAS JUNINAS PARA A REALIZAÇÃO DE APRESENTAÇÕES E
+FESTIVAIS DE QUADRILHAS JUNINAS NO ESTADO DO RIO DE JANEIRO.
+O ESTADO DO RIO DE JANEIRO, representado pela Secretaria de Estado de Cultura
+e Economia Criativa SECEC, torna público que, devidamente autorizado pela
+Senhora Secretária de Estado de Cultura e Economia Criativa e Presidente do Comitê
+Gestor do Fundo Estadual de Cultura, ora denominada Autoridade Superior, na forma
+do disposto no processo administrativo N.° SEI-180008/000020/2023 e deste
+instrumento, será realizado processo de credenciamento de Pessoas Jurídicas
+representantes de Quadrilhas Juninas para a realização de apresentações e festivais
+de Quadrilhas Juninas, no formato presencial, obrigatoriamente, no Estado do Rio de
+Janeiro, com fundamento na Lei Estadual nº 7.035, de 7 de julho de 2015, na Lei
+Estadual nº 8.266, de 26 de dezembro de 2018, no Decreto Estadual nº 45.419, de 19
+de outubro de 2015, no Decreto Estadual n° 46.981, de 19 de março de 2020 e das
+demais disposições legais aplicáveis e das condições da presente Chamada
+Emergencial.
+
+1. INTRODUÇÃO
+
+1.1 As inscrições deverão ser formalizadas atendendo as premissas descritas neste
+Regulamento, com o intuito de fomentar a produção e a difusão das atividades
+culturais, promovendo a valorização do patrimônio cultural fluminense, de acordo com
+o Programa Estadual de Fomento e Incentivo à Cultura, constante na Lei nº
+7.035/2015.
+
+1.2 A presente Chamada Emergencial será regida pelos princípios da legalidade,
+finalidade, moralidade administrativa, proporcionalidade, impessoalidade e eficiência.
+
+1.3 A presente Chamada Emergencial e seus anexos estarão disponíveis para
+consulta no endereço eletrônico da SECEC: www.cultura.rj.gov.br.
+
+1.4 As retificações desta Chamada Emergencial, por iniciativa oficial, assim como os
+pedidos de esclarecimentos, serão publicadas em todos os veículos em que se deu a
+publicação originária.
+
+1.5 Eventuais impugnações à presente Chamada Emergencial deverão ser
+encaminhadas para o endereço eletrônico: arraiaculturalrj2@cultura.rj.gov.br,
+devidamente justificadas, até o quinto dia útil anterior ao término do prazo de
+inscrição.
+
+1.5.1 Decairá do direito de impugnar a Chamada Emergencial perante a
+Administração aquele que não o fizer no prazo estabelecido no subitem 1.5. As
+impugnações posteriores a essa data não terão efeito de recurso.
+
+1.5.2 Somente serão aceitas as impugnações na forma do subitem 1.5.
+
+<!-- imagem -->
+
+Governo do Estado do Rio de Janeiro
+Secretaria de Estado de Cultura e Economia
+1.5.3 Caberá à Autoridade Superior desta Secretaria, após manifestação da
+Assessoria Jurídica e da Comissão Técnica Permanente de Elaboração de Editais e
+Análise de Projetos Culturais do Fundo Estadual de Cultura, responder às
+impugnações
+1.6 Informações e esclarecimentos de dúvidas de interpretação desta Chamada
+poderão ser obtidos por mensagem escrita enviada para o endereço eletrônico:
+arraiaculturalrj2@cultura.rj.gov.br, até às 18 (dezoito) horas, e no limite de 48
+(quarenta e oito) horas antes do dia de encerramento das inscrições. Todas as
+questões serão esclarecidas pela Comissão Técnica Permanente de Elaboração de
+Editais e Análise de Projetos Culturais do Fundo Estadual de Cultura, conforme
+Resolução SECEC N° 222 de 15 de Julho de 2022.
+
+2. DEFINIÇÕES
+2.1 Para efeito desta Chamada adotam-se as seguintes definições:
+
+2.1.1 "PROPONENTE”: Pessoa Jurídica (CNPJ), com ou sem fins lucrativos,
+com natureza e finalidades culturais em seus atos constitutivos, constituída sob as leis
+brasileiras, estabelecida no Estado do Rio de Janeiro, que seja comprovadamente
+representante de uma ou mais QUADRILHAS JUNINAS. O PROPONENTE deve
+estar ativo, regular e adimplente com o Estado do Rio de Janeiro, incluindo a SECEC,
+e assume a responsabilidade legal junto à SECEC pela PROPOSTA CULTURAL, ou
+seja, por sua INSCRIÇÃO neste Edital e por sua execução.
+
+2.1.1.1 Para INSCRIÇÕES na CATEGORIA A APRESENTAÇÃO DE
+QUADRILHAS JUNINAS, os PROPONENTES podem ser constituídos como
+Microempreendedor Individual (MEI).
+
+2.1.1.2 Para INSCRIÇÕES na CATEGORIA B - FESTIVAL DE QUADRILHAS
+JUNINAS, os PROPONENTES devem ser obrigatoriamente Associações,
+Federações ou Ligas representantes de QUADRILHAS JUNINAS, sem prejuízo
+das demais condições exigidas no presente subitem, não podendo ser
+constituído como Microempreendedor Individual (MEI).
+
+2.1.1.3 Para INSCRIÇÕES em ambas as CATEGORIAS, O PROPONENTE
+deve, obrigatoriamente, representar uma ou mais QUADRILHAS JUNINAS que
+possuam comprovada atuação prévia em atividades ligadas aos festejos juninos.
+A comprovação de representação e de atuação, conforme supracitado, deverá
+ser feita através dos documentos enviados no momento de INSCRIÇÃO,
+conforme item 09 deste edital.
+
+2.1.2 “RESPONSÁVEL PELA EXECUÇÃO”: o representante legal da Pessoa
+Jurídica (PROPONENTE), conforme estabelecido em sua constituição jurídica.
+Profissional que responde pela INSCRIÇÃO e execução da PROPOSTA CULTURAL,
+devendo estar apto a esclarecer seu conteúdo e a supervisionar seu desenvolvimento,
+assumindo a responsabilidade pela proposta junto à SECEC. O RESPONSÁVEL
+PELA EXECUÇÃO deve, obrigatoriamente, residir no Estado do Rio de Janeiro.
+
+<!-- imagem -->
+
+Governo do Estado do Rio de Janeiro
+Secretaria de Estado de Cultura e Economia
+2.1.2.1 Caso o RESPONSÁVEL PELA EXECUÇÃO da PROPOSTA CULTURAL
+não conste no contrato social ou ata de constituição da Pessoa Jurídica, o
+proponente poderá lhe delegar poderes através de Procuração particular com
+firma reconhecida em cartório.
+
+2.1.3 "QUADRILHAS JUNINAS": grupo artístico-cultural, que possui
+comprovada atuação no desenvolvimento de pesquisa, produção e realização de
+apresentações de danças de quadrilha, criadas a partir de figurações coreográficas
+tradicionais, executadas por, no mínimo, 12 (doze) pares, incluindo personagens
+específicos, utilizando figurinos característicos, e ordenados por um "marcador", que
+orienta os movimentos dos dançadores. As QUADRILHAS JUNINAS se baseiam nas
+denominações e movimentos tradicionais e incorporam criações adaptadas pelos
+marcadores, podendo caracterizar-se como quadrilhas de roça, salão e infanto.
+
+2.1.4 "FESTIVAL DE QUADRILHAS JUNINAS”: evento presencial aberto ao
+público, reunindo apresentações de QUADRILHAS JUNINAS, organizado em formato
+competitivo ou não, a ser realizado obrigatoriamente por Associação, Federação ou
+Liga representante de QUADRILHAS JUNINAS, com comprovada atuação em
+atividades ligadas aos festejos juninos, e realizado obrigatoriamente no Estado do Rio
+de Janeiro.
+
+-
+2.1.5 "PROPOSTA CULTURAL" ou "PROPOSTA": proposta que 0
+PROPONENTE deverá realizar dentro dos formatos: CATEGORIA A
+APRESENTAÇÃO DE QUADRILHA JUNINA e CATEGORIA B FESTIVAL DE
+QUADRILHAS JUNINAS, definidas no item 04 deste Edital, executadas e
+apresentadas obrigatoriamente no Estado do Rio de Janeiro, dentro do prazo de 90
+(noventa) dias corridos a partir da publicação do extrato do TERMO DE
+COMPROMISSO em DOERJ, com INSCRIÇÃO realizada exclusivamente através da
+Plataforma Desenvolve Cultura: http://cultura.rj.gov.br/desenvolve-cultura.
+
+2.1.5.1 O termo “junina” atrelado à denominação “QUADRILHA JUNINA”, é
+considerado aqui como nomenclatura tradicional através das quais estes grupos
+são identificados culturalmente. Ressalta-se que, mesmo estando ligado
+etimologicamente às datas comemorativas do mês de junho, entende-se nesta
+Chamada que o termo não limita a realização da PROPOSTA CULTURAL ao
+mês referido, podendo ser realizada dentro do prazo de 90 (noventa) dias
+corridos a partir da publicação do extrato do TERMO DE COMPROMISSO em
+DOERJ, conforme disposto no subitem 2.1.5.
+
+2.1.5.2 Cada PROPONENTE poderá inscrever apenas 01 (uma) PROPOSTA
+CULTURAL nesta Chamada Emergencial.
+
+2.1.6 “INSCRIÇÃO”: formalização, através de documentos e informações
+apresentadas à SECEC, realizada exclusivamente através da Plataforma Desenvolve
+Cultura: http://cultura.rj.gov.br/desenvolve-cultura; que confirmem a adequação do
+PROPONENTE às regras da Chamada e detalhem as ações desenvolvidas em sua
+PROPOSTA CULTURAL.
+
+
+
+Governo do Estado do Rio de Janeiro
+Secretaria de Estado de Cultura e Economia
+2.1.7 "SECRETARIA DE ESTADO DE CULTURA E ECONOMIA CRIATIVA":
+denominada nesta Chamada Emergencial simplesmente SECEC.
+3. OBJETO DA CHAMADA
+3.  1 A presente Chamada tem por objeto credenciar, na forma deste Regulamento, ο
+total de 115 (cento e quinze) PROPONENTES, constituídos como Pessoas Jurídicas,
+representantes de QUADRILHAS JUNINAS, para a realização de PROPOSTAS
+CULTURAIS de APRESENTAÇÃO DE QUADRILHA JUNINA e de FESTIVAL DE
+QUADRILHAS JUNINAS, de acordo com CATEGORIAS e distribuição especificadas
+no item 4.
+4.  2 A realização das PROPOSTAS CULTURAIS deverá ser feita em território
+fluminense, obrigatoriamente, dentro do prazo de 90 (noventa) dias corridos a partir da
+publicação do extrato do TERMO DE COMPROMISSO em DOERJ.
+5.  3 A previsão desta Chamada é credenciar o total de 115 (cento e quinze)
+PROPONENTES para a realização de PROPOSTAS CULTURAIS, desde que
+atendidas, em sua totalidade, as condições desta Chamada e em respeito à ordem de
+classificação e proporcionalidade territorial.
+6.  4 O valor total disponibilizado para esta Chamada Emergencial de Credenciamento é
+de R$ 7.250.000,00 (sete milhões duzentos e cinquenta mil reais).
+
+7. CATEGORIAS
+8. 1 As PROPOSTAS CULTURAIS deverão se enquadrar em 01 (uma) das seguintes
+CATEGORIAS:
+9.  1.  1 CATEGORIA A - APRESENTAÇÃO DE QUADRILHA JUNINA: ação presencial,
+proposta por Pessoa Jurídica representante de uma QUADRILHA JUNINA, que
+preveja o mínimo de 01 (uma) apresentação da QUADRILHA JUNINA representada,
+considerando: dança característica, a ser realizada por grupo/quadrilha com
+comprovada atuação na área, composta por, no mínimo, 12 (doze) pares,
+desenvolvendo inúmeras figurações coreográficas, ordenadas por um "marcador", que
+orienta os movimentos dos dançadores. Respeitando denominações e movimentos
+tradicionais e incorporando criações adaptadas pelos marcadores. A ação deverá ser
+realizada obrigatoriamente no Estado do Rio de Janeiro.
+
+a) A QUADRILHA JUNINA a realizar apresentação proposta na CATEGORIA A,
+deverá possuir comprovada experiência em atividades ligadas aos festejos
+juninos, no Estado do Rio de Janeiro. A comprovação de atuação deverá ser
+feita através da documentação a ser enviada no momento de INSCRIÇÃO,
+conforme subitem 9.4.1 deste edital.
+b) A PROPOSTA CULTURAL inscrita na CATEGORIA A deverá prever, pelo
+menos, 01 (uma) apresentação de, no mínimo, 20 (vinte) minutos de duração,
+
+<!-- imagem -->
+
+Governo do Estado do Rio de Janeiro
+Secretaria de Estado de Cultura e Economia
+contendo todos os elementos coreográficos tradicionais das danças de
+quadrilha, a serem executadas por um grupo de, no mínimo, 12 (doze) pares,
+com figurinos que se adequem à proposta prevista, e incluindo o
+acompanhamento de um marcador.
+c) A apresentação prevista na PROPOSTA CULTURAL inscrita na CATEGORIA
+A, NÃO PODERÁ ser realizada dentro de um festival de caráter competitivo.
+d) Na CATEGORIA A, a APRESENTAÇÃO DE QUADRILHA JUNINA poderá
+ser gratuita ou possuir a cobrança de ingressos, sendo, obrigatoriamente, a
+preços populares; é considerando como preço popular, o valor de, no máximo, o
+equivalente a 2,5% do valor do salário mínimo corrente, de acordo com a
+legislação vigente.
+d.1) Considerando a definição atual do salário mínimo, de acordo com a
+Medida Provisória nº 1.143, de 12 de dezembro de 2022, o valor máximo a
+ser aplicado como preço popular é de R$ 32,55 (trinta e dois reais e
+cinquenta e cinco centavos).
+e) A PROPOSTA CULTURAL inscrita na CATEGORIA A deverá prever, ao final
+de sua execução, a entrega do registro em formato de vídeo da
+APRESENTAÇÃO DA QUADRILHA JUNIÑA prevista em suas ações. O vídeo
+deverá possuir, obrigatoriamente, a duração mínima de 20 (vinte) minutos,
+contendo o registro da apresentação, incluindo todos os dançadores da
+QUADRILHA JUNINA, conforme prevista na PROPOSTA CULTURAL, e deverá
+ser gravado e ser disponibilizado pelo PROPONENTE de forma gratuita, na
+íntegra, obrigatoriamente através da plataforma digital YouTube, em modo
+público ou com acesso livre através de link compartilhado. Ele será, ainda,
+apresentado à SECEC como parte do RELATÓRIO DE EXECUÇÃO DA
+PROPOSTA CULTURAL, conforme disposto no subitem 16.1.
+e.1) A qualquer momento, a SECEC poderá solicitar ao PROPONENTE O
+arquivo original do vídeo estabelecido na alínea “e” do subitem 4.1.1
+deste Edital.
+e.2) Todas as logomarcas presentes no vídeo deverão ser inseridas na
+forma especificada no Manual de Utilização de Marca disponibilizado no
+endereço eletrônico da SECEC: www.cultura.rj.gov.br.
+e.3) À SECEC será autorizada a utilização, reprodução, edição, remix,
+adaptação, distribuição, preparação de obras derivadas, exibição e
+execução dos arquivos disponibilizados, de acordo com o documento
+DECLARAÇÃO DE DIREITOS AUTORAIS E AUTORIZAÇÃO DE USO
+DE CONTEÚDO DO RELATÓRIO DE EXECUÇÃO DA PROPOSTA
+CULTURAL, conforme ANEXO 07.
+f) A QUADRILHA JUNINA inscrita individualmente na CATEGORIA A não
+poderá participar em PROPOSTAS inscritas por PROPONENTES constituídos
+como Associação, Federação ou Liga, inscritos na CATEGORIA B.
+
+<!-- imagem -->
+
+Governo do Estado do Rio de Janeiro
+Secretaria de Estado de Cultura e Economia
+f.1) Caso seja identificada, a qualquer momento, a participação da mesma
+QUADRILHA JUNINA em PROPOSTAS inscritas por diferentes
+PROPONENTES nas CATEGORIAS A e B, somente a proposta
+submetida na CATEGORIA B será considerada, sendo desclassificada a
+PROPOSTA inscrita na CATEGORIA A.
+4.1.2 CATEGORIA B FESTIVAL DE QUADRILHAS JUNINAS: evento aberto ao
+público, reunindo apresentações de, no mínimo, 05 (cinco) QUADRILHAS JUNINAS,
+podendo ser ou não oriundas do mesmo município no qual o FESTIVAL é realizado, a
+ser organizado, obrigatoriamente, por Associação, Federação ou Liga com
+comprovada atuação na área, e realizado no Estado do Rio de Janeiro.
+a) O PROPONENTE a realizar o festival proposto na CATEGORIA B, deverá
+possuir comprovada experiência prévia em festivais e eventos ligados aos
+festejos juninos, no Estado do Rio de Janeiro. A comprovação de atuação
+deverá ser feita através da documentação a ser enviada no momento de
+INSCRIÇÃO, conforme subitem 9.4.1 deste edital.
+b) O FESTIVAL DE QUADRILHAS JUNINAS proposto, deverá incluir a
+apresentação de, no mínimo, 05 (cinco) QUADRILHAS JUNINAS, sendo
+realizado no Estado do Rio de Janeiro.
+c) No momento de INSCRIÇÃO, O PROPONENTE deverá, obrigatoriamente,
+apresentar CARTA DE ANUÊNCIA do local no qual será prevista a realização do
+FESTIVAL DE QUADRILHAS JUNINAS LOCAIS, conforme alínea “h” do
+subitem 9.4.1.
+d) Na CATEGORIA B, 0 FESTIVAL DE QUADRILHAS JUNINAS poderá ser
+gratuito ou possuir a cobrança de ingressos sendo, obrigatoriamente, a preços
+populares; e considerando como preço popular, o valor de, no máximo, o
+equivalente a 2,5% do valor do salário mínimo corrente, de acordo com a
+legislação vigente.
+d.1) Considerando a definição atual do salário mínimo, de acordo com a
+Medida Provisória nº 1.143, de 12 de dezembro de 2022, o valor máximo a
+ser aplicado como preço popular é de R$ 32,55 (trinta e dois reais e
+cinquenta e cinco centavos).
+e) A PROPOSTA CULTURAL inscrita na CATEGORIA B deverá prever, ao final
+de sua execução, a entrega do registro em formato de vídeo com o registro da
+realização do FESTIVAL DE QUADRILHAS JUNINAS previsto em suas ações.
+O vídeo deverá possuir, obrigatoriamente, a duração mínima de 30 (trinta)
+minutos, contendo o registro da realização do festival, incluindo partes das
+apresentações de todas as QUADRILHAS JUNINAS, conforme previsto na
+PROPOSTA CULTURAL, e deverá ser gravado e ser disponibilizado pelo
+PROPONENTE de forma gratuita, na íntegra, obrigatoriamente através da
+plataforma digital YouTube, em modo público ou com acesso livre através de link
+compartilhado. Ele será ainda apresentado à SECEC como parte do
+
+
+
+
+<!-- imagem -->
+
+Governo do Estado do Rio de Janeiro
+Secretaria de Estado de Cultura e Economia
+RELATÓRIO DE EXECUÇÃO DA PROPOSTA CULTURAL, conforme disposto
+no subitem 16.1.
+e.1) A qualquer momento, a SECEC poderá solicitar ao PROPONENTE O
+arquivo original do vídeo estabelecido na alínea “e” do subitem 4.1.2
+e.2) Todas as logomarcas presentes no vídeo deverão ser inseridas na
+forma especificada no Manual de Utilização de Marca disponibilizado no
+endereço eletrônico da SECEC: www.cultura.rj.gov.br.
+e.3) A SECEC será autorizada a utilização, reprodução, edição, remix,
+adaptação, distribuição, preparação de obras derivadas, exibição e
+execução dos arquivos disponibilizados, de acordo com o documento
+DECLARAÇÃO DE DIREITOS AUTORAIS E AUTORIZAÇÃO DE USO
+DE CONTEÚDO DO RELATÓRIO DE EXECUÇÃO DA PROPOSTA
+CULTURAL, conforme ANEXO 07
+5. RECURSOS FINANCEIROS
+5.1 O valor total dos recursos disponibilizados para esta Chamada Emergencial
+corresponde à R$ 7.250.00,00 (sete milhões duzentos e cinquenta mil reais).
+5.1.1 Os aportes da premiação se darão a partir da seguinte distribuição:
+I) CATEGORIA A: 100 (cem) prêmios no valor de R$ 50.000,00 (cinquenta mil
+reais) cada; totalizando o valor de R$ 5.000.000,00 (cinco milhões de reais).
+II) CATEGORIA B: 15 (quinze) prêmios no valor de R$ 150.000,00 (cento e
+cinquenta mil reais) cada; totalizando o valor de R$ 2.250.000,00 (dois milhões
+duzentos e cinquenta mil reais).
+5.2 Caso não haja seleção de PROPOSTAS CULTURAIS em quantidade suficiente
+para a utilização da totalidade dos recursos disponibilizados para cada categoria, o
+saldo dos recursos financeiros não utilizado poderá, a exclusivo critério da SECEC,
+através de sua Autoridade Superior, ser remanejado para outra CATEGORIA desta
+Chamada ou para outro Edital de Chamada Emergencial de Premiação ou
+Credenciamento lançado com orçamento oriundo do Fundo Estadual de Cultura.
+5.3 A presente Chamada será custeada com recursos do Fundo Estadual de Cultura
+do Rio de Janeiro e serão aplicados na modalidade operação não reembolsável, na
+forma do inciso I, do Art. 39, da Lei nº 7.035, de 07 de julho de 2015.
+5.4 Os recursos serão distribuídos entre as 10 regiões que compõem o Estado do Rio
+de Janeiro, sendo que 40% do valor total será disponibilizado para a Capital e 60%
+será disponibilizado para os demais municípios, considerando o que dispõe o art. 21, §
+1º da Lei Estadual nº 7.035, de 07 de julho de 2015, que instituiu o Sistema Estadual
+de Cultura.
+
+<!-- imagem -->
+
+Governo do Estado do Rio de Janeiro
+Secretaria de Estado de Cultura e Economia
+5.5 Os recursos relativos ao presente exercício financeiro correrão à conta da seguinte
+dotação orçamentária:
+PROGRAMA DE TRABALHO: 13.392.0465.4495
+NATUREZA DE DESPESA: 3390
+FONTES DE RECURSO: 230
+5.6 Os recursos financeiros destinados aos PROPONENTES selecionados serão
+transferidos pela SECEC, através do Fundo Estadual de Cultura, em parcela única.
+5.7 O PROPONENTE poderá obter recursos complementares junto a outros
+financiadores para a realização da sua PROPOSTA CULTURAL, desde que
+respeitados os direitos e condições estabelecidas neste Regulamento.
+6. CONDIÇÕES DE PARTICIPAÇÃO
+6.1 O PROPONENTE deve preencher os seguintes requisitos:
+a) Ser Pessoa Jurídica (CNPJ), com ou sem fins lucrativos, com natureza e
+finalidades culturais em seus atos constitutivos e com existência e atuação na
+área cultural, sob as leis brasileiras, estabelecida no Estado do Rio de Janeiro.
+a.1) Somente para INSCRIÇÕES na CATEGORIA A, 0 PROPONENTE
+poderá ser constituído como Microeempreendedor Individual (MEI).
+a.2) Para inscrições na CATEGORIA B, 0 PROPONENTE deve ser
+obrigatoriamente constituído como uma Associação, Federação ou Ligas
+representantes de QUADRILHAS JUNINAS, sem prejuízo das demais
+condições exigidas subitem 6.1, não podendo ser constituídos como
+Microempreendedor Individual (MEI) ou em formato jurídico diferente dos
+mencionados neste item.
+a.3.) Em ambas as CATEGORIAS, serão consideradas para validação dos
+PROPONENTES inscritos as finalidades culturais das atividades principais
+e/ou secundárias apresentadas nos documentos de CADASTRO DO
+PROPONENTE, conforme disposto no subitem 9.4.1.
+b) Ser, obrigatoriamente e comprovadamente, representante de uma ou mais
+QUADRILHAS JUNINA.
+b.1) Em ambas as CATEGORIAS, 0 PROPONENTE deve
+obrigatoriamente representar uma ou mais QUADRILHAS JUNINAS que
+possuam comprovada atuação prévia em atividades ligadas aos festejos
+juninos. A comprovação de representação e de atuação, conforme
+supracitado, deverá ser feita através dos documentos enviados no
+momento de INSCRIÇÃO, conforme subitem 9.4.1 deste edital.
+c) Estar ativo, regular e adimplente com o Estado do Rio de Janeiro, incluindo a
+
+<!-- imagem -->
+
+Governo do Estado do Rio de Janeiro
+Secretaria de Estado de Cultura e Economia
+SECEC, no ato da submissão da INSCRIÇÃO.
+6.2 Caso a SECEC identifique, a qualquer momento, o PROPONENTE que
+descumpra uma ou mais condições citadas no subitem 6.1, o mesmo será
+desclassificado, e sua participação no processo desta Chamada será descontinuada.
+6.3 Caso o PROPONENTE que não esteja cumprindo as condições de todos os
+subitems constantes no subitem 6.1, seja identificado após sua habilitação, seleção e
+recebimento de recursos, ele estará sujeito, sem prejuízo de eventual indenização por
+perdas e danos e das demais sanções cabíveis, e observando-se o direito de defesa
+prévia, à imediata restituição da integralidade do aporte efetuado pela SECEC,
+devidamente corrigido pelo IPCA-E, acrescido de multa e juros de 0,5% ao mês até o
+efetivo pagamento.
+7. IMPEDIMENTOS
+7.1 Considerando as INSCRIÇÕES em ambas as CATEGORIAS, estão impedidos de
+participar desta Chamada:
+a) Pessoa Física.
+b) Pessoa Jurídica cujos sócios, administradores, diretores ou associados forem
+servidores ou empregados públicos, ocupantes de cargos ou funções efetivos,
+eletivos ou em comissão, vinculados direta ou indiretamente à SECEC, bem
+como os parentes em linha reta e os colaterais até o 3º (terceiro) grau, podendo
+a inscrição, caso ocorra, ser impugnada a qualquer tempo, conforme decreto
+estadual de vedações de nepotismo.
+c) Pessoa Jurídica cujos sócios, administradores, diretores ou associados forem
+membros do Conselho Estadual de Políticas Culturais, considerando titulares e
+suplentes.
+d) Pessoa Jurídica cujos sócios, administradores, diretores ou associados sejam
+ocupantes de cargos políticos em órgãos e empresas públicas, considerando:
+Prefeitos e seus Vices, Secretários Municipais, Subsecretários Municipais e
+Vereadores.
+e) Pessoa Jurídica que não possua em seu estatuto ou contrato social função
+ligada a atividades artísticas e culturais.
+f) Pessoa Jurídica que esteja com prestação de contas pendente de
+regularização perante a SECEC.
+g) Pessoa Jurídica que esteja impedida de contratar com a Administração
+Pública, seja por motivo de suspensão temporária de participar e de licitar com a
+Administração Pública ou por ter sido declarada inidônea, na forma dos incisos
+III e IV do art. 87 da Lei no. 8.666/93, ou outro motivo previsto em Lei.
+
+
+
+<!-- imagem -->
+
+Governo do Estado do Rio de Janeiro
+Secretaria de Estado de Cultura e Economia
+7.2 Somente na CATEGORIA B, estão impedidas as INSCRIÇÕES de Pessoas
+Jurídicas que não sejam constituídas como Associação, Federação ou Liga.
+7.3 Estão impedidas as INSCRIÇÕES de mais de 01 (uma) PROPOSTA CULTURAL
+por PROPONENTE, QUADRILHA JUNINA, Associação, Federação ou Liga, nesta
+Chamada. A PROPOSTA CULTURAL submetida neste Edital por cada
+PROPONENTE inscrito deverá ser única, conforme definições dos subitens 2.1.5 e
+4.1.
+a) Caso seja identificada, a qualquer momento, mais de 01 (uma) INSCRIÇÃO
+com o mesmo CNPJ na presente Chamada Emergencial, somente a primeira
+PROPOSTA CULTURAL submetida será considerada, sendo as demais
+desclassificadas.
+b) Caso seja identificada, a qualquer momento, mais de uma PROPOSTA
+CULTURAL oriunda da mesma QUADRILHA JUNINA, Associação, Federação
+ou Liga, ou ainda que contenha o mesmo grupo de profissionais envolvidos
+(considerando mais de 50% dos membros da equipe técnica, sócios e
+responsáveis legais), inscritas em CATEGORIAS diferentes, apenas a inscrição
+da PROPOSTA CULTURAL da CATEGORIA B será considerada, sendo as
+demais desclassificadas.
+c) Caso seja identificada, a qualquer momento, mais de uma PROPOSTA
+CULTURAL oriunda da mesma QUADRILHA JUNINA, Associação, Federação
+ou Liga, ou ainda que contenha o mesmo grupo de profissionais envolvidos
+(considerando mais de 50% dos membros da equipe técnica, sócios e
+responsáveis legais), inscritas na mesma CATEGORIA (sendo A ou B), somente
+a primeira INSCRIÇÃO submetida será considerada, sendo as demais
+desclassificadas.
+7.4 Estão impedidas as INSCRIÇÕES da mesma PROPOSTA CULTURAL por
+diferentes PROPONENTES, QUADRILHAS JUNINAS, Associações, Federações ou
+Ligas, na mesma CATEGORIA ou em CATEGORIAS distintas.
+a) Caso seja identificada, a qualquer momento, a inscrição da mesma
+PROPOSTA CULTURAL por diferentes PROPONENTES, QUADRILHAS
+JUNINAS, Associações, Federações ou Ligas, apenas a primeira PROPOSTA
+CULTURAL submetida será considerada, sendo as demais desclassificadas.
+b) Caso seja identificada, a qualquer momento, a inscrição de PROPOSTAS
+CULTURAIS semelhantes por diferentes PROPONENTES, considerando a
+utilização de conteúdos e/ou textos iguais no preenchimento do CADASTRO DA
+PROPOSTA CULTURAL, apenas a primeira PROPOSTA CULTURAL
+submetida será considerada, sendo as demais desclassificadas.
+7.5 Caso a SECEC identifique, a qualquer momento, o PROPONENTE ou
+PROPOSTA CULTURAL que descumpra uma ou mais condições citadas nos
+subitens 7.1, 7.2, 7.3 e 7.4, o mesmo será desclassificado, e sua participação no
+processo desta Chamada será descontinuada.
+
+<!-- imagem -->
+
+Governo do Estado do Rio de Janeiro
+Secretaria de Estado de Cultura e Economia
+7.6 Caso o PROPONENTE ou PROPOSTA que não esteja cumprindo as condições
+dos subitens 7.1, 7.2, 7.3 e 7.4, seja identificado após sua habilitação, seleção e
+recebimento de recursos, o mesmo estará sujeito, sem prejuízo de eventual
+indenização por perdas e danos e das demais sanções cabíveis, e observando-se o
+direito de defesa prévia, a imediata restituição da integralidade do aporte efetuado pela
+SECEC, devidamente corrigido pelo IPCA-E, acrescido de multa e juros de 0,5% ao
+mês até o efetivo pagamento.
+7.7 Não há impedimento para a participação do PROPONENTE que tenha sido
+contemplado com o Auxílio Emergencial da Lei nº13.982, de 2 de abril de 2020, com a
+Lei Federal nº 14.017, de 29 de junho de 2020 (Lei Aldir Blanc), e com os Editais da
+SECEC anteriormente lançados.
+8. PRAZOS
+8.1 As datas correspondentes a cada etapa obedecerão ao disposto no presente
+regulamento, conforme calendário disposto no ANEXO 01.
+8.2 A realização das PROPOSTAS CULTURAIS contempladas deverá ser feita dentro
+do prazo de 90 (noventa) dias corridos a partir da publicação do extrato do TERMO DE
+COMPROMISSO em DOERJ.
+8.3 O prazo de vigência da presente Chamada será de 12 (doze) meses, contados a
+partir da data da publicação do seu resultado final no Diário Oficial do Estado do Rio
+de Janeiro, podendo ser prorrogado conforme determinação da Autoridade Superior
+da SECEC.
+8.3.1 O prazo de vigência desta Chamada não se confunde com o prazo de
+Execução e de Comprovação da Execução da PROPOSTA CULTURAL determinados
+ao PROPONENTE através deste certame.
+8.4 Fica a critério da SECEC, através de sua Autoridade Superior, a alteração do
+calendário disposto no ANEXO 01, em qualquer tempo, considerando a prorrogação
+de datas, a fim de acomodar fatos supervenientes, durante o processo desta
+Chamada.
+9. INSCRIÇÃO
+9.1 A INSCRIÇÃO nesta Chamada pressupõe a prévia e integral aceitação das
+normas deste Regulamento e de seus respectivos anexos.
+9.1.1 Para submissão da INSCRIÇÃO será necessário o aceite de forma
+eletrônica do TERMO DE COMPROMISSO DE ADIMPLÊNCIA na Plataforma
+Desenvolve Cultura, de acordo com o modelo disponibilizado no ANΕΧΟ 02.
+9.2 AS INSCRIÇÕES serão gratuitas, pelo período de 20 (vinte) dias corridos e
+
+<!-- imagem -->
+
+Governo do Estado do Rio de Janeiro
+Secretaria de Estado de Cultura e Economia
+deverão ser realizadas das 18 (dezoito) horas do dia 13 (treze) de abril de 2023 até às
+18 (dezoito) horas do dia 02 (dois) de maio de 2023, exclusivamente pela internet,
+através da Plataforma Desenvolve Cultura: http://cultura.rj.gov.br/desenvolve-cultura.
+Os anexos estarão disponíveis no endereço eletrônico da SECEC:
+http://cultura.rj.gov.br.
+9.3 O preenchimento do formulário eletrônico se divide em duas partes:
+a) CADASTRO DO PROPONENTE;
+b) CADASTRO DA PROPOSTA CULTURAL.
+9.4 CADASTRO DO PROPONENTE
+9.4.1 O PROPONENTE deverá preencher toda a ficha de inscrição e anexar a
+seguinte documentação obrigatória (via upload), exclusivamente na Plataforma
+Desenvolve Cultura:
+a) CADASTRO NACIONAL DA PESSOA JURÍDICA, FICHA DE
+INFORMAÇÕES CADASTRAIS (ou Cartão de Inscrição Estadual) ou
+COMPROVANTE DE ΜΕΙ. O(s) documento(s) deverá(ão) estar atualizados,
+ativo(s), comprovando atividade econômica e/ou produtiva no Estado do Rio de
+Janeiro e estando o PROPONENTE apto na data de submissão da inscrição da
+PROPOSTA CULTURAL na Plataforma Desenvolve Cultura.
+b) CÓPIA SIMPLES DO CONTRATO ou ESTATUTO SOCIAL atualizado que
+comprove atividade cultural da empresa e seu Responsável Legal (exceto MEI).
+b.1) O CONTRATO ou ESTATUTO SOCIAL deverá estar de acordo com
+a(s) alteração(ões) contida(s) na ATA atualizada apresentada no ato inscrição.
+c) CÓPIA SIMPLES DA ATA DE ELEIÇÃO atualizada ou ÚLTIMA
+ALTERAÇÃO CONTRATUAL (se for o caso e exceto MEI).
+d) CÓPIA SIMPLES DA IDENTIDADE do responsável legal, RESPONSÁVEL
+PELA EXECUÇÃO.
+e) CÓPIA SIMPLES DO CPF do responsável legal, RESPONSÁVEL PELA
+EXECUÇÃO.
+f) DECLARAÇÃO DE USO DO NOME SOCIAL DO RESPONSÁVEL PELA
+EXECUÇÃO (se for o caso), conforme modelo disposto no ANEXO 03,
+devidamente assinada e datada pelo RESPONSÁVEL PELA EXECUÇÃO.
+g) DOCUMENTO DE REPRESENTAÇÃO DA QUADRILHA JUNINA E
+APRESENTAÇÃO DA PROPOSTA, contendo a identificação e a assinatura dos
+integrantes da(s) QUADRILHA(S) JUNINA(S), afirmando a representação do
+PROPONENTE para fins da execução da PROPOSTA CULTURAL inscrita
+
+
+
+
+<!-- imagem -->
+
+Governo do Estado do Rio de Janeiro
+Secretaria de Estado de Cultura e Economia
+
+nesta Chamada Emergencial, conforme modelos disponíveis para cada
+Categoria no ANEXO 04 – CATEGORIA A e ANEXO 05 – CATEGORIA B.
+
+g.1) No caso de INSCRIÇÕES na CATEGORIA A – APRESENTAÇÃO
+DE QUADRILHA JUNINA, ○ DOCUMENTO DE REPRESENTAÇÃO
+deverá ser assinado pelos integrantes da QUADRILHA JUNINA,
+considerando o mínimo de 12 (doze) pares e mais 01 (um) marcador.
+
+g.2) No caso de INSCRIÇÕES na CATEGORIA A, alterações no número
+de dançadores e/ou pares deverão ser comunicadas via Plataforma
+Desenvolve Cultura e alteradas no orçamento da PROPOSTA
+CULTURAL antes de sua execução, ficando expressamente impedida a
+redução do número de integrantes da QUADRILHA JUNINA a menos de
+12 (doze) pares.
+
+g.3) No caso de inscrições na CATEGORIA A, o número total de
+integrantes da QUADRILHA JUNINA que assinarem o DOCUMENTO DE
+REPRESENTAÇÃO DA QUADRILHA JUNINA E APRESENTAÇÃO DA
+PROPOSTA deverá corresponder ao número total de integrantes
+apresentado para pagamento de cachê no item 1 da PLANILHA
+ORÇAMENTÁRIA.
+
+g.4) No caso de INSCRIÇÕES na CATEGORIA A, para integrantes da
+QUADRILHA JUNINA menores de 18 anos, será necessário a
+apresentação do respectivo “alvará judicial”.
+
+g.5) No caso de INSCRIÇÕES na CATEGORIA B - FESTIVAL DE
+QUADRILHAS JUNINAS, ○ DOCUMENTO DE REPRESENTAÇÃO
+deverá ser assinado pelos responsáveis das QUADRILHAS JUNINAS
+representadas pela Associação, Federação ou Liga PROPONENTE da
+PROPOSTA CULTURAL. Os responsáveis das QUADRILHAS JUNINAS
+deverão indicar o número de participantes que compõem seu respectivo
+grupo.
+
+g.6) No caso de INSCRIÇÕES na CATEGORIA B, alterações na
+quantidade de QUADRILHAS JUNINAS participantes do FESTIVAL
+deverão ser comunicadas via Plataforma Desenvolve Cultura e
+alteradas no orçamento da PROPOSTA CULTURAL antes de sua
+execução, ficando expressamente impedida a redução da quantidade de
+participantes do FESTIVAL a menos de 5 (cinco) QUADRILHAS
+JUNINAS.
+
+g.7) No caso de inscrições na CATEGORIA B, a quantidade de
+responsáveis pelas QUADRILHAS JUNINAS que assinarem 0
+DOCUMENTO DE REPRESENTAÇÃO DA QUADRILHA JUNINA E
+APRESENTAÇÃO DA PROPOSTA deverá corresponder ao número total
+de integrantes apresentado para pagamento de cachê no item 1 da
+PLANILHA ORÇAMENTÁRIA..
+
+<!-- imagem -->
+
+Governo do Estado do Rio de Janeiro
+Secretaria de Estado de Cultura e Economia
+
+g.8) Em ambas as CATEGORIAS, a SECEC poderá solicitar aos
+PROPONENTES, a qualquer momento, as cópias simples dos
+Documentos de Identidade (RG) dos integrantes da(s) QUADRILHA(S)
+JUNINA(S) que constam entre as assinaturas enviadas no DOCUMENTO
+DE REPRESENTAÇÃO para fins de comprovação.
+
+h) CARTA DE ANUÊNCIA (SOMENTE CATEGORIA B) CARTA DE
+ANUÊNCIA do local de realização do FESTIVAL DE QUADRILHAS JUNINAS,
+para inscrições na CATEGORIA B.
+
+i) COMPROVAÇÃO DE ATUAÇÃO CULTURAL EM FESTEJOS JUNINOS
+compilação de documentos que comprovem efetivamente a atuação prévia do
+PROPONENTE e/ou QUADRILHA JUNINA a qual o PROPONENTE
+representa, em atividades ligadas aos festejos juninos, no Estado do Rio de
+Janeiro. A COMPROVAÇÃO DE ATUAÇÃO CULTURAL EM FESTEJOS
+JUNINOS do PROPONENTE ou QUADRILHA JUNINA a qual representa
+deverá ser anexada em arquivo único no formato PDF com, no máximo,
+conforme modelo disposto no ANEXO 06.
+
+i.1) Somente serão considerados como efetivas comprovações das
+atividades, os seguintes materiais:
+
+i.1.1) Prints de sites e páginas de redes sociais, contendo nome do
+PROPONENTE (conforme Razão Social ou Nome Fantasia) ou da(s)
+QUADRILHA(S) JUNINA(S) a(s) qual(ais) representa (nome conforme
+apresentado no ANEXO 04 CATEGORIA A ou no ANEXO 05
+CATEGORIA B) e data da publicação (incluindo o ano) visíveis, e
+acompanhados dos seus respectivos links.
+
+i.1.2) Publicações em Diário Oficial, Condecorações, Premiações,
+Troféus, Medalhas e Documentações emitidas por fontes/órgãos oficiais
+nos quais sejam mencionados claramente o nome ou a logomarca do
+PROPONENTE ou da QUADRILHA JUNINA a qual representa.
+
+i.1.3) Fotos nas quais o nome ou a logomarca do PROPONENTE
+(conforme Razão Social ou Nome Fantasia) ou da(s) QUADRILHA(S)
+JUNINA(S) a(s) qual(ais) representa (nome conforme apresentado no
+ΑΝΕΧΟ 04 CATEGORIA A ou no ANEXO 05 CATEGORIA B)
+esteja(m) claramente identificada(s), acompanhadas de data (incluindo
+o ano) e fonte visíveis.
+
+i.1.4) Vídeos de apresentações ou eventos nos quais o PROPONENTE
+ou a QUADRILHA JUNINA a qual representa esteja claramente
+identificada, acompanhadas de data (incluindo o ano) e fonte visíveis.
+
+i.1.5) Notícia, matéria de jornal ou revista com a menção do nome do
+PROPONENTE (conforme Razão Social ou Nome Fantasia) ou da(s)
+QUADRILHA(S) JUNINA(S) a(s) qual(ais) representa (nome conforme
+apresentado no ANEXO 04 CATEGORIA A ou no ANEXO 05
+
+<!-- imagem -->
+
+Governo do Estado do Rio de Janeiro
+Secretaria de Estado de Cultura e Economia
+
+CATEGORIA B) claramente sinalizado(s), contendo data (incluindo 0
+ano) e fonte visíveis.
+
+i.1.6) Material de divulgação contendo o nome PROPONENTE
+(conforme Razão Social ou Nome Fantasia) ou da(s) QUADRILHA(S)
+JUNINA(S) a(s) qual(ais) representa (nome conforme apresentado no
+ANEXO 04 – CATEGORIA A ou no ANEXO 05 – CATEGORIA B), que
+possua data de realização da atividade (incluindo o ano).
+
+i.1.7) Declaração de empresa para a qual o PROPONENTE (conforme
+Razão Social ou Nome Fantasia) ou a(s) QUADRILHA(S) JUNINA(S)
+a(s) qual(ais) representa (nome conforme apresentado no ANEXO 04 –
+CATEGORIA A ou no ANEXO 05 – CATEGORIA B), prestou serviços
+com finalidade cultural, devidamente assinada por um representante da
+empresa, especificando o período (incluindo o ano) no qual o
+PROPONENTE (conforme Razão Social ou Nome Fantasia) ou a(s)
+QUADRILHA(S) JUNINA(S) a(s) qual(ais) representa (nome conforme
+apresentado no ANEXO 04 CATEGORIA A ou no ANEXO 05
+CATEGORIA B) prestou serviços.
+
+i.1.8) Nota fiscal emitida pelo PROPONENTE (conforme Razão Social
+ou Nome Fantasia) ou pela(s) QUADRILHA(S) JUNINA(S) a(s)
+qual(ais) representa (nome conforme apresentado no ANEXO 04
+CATEGORIA A ou no ANEXO 05 – CATEGORIA B) que comprove a
+prestação de serviços com finalidade cultural para terceiros.
+
+i.2) Não serão aceitos arquivos da COMPROVAÇÃO DE ATUAÇÃO
+CULTURAL EM FESTEJOS JUNINOS compostos somente por links,
+assim como não serão aceitos arquivos compostos somente por fotos que
+não possuam fonte ou link para respectiva comprovação.
+
+i.3) Em todo material enviado deverá constar o nome do PROPONENTE
+(conforme Razão Social ou Nome Fantasia) ou da(s) QUADRILHA(S)
+JUNINA(S) (nome conforme apresentado no ANEXO 04 – CATEGORIA A
+ou no ANEXO 05 – CATEGORIA B) a(s) qual(ais) representa, sendo
+devidamente acompanhado fonte de referência ou link para comprovação,
+com a respectiva data de realização (incluindo o ano).
+
+i.3.1) Somente serão consideradas válidas as comprovações referentes
+à(s) QUADRILHA(S) JUNINA(S), que contenha(m) seu(s) nome(s)
+conforme apresentado no DOCUMENTO DE REPRESENTAÇÃO DA
+QUADRILHA JUNINA E APRESENTAÇÃO DA PROPOSTA (ANEXO
+04 CATEGORIA A ou AΝΕΧΟ 05 CATEGORIA B). Qualquer
+comprovação cujo nome citado seja diferente do nome da QUADRILHA
+JUNINA apresentado nos anexos supracitados será desconsiderada.
+
+i.4) Não serão aceitos como comprovações os materiais que não possuam
+claramente identificados o nome do PROPONENTE (conforme Razão
+Social ou Nome Fantasia) ou da(s) QUADRILHA(S) JUNINA(S) a(s)
+
+
+
+Governo do Estado do Rio de Janeiro
+Secretaria de Estado de Cultura e Economia
+qual(ais) representa (nome conforme ANEXO 04 CATEGORIA A ou
+ΑΝΕΧΟ 05 – CATEGORIA B), a data (incluindo o ano), e sua respectiva
+fonte ou link.
+i.5) Somente serão considerados como comprovação de atuação ativa em
+ações relacionadas aos festejos juninos, aqueles comprovados na
+COMPROVAÇÃO DE ATUAÇÃO CULTURAL EM FESTEJOS JUNINOS,
+conforme disposto na alínea “i” do subitem 9.4.1 deste Edital. Caso o
+PROPONENTE ou QUADRILHA JUNINA a qual representa, tenha
+realizado mais atividades, sem comprovação conforme supracitado, estes
+não serão considerados.
+i.6) Não serão aceitos como comprovações os materiais com o nome do
+representante legal, sócios ou RESPONSÁVEL PELA EXECUÇÃO da
+PROPOSTA CULTURAL. Somente serão aceitas as comprovações com o
+nome do PROPONENTE (conforme Razão Social ou Nome Fantasia) ou
+da(s) QUADRILHA(S) JUNINA(S) a(s) qual(ais) representa (nome
+conforme apresentado no ANEXO 04 – CATEGORIA A ou no ANEXO 05
+CATEGORIA B), a data (incluindo o ano), e sua respectiva fonte ou link.
+j) DECLARAÇÃO DE DIREITOS AUTORAIS E AUTORIZAÇÃO DE USO DE
+CONTEÚDO DO RELATÓRIO DE EXECUÇÃO DA PROPOSTA CULTURAL,
+conforme ANEXO 07, devidamente preenchido e assinado.
+9.4.2 Não serão consideradas assinaturas com manipulação de imagem
+(assinatura inserida no documento por meio de colagem) para os anexos que
+solicitam assinatura(s) do Responsável pela Execução e/ou dos participantes da
+PROPOSTA.
+9.4.3 No caso de assinaturas digitais, serão consideradas apenas as
+assinaturas digitais com certificação.
+9.4.4 Toda documentação obrigatória mencionada no subitem 9.4.1 e suas
+alíneas, deverá estar atualizada e ativa no ato da inscrição.
+9.5 CADASTRO DA PROPOSTA
+9.5.1 A PROPOSTA CULTURAL deverá ser enquadrada, no momento da
+INSCRIÇÃO, em uma das CATEGORIAS, conforme dispostas no item 04.
+9.5.1.1 É de total responsabilidade do PROPONENTE inscrever a PROPOSTA
+CULTURAL na CATEGORIA a qual mais se adequa, dentro da Plataforma
+Desenvolve Cultura. Uma vez submetida a PROPOSTA CULTURAL, será
+expressamente impedida a alteração da CATEGORIA na qual está inscrita
+dentro da Plataforma, bem como para avaliação e continuidade de seu
+processo de participação nesta Chamada.
+9.5.2 A PROPOSTA CULTURAL deverá considerar a singularidade do projeto e
+ser descrita de forma objetiva, contendo: descrição detalhada das ações a serem
+
+<!-- imagem -->
+
+Governo do Estado do Rio de Janeiro
+Secretaria de Estado de Cultura e Economia
+realizadas e dos profissionais envolvidos, justificativa de realização considerando a
+importância da APRESENTAÇÃO DA QUADRILHA JUNINA (CATEGORIA A) ou do
+FESTIVAL DE QUADRILHAS JUNINAS (CATEGORIA B) no âmbito cultural da
+localidade, assim como a descrição dos objetivos da proposta, medidas de
+acessibilidade e democratização do acesso, local de realização e público-alvo.
+9.5.3 Complementando a INSCRIÇÃO, O PROPONENTE deverá preencher na
+Plataforma Desenvolve Cultura os seguintes itens referentes à PROPOSTA:
+a) PLANILHA ORÇAMENTÁRIA, conforme modelo no ANEXO 08;
+a.1) O valor da planilha orçamentária deverá contemplar o valor total e
+exato do prêmio disponibilizado para a PROPOSTA CULTURAL, de
+acordo com a CATEGORIA escolhida, dispostas no item 04.
+a.1.1) O modelo de PLANILHA ORÇAMENTÁRIA está disponibilizado
+no ANEXO 08 e tais informações deverão ser preenchidas na
+Plataforma Desenvolve Cultura.
+a.2) Em ambas as CATEGORIAS, deverá ser respeitada a porcentagem
+de no máximo 20% do valor total do aporte recebido para rubricas
+referentes a prestações de serviços, custos administrativos e de
+manutenção do PROPONENTE (incluindo o pagamento de sócios). Tais
+rubricas devem ser destinadas a realização da PROPOSTA CULTURAL,
+respeitando seu CRONOGRAMA DE EXECUÇÃO, e devem ser
+especificadas como tal no preenchimento da PLANILHA
+ORÇAMENTÁRIA.
+a.2.1) A descrição das rubricas deverá conter detalhamento mínimo, de
+modo a identificar com clareza o(s) produto(s) e/ou serviço(s) a ser(em)
+pago(s). Não serão consideradas as planilhas orçamentárias que
+contenham rubricas com descrições genéricas ou com detalhamento
+insuficiente.
+a.3) Deverão ser respeitadas as seguintes porcentagens:
+a.3.1) CATEGORIA A – mínimo de 40% do valor total da PROPOSTA
+deve ser destinado para pagamento dos cachés dos integrantes da
+QUADRILHA JUNINA.
+a.3.2) CATEGORIA B – mínimo de 30% do valor total da PROPOSTA
+para o pagamento dos cachés das QUADRILHAS JUNINAS
+participantes.
+a.4) Em ambas as CATEGORIAS, deverá ser observada a equiparação da
+remuneração dos prestadores de serviço e artistas que possuam funções
+equivalentes dentro da PROPOSTA CULTURAL.
+
+<!-- imagem -->
+
+Governo do Estado do Rio de Janeiro
+Secretaria de Estado de Cultura e Economia
+b) CRONOGRAMA DE EXECUÇÃO, conforme modelo ANEXO 09.
+b.1) O modelo de CRONOGRAMA DE EXECUÇÃO está disponibilizado
+no ANEXO 09 e tais informações deverão ser preenchidas na Plataforma
+Desenvolve Cultura.
+9.6 Todos os campos referentes à inscrição do PROPONENTE e da PROPOSTA
+CULTURAL deverão ser preenchidos e deverão constar todos os anexos obrigatórios.
+9.7 Não será concedido prazo complementar para suprir a falta de documentos ou
+informações.
+9.8 Caso seja identificado, a qualquer momento, o não cumprimento das regras
+referentes ao CADASTRO DO PROPONENTE e ao CADASTRO DA PROPOSTA,
+descritas nos subitens 9.4 е 9.5, o PROPONENTE será desclassificado e eliminado
+do processo desta Chamada, observando-se o direito de defesa prévia.
+9.8.1 Caso o não cumprimento das regras referentes ao CADASTRO DO
+PROPONENTE e ao CADASTRO DA PROPOSTA, descritas nos subitens 9.4 e 9.5,
+seja identificado após sua habilitação, seleção e recebimento de recursos, 0
+PROPONENTE estará sujeito, sem prejuízo de eventual indenização por perdas e
+danos e das demais sanções cabíveis, e observando-se o direito de defesa prévia, à
+imediata restituição da integralidade do aporte efetuado pela SECEC, devidamente
+corrigido pelo IPCA-E, acrescido de multa e juros de 0,5% ao mês até o efetivo
+pagamento.
+9.9 Não será objeto de apoio financeiro a PROPOSTA CULTURAL que:
+a) Tenham ou venham a ter como organizadores, realizadores, promotores,
+copatrocinadores ou apoiadores, instituições financeiras, securitárias ou
+políticas;
+b) Tenham cunho político-eleitoral;
+c) Se destinem ao financiamento de campanhas, realização de comícios ou
+qualquer outra atividade vinculada a partidos políticos e/ou suas coligações;
+d) Infrinjam dispositivos da Lei nº 8.078/90 (Código de Defesa do Consumidor)
+ou outra norma jurídica vigente;
+e) Violem os direitos de terceiros, incluindo os de propriedade intelectual;
+f) Atentem contra a ordem pública;
+g) Causem impacto negativo à saúde humana, animal e/ou ao meio ambiente;
+h) Tenham vínculo com a exploração de trabalho infantil, degradante ou
+escravo;
+
+<!-- imagem -->
+
+Governo do Estado do Rio de Janeiro
+Secretaria de Estado de Cultura e Economia
+i) Evidenciem preconceito ou discriminação de qualquer natureza;
+
+j) Caracterizem promoção pessoal de autoridade, de servidor público ou da
+imagem de governo, de qualquer esfera política; e
+
+k) Induzam, instiguem ou auxiliem alguém ao uso indevido de drogas ilícitas.
+
+9.10 Caso a SECEC identifique, a qualquer momento, o descumprimento de uma ou
+mais condições citadas no subitem 9.9 na INSCRIÇÃO de um PROPONENTE, este
+será desclassificado e sua participação no processo desta Chamada será
+descontinuada, observando-se o direito de defesa prévia.
+
+9.11 Caso a PROPOSTA que não esteja cumprindo as condições do item 9.9, seja
+identificada após a habilitação, seleção e recebimento de recursos, o PROPONENTE
+estará sujeito, sem prejuízo de eventual indenização por perdas e danos e das demais
+sanções cabíveis, e observando-se o direito de defesa prévia, a imediata restituição
+da integralidade do aporte efetuado pela SECEC, devidamente corrigido pelo IPCA-E,
+acrescido de juros de 0,5% ao mês até o efetivo pagamento.
+
+9.12 A SECEC não fornecerá cópia das PROPOSTAS inscritas
+
+9.13 Nenhuma documentação remetida na INSCRIÇÃO será devolvida.
+
+9.14 Não será aceito o envio de documentação além da solicitada.
+
+9.15 Não serão aceitos documentos enviados por e-mail ou protocolados na SECEC.
+
+9.16 Não serão aceitas modificações ou substituições de dados e de anexos depois
+de submetida a INSCRIÇÃO.
+
+9.17 Não será aceita, sob qualquer hipótese, a substituição do PROPONENTE.
+
+9.18 Será contemplado somente 01 (uma) PROPOSTA CULTURAL por
+PROPONENTE, a fim de atender o máximo de contemplados e alcançar o maior
+número de agentes.
+
+9.19 A SECEC não se responsabiliza pela falha na inscrição por conta de problemas
+em servidores, em provedores de acesso, na transmissão de dados, na linha de
+comunicação, por lentidão dos servidores ou qualquer outra razão, cabendo ao
+PROPONENTE a devida prudência para realização dos atos necessários em tempo
+hábil.
+
+9.20 A SECEC não se responsabiliza por PROPOSTAS CULTURAIS cuja submissão
+não tenha sido totalmente finalizada na Plataforma Desenvolve Cultura.
+
+9.21 Para a INSCRIÇÃO e acompanhamento da sua PROPOSTA CULTURAL na
+Plataforma Desenvolve Cultura, recomenda-se a utilização do navegador Google
+Chrome, assim como de:
+
+<!-- imagem -->
+
+Governo do Estado do Rio de Janeiro
+Secretaria de Estado de Cultura e Economia
+a) Sistema operacional Windows versão 7 ou superior;
+
+b) Sistema NVDA instalado ou plugin para o Google Chrome chamado
+Chromevo (para proponentes com deficiência visual);
+
+c) Acessar o sistema via notebook ou computador desktop (não é recomendado
+o acesso através de celular).
+
+9.22 O ônus da participação nesta Chamada, incluídas possíveis despesas com
+cópias, envio e emissão de documentos, é de exclusiva responsabilidade do
+PROPONENTE.
+
+9.23 Ao submeter a INSCRIÇÃO, 0 PROPONENTE se responsabiliza pela veracidade
+e conformidade de todas as informações preenchidas no CADASTRO DO
+PROPONENTE e no CADASTRO DA PROPOSTA CULTURAL. Assim como se
+responsabiliza pela veracidade e conformidade de todos os documentos anexados na
+Plataforma Desenvolve Cultura, referentes à INSCRIÇÃO nesta Chamada.
+
+a) Caso seja identificada, a qualquer momento, a não veracidade e a não
+conformidade de todas as informações preenchidas no CADASTRO DO
+PROPONENTE e no CADASTRO DA PROPOSTA CULTURAL, a PROPOSTA
+CULTURAL inscrita será desclassificada e sua participação no processo desta
+Chamada será descontinuada, observando-se o direito de defesa prévia.
+
+b) Caso a PROPOSTA que não esteja cumprindo as condições do subitem
+9.23, seja identificada após a habilitação, seleção e recebimento de recursos, o
+PROPONENTE estará sujeito, sem prejuízo de eventual indenização por perdas
+e danos e das demais sanções cabíveis, e observando-se o direito de defesa
+prévia, a imediata restituição da integralidade do aporte efetuado pela SECEC,
+devidamente corrigido pelo IPCA-E, acrescido de juros de 0,5% ao mês até o
+efetivo pagamento.
+
+9.24 O acompanhamento das atualizações referentes à PROPOSTA inscrita será de
+total responsabilidade do PROPONENTE, sendo realizadas prioritariamente através
+da Plataforma Desenvolve Cultura.
+
+a) O PROPONENTE ficará também responsável pelo acompanhamento das
+comunicações referentes a este certame publicadas no DOERJ e no website da
+SECEC (www.cultura.rj.gov.br), bem como aquelas enviadas por e-mail.
+
+10. HABILITAÇÃO E CREDENCIAMENTO DAS PROPOSTAS CULTURAIS
+
+10.1 A etapa de habilitação e credenciamento consiste na conferência dos
+documentos, itens e informações exigidas na inscrição, a fim de que o PROPONENTE
+comprove possuir os requisitos exigidos neste Regulamento, e na análise da
+COMPROVAÇÃO DE ATUAÇÃO CULTURAL EM FESTEJOS JUNINOS. Nesta etapa
+será atribuída a pontuação para sua classificação e credenciamento, de acordo com o
+número de prêmios definidos para cada CATEGORIA, de acordo com o subitem 5.1.1
+
+<!-- imagem -->
+
+Governo do Estado do Rio de Janeiro
+Secretaria de Estado de Cultura e Economia
+do edital.
+
+10.1.1 Os procedimentos da etapa de habilitação preliminar serão realizados
+pela Comissão Técnica Permanente de Elaboração de Editais e Análise de Projetos
+Culturais do Fundo Estadual de Cultura, conforme Resolução SECEC N° 222 de 15 de
+Julho de 2022.
+
+10.1.2 Serão inabilitadas as INSCRIÇÕES dos PROPONENTES que não
+tenham cumprido todas as exigências estabelecidas neste Regulamento, incluindo o
+preenchimento correto do cadastro do PROPONENTE e da PROPOSTA CULTURAL
+e o envio dos anexos obrigatórios, conforme subitens 9.4 e 9.5, bem como serão
+inabilitadas as INSCRIÇÕES dos PROPONENTES que estejam impedidos de
+participar deste processo de seleção, de acordo com o item 07 deste Regulamento.
+
+10.1.3 Não serão consideradas as PROPOSTAS CULTURAIS cujos processos
+de INSCRIÇÃO não tenham sido submetidos, sendo assim, não tendo o envio
+concluído na Plataforma Desenvolve Cultura.
+
+10.1.3.1 Os dados e arquivos das PROPOSTAS CULTURAIS não submetidas
+pelos PROPONENTES até o prazo final das INSCRIÇÕES, de acordo com o
+subitem 9.2, serão excluídos da Plataforma Desenvolve Cultura após o
+término de vigência desta Chamada, conforme definido no subitem 8.3.
+
+10.1.4 Dentro da distribuição de prêmios para cada CATEGORIA, de acordo
+com o subitem 5.1.1 do edital, será respeitada a porcentagem de 40% do número de
+prêmios disponibilizados para a Capital (Região Metropolitana I) e 60% do número de
+prêmios a ser disponibilizado para os municípios das demais regiões, considerando o
+que dispõe o art. 21, § 1º da Lei Estadual nº 7.035, de 07 de julho de 2015, que
+instituiu o Sistema Estadual de Cultura.
+
+10.2 Serão consideradas, para fins de classificação geral e credenciamento, os
+documentos enviados na COMPROVAÇÃO DE ATUAÇÃO CULTURAL EM
+FESTEJOS JUNINOS, conforme disposto na alínea “i” do subitem 9.4.1 deste edital.
+Cada atividade devidamente comprovada valerá 05 (cinco) pontos, sendo
+contabilizado o limite de até 20 (vinte) atividades.
+
+10.3 A seleção dos PROPONENTES credenciados e contemplados com a premiação
+financeira, se dará de acordo com a classificação em cada CATEGORIA, definida pela
+ordem decrescente da pontuação final de cada PROPONENTE, de acordo com
+análise dos documentos enviados, conforme disposto no subitem 10.2.
+
+10.4 Havendo empate entre as pontuações finais dos PROPONENTES, o desempate
+se dará considerando:
+
+a) CATEGORIA A
+primeiramente, a PROPOSTA CULTURAL de
+apresentação de QUADRILHA JUNINA composta pelo maior número de pares
+dançarinos, conforme informado em sua INSCRIÇÃO. Seguindo o empate, será
+selecionada a PROPOSTA CULTURAL de apresentação de QUADRILHA
+JUNINA que for acompanhada de grupo musical, composto por no mínimo de
+três componentes, sem a utilização de áudio previamente gravado. A
+
+
+
+
+Governo do Estado do Rio de Janeiro
+Secretaria de Estado de Cultura e Economia
+
+<!-- imagem -->
+
+comprovação da existência do grupo musical, objeto deste critério de
+desempate, deverá estar devidamente discriminada na PLANILHA
+ORÇAMENTÁRIA apresentada no ato de inscrição do projeto, conforme
+ANEXO 08 deste edital.
+
+b) CATEGORIA B a PROPOSTA CULTURAL cujo PROPONENTE tenha o
+maior número de QUADRILHAS JUNINAS participantes do FESTIVAL DE
+QUADRILHAS JUNINAS previsto na PROPOSTA, conforme informado em sua
+INSCRIÇÃO.
+
+10.4.1 Continuando o empate, será selecionado o PROPONENTE que não
+tenha sido contemplado nos Editais da SECEC, nos anos de 2021 e 2022.
+
+10.4.2 Se ainda assim, continuarem empatados, o desempate se dará
+considerando a data de abertura do CNPJ do PROPONENTE, dos mais antigos para
+os mais novos.
+
+10.5 Em caso de eventual desistência ou impedimentos da Pessoa Jurídica
+selecionada, será convocado o PROPONENTE classificado subsequente, respeitando
+a ordem decrescente das Classificações por Categoria e da Classificação Geral, e
+ainda, os critérios de desempate, conforme estabelecidos nesta Chamada.
+
+10.6 Os procedimentos da etapa de habilitação e credenciamento serão realizados
+pela Comissão Técnica Permanente de Elaboração de Editais e Análise de Projetos
+Culturais do Fundo Estadual de Cultura, conforme Resolução SECEC N° 222 de 15 de
+Julho de 2022.
+
+10.7 Serão inabilitados os PROPONENTES que não tenham cumprido todas as
+exigências estabelecidas neste Regulamento, incluindo o preenchimento correto do
+cadastro do PROPONENTE e da PROPOSTA CULTURAL, e/ou que estejam
+impedidos de participar deste processo de seleção, de acordo com o item 7 deste
+Regulamento, bem como o não envio dos anexos obrigatórios, conforme subitem 9.4
+e 9.5.
+
+10.8 Também não serão considerados os PROPONENTES que possuam
+PROPOSTAS CULTURAIS cujo processo de INSCRIÇÃO não tenha sido submetida
+na Plataforma Desenvolve Cultura, sendo assim totalmente finalizado.
+
+10.9 O resultado da etapa de habilitação e credenciamento, contendo as listas de
+Classificação por Categoria e Classificação Geral dos PROPONENTES habilitados,
+com suas respectivas notas e status preliminar, e dos PROPONENTES inabilitados
+(incluindo os motivos da inabilitação), será divulgado no sítio eletrônico da SECEC:
+www.cultura.rj.gov.br e publicado no Diário Oficial do Estado do Rio de Janeiro.
+
+10.10 A responsabilidade pelo acompanhamento das publicações no DOERJ e no
+endereço eletrônico da SECEC é do PROPONENTE.
+
+11. RECURSOS DA FASE DE HABILITAÇÃO E CREDENCIAMENTO
+
+Governo do Estado do Rio de Janeiro
+Secretaria de Estado de Cultura e Economia
+
+<!-- imagem -->
+
+11.1 A partir da publicação do resultado preliminar da fase de Habilitação e
+Credenciamento, o PROPONENTE poderá apresentar recurso de habilitação e/ou
+nota, no prazo de até 05 (cinco) dias corridos, através da Plataforma Desenvolve
+Cultura: http://cultura.rj.gov.br/desenvolve-cultura, mesmo endereço utilizado para a
+inscrição da proposta, devendo o PROPONENTE utilizar o login e senha já
+cadastrados.
+
+11.2 Não serão aceitos recursos encaminhados através de e-mail ou protocolados na
+sede da SECEC.
+
+11.3 O recurso deverá ser objetivamente fundamentado e enviado exclusivamente
+pela mesma plataforma utilizada para inscrição, que será reaberta exclusivamente
+para este fim, até às 18 (dezoito) horas do último dia do prazo de recurso.
+
+11.3.1 O PROPONENTE terá direito a submissão do recurso de habilitação na
+Plataforma Desenvolve Cultura somente 01 (uma) única vez, dessa forma o recurso
+enviado deverá conter todas as justificativas do pedido de revisão da inabilitação e, se
+for o caso, anexar todos os documentos que julgar convenientes, contemplando todos
+os motivos de inabilitação os quais deseja contestar.
+
+11.3.2 Uma vez que o recurso for submetido pelo PROPONENTE na Plataforma
+Desenvolve Cultura, não será permitida a alteração ou complementação de seu texto
+ou arquivos anexados.
+
+11.3.3 Durante a análise do recurso, para seu deferimento ou indeferimento,
+será feita a revisão da avaliação dos critérios de habilitação e de pontuação para
+credenciamento. Esta revisão poderá resultar na mudança do status de habilitação do
+PROPONENTE, assim como na alteração da nota do PROPONENTE, podendo esta
+ser aumentada, permanecer a mesma ou ser diminuída, tendo em vista o cumprimento
+dos critérios de análise do Edital.
+
+11.4 Após o julgamento dos recursos ou o transcurso do prazo para interposição de
+recurso, a SECEC divulgará no DOERJ, bem como no endereço eletrônico da
+SECEC, as decisões recursais e o resultado com a listagem final de Classificação
+Geral das PROPOSTAS CULTURAIS habilitadas, com suas respectivas notas e status
+final, e das PROPOSTAS CULTURAIS inabilitadas (incluindo os motivos da
+inabilitação).
+
+11.5 A responsabilidade pelo acompanhamento das publicações no DOERJ e no
+endereço eletrônico da SECEC é dos CANDIDATOS.
+
+12. CONTRATAÇÃO E LIBERAÇÃO DOS RECURSOS ORÇAMENTÁRIOS PELA
+SECEC
+
+12.1 No prazo de 15 (quinze) dias corridos após a publicação do resultado final, os
+PROPONENTES contemplados no credenciamento deverão informar os dados
+bancários
+na
+Plataforma
+Desenvolve
+Cultura:
+
+Governo do Estado do Rio de Janeiro
+Secretaria de Estado de Cultura e Economia
+
+<!-- imagem -->
+
+http://cultura.rj.gov.br/desenvolve-cultura,
+nos campos específicos para este
+preenchimento, e anexar a seguinte DOCUMENTAÇÃO OBRIGATÓRIA PARA
+CONTRATAÇÃO:
+
+a) DADOS BANCÁRIOS, a serem preenchidos em área específica dentro da
+página da PROPOSTA na Plataforma Desenvolve Cultura.
+
+b) DECLARAÇÃO DE ABERTURA DE CONTA CORRENTE, conforme ANEXO
+10, contendo razão social do PROPONENTE, indicando a conta corrente
+específica aberta em nome do PROPONENTE no Banco Bradesco, banco
+conveniado com Estado do Rio de Janeiro, conforme Instrução Normativa
+SEC/GAB_n°01, de 16 de agosto de 2018, para depósito e movimentação
+exclusivos dos recursos financeiros transferidos por esta Secretaria para
+realização da PROPOSTA CULTURAL selecionada nesta Chamada.
+
+b.1) Após a publicação do resultado final do certame no DOERJ, 0
+PROPONENTE deverá providenciar a abertura de conta bancária no
+Banco Bradesco, banco conveniado com o Governo do Estado do Rio de
+Janeiro, específica para a execução e movimentaçao financeira da
+PROPOSTA CULTURAL, apresentando o respectivo comprovante (extrato
+ou saldo zerado), conforme Instrução Normativa SEC/GAB n°01, de 16 de
+agosto de 2018, para prosseguir na etapa de concessão de benefício.
+
+b.2) A conta bancária deverá ter a Pessoa Jurídica, PROPONENTE,
+credenciada como titular e os dados deverão constar conforme descrito na
+alínea "a" do item 12.1.
+
+b.3) A conta bancária deverá ser exclusiva e unicamente utilizada para
+recebimento e movimentação do aporte da premiação recebida neste
+Edital. A conta indicada não poderá, em nenhuma hipótese, estar
+vinculada a um projeto de outro Edital da SECEC que ainda esteja em
+execução ou em prestação de contas pelo PROPONENTE, ou seja, que
+ainda não possua as aprovações dos Relatórios de Execução da Proposta
+e Financeira publicadas em DOERJ.
+
+b.4) O PROPONENTE que incorrer na impossibilidade da abertura da
+conta corrente no prazo previsto será eliminado da Chamada Emergencial.
+
+c) EXTRATO OU SALDO DA CONTA CORRENTE, apresentando comprovação
+da respectiva conta zerada, conforme Instrução Normativa SEC/GAB nº 01, de
+16 de agosto de 2018, para prosseguir na etapa de concessão do aporte.
+
+c.1) O extrato ou saldo deve conter de forma visível a identificação da
+instituição bancária, o número da agência, o número da conta corrente e a
+identificação do PROPONENTE (CNPJ) titular da conta.
+
+12.1.1 Os documentos apresentados deverão estar dentro do prazo de
+validade na ocasião da contratação e dos pagamentos.
+
+
+
+<!-- imagem -->
+
+Governo do Estado do Rio de Janeiro
+Secretaria de Estado de Cultura e Economia
+12.2 A SECEC poderá solicitar aos PROPONENTES, a qualquer tempo, outros
+documentos e informações que entenda necessários, a fim de complementar a
+documentação já apresentada.
+12.3 O PROPONENTE que não enviar a DOCUMENTAÇÃO OBRIGATÓRIA PARA
+CONTRATAÇÃO, assim como não realizar o preenchimento dos dados bancários no
+sistema conforme subitem 12.1, no prazo previsto neste Edital, será eliminado.
+12.4 Após análise da DOCUMENTAÇÃO OBRIGATÓRIA PARA CONTRATAÇÃO de
+acordo com subitem 12.1, 0 PROPONENTE receberá 0 TERMO DE
+COMPROMISSO, conforme ANEXO 11, preenchido pela SECEC. Este documento
+deve ser assinado e encaminhado de volta à SECEC através da Plataforma
+Desenvolve Cultura: http://cultura.rj.gov.br/desenvolve-cultura.
+12.4.1 O PROPONENTE somente será encaminhado para pagamento pela
+SECEC, após retorno do TERMO DE COMPROMISSO assinado.
+12.5 Não serão consideradas assinaturas com manipulação de imagem (assinatura
+inserida no documento por meio de colagem) para os anexos que solicitam assinatura
+do Responsável pela Execução.
+12.6 No caso de assinaturas digitais, serão consideradas apenas as assinaturas
+digitais com certificação.
+13. EXECUÇÃO DA PROPOSTA CULTURAL
+13.1 Será permitida apenas 01 (uma) alteração na PROPOSTA CULTURAL, no que
+se refere à atualização de CRONOGRAMA DE EXECUÇÃO.
+13.2 Na CATEGORIA A, será permitida apenas 01 (um) ajuste alterando o local de
+apresentação da QUADRILHA JUNINA definido na PROPOSTA CULTURAL.
+13.3 Na CATEGORIA B, será permitida apenas 01 (um) ajuste alterando o local de
+realização do FESTIVAL DE QUADRILHAS JUNINAS definido na PROPOSTA
+CULTURAL.
+13.3.1 Caso não seja possível a realização do FESTIVAL DE QUADRILHAS
+JUNINAS no local previamente mencionado na PROPOSTA CULTURAL inscrita na
+CATEGORIA B, 0 PROPONENTE deverá enviar a CARTA DE ANUÊNCIA do novo
+local solicitado.
+13.4 Serão permitidas somente 02 (duas) alterações no que se refere à adequação da
+PLANILHA ORÇAMENTÁRIA, sendo uma antes do início da realização da
+PROPOSTA CULTURAL e a outra antes do envio do RELATÓRIO DE EXECUÇÃO
+DA PROPOSTA CULTURAL, para remanejamento de possíveis sobras nas rubricas
+aprovadas e uso rendimento de possível investimento realizado pelo PROPONENTE.
+13.5 Toda e qualquer alteração da PROPOSTA, citada nos subitens 13.1, 13.2, 13.3 e
+
+<!-- imagem -->
+
+Governo do Estado do Rio de Janeiro
+Secretaria de Estado de Cultura e Economia
+13.4, deverá ser encaminhada para análise da Comissão Técnica Permanente de
+Elaboração de Editais e Análise de Projetos Culturais do Fundo Estadual de Cultura,
+conforme Resolução SECEC N° 222 de 15 de Julho de 2022, com antecedência
+mínima de 10 (dez) dias corridos do início da execução e só poderá ser executada
+após
+autorização, através da Plataforma
+http://cultura.rj.gov.br/desenvolve-cultura.
+Desenvolve
+Cultura:
+13.6 Não serão analisados pedidos de alteração enviados por e-mail e/ou
+protocolados na SECEC.
+13.7 A PROPOSTA CULTURAL deverá ser realizada dentro do prazo de 90 (noventa)
+dias corridos contados a partir da publicação do extrato do TERMO DE
+COMPROMISSO no DOERJ.
+13.8 Fica expressamente proibida a alteração do objeto, a alteração do nome da
+PROPOSTA CULTURAL e a alteração do PROPONENTE (Pessoa Jurídica) da
+PROPOSTA CULTURAL credenciado.
+14. CONTRAPARTIDA
+14.1 O PROPONENTE deverá dispor para a Secretaria de Estado de Cultura e
+Economia Criativa o total de 20% dos ingressos das apresentações propostas (no
+caso de PROPOSTAS CULTURAIS da CATEGORIA A) ou do FESTIVAL realizado
+(no caso de PROPOSTAS CULTURAIS da CATEGORIA B).
+14.1.1 Os INGRESSOS deverão ser entregues pessoalmente ou enviados via
+correios e protocolados na recepção da SECEC (no caso de ingressos físicos), com a
+devida identificação do conteúdo entregue, nome do PROPONENTE, do código do
+projeto e do Edital, aos cuidados da COMISEAP. O endereço para entrega/envio é:
+Secretaria de Estado de Cultura e Economia Criativa - Av. Pres. Vargas, 1261 / 2°
+andar - Centro, Rio de Janeiro - RJ, 20071-004. Não serão validados os INGRESSOS
+entregues à SECEC de outra forma que não a mencionada.
+14.2 As PROPOSTAS CULTURAIS contempladas na CATEGORIA A, deverão prever
+como contrapartida a realização de 01 (uma) apresentação da QUADRILHA JUNINA,
+a ser programada apenas partir de solicitação pela SECEC, no período de até 90
+(noventa) dias corridos a partir da publicação do extrato do TERMO DE
+COMPROMISSO em DOERJ.
+14.3 As PROPOSTAS CULTURAIS contempladas na CATEGORIA B, deverão prever
+como contrapartida a realização de 01 (uma) apresentação da QUADRILHA JUNINA
+vencedora do FESTIVAL ou de 01 (uma) das QUADRILHAS JUNINAS participantes
+do FESTIVAL (caso não seja competitivo), a ser programada a partir de solicitação
+pela SECEC, no período de até 90 (noventa) dias corridos a partir da publicação do
+extrato do TERMO DE COMPROMISSO em DOERJ.
+15. OBRIGAÇÕES DO PROPONENTE SELECIONADO
+
+<!-- imagem -->
+
+Governo do Estado do Rio de Janeiro
+Secretaria de Estado de Cultura e Economia
+15.1 Mencionar o Estado do Rio de Janeiro/Secretaria de Estado de Cultura e
+Economia Criativa em todo material de divulgação e comunicação da PROPOSTA
+CULTURAL (impresso, virtual, audiovisual e sonoro), bem como em todos os produtos
+resultantes da PROPOSTA CULTURAL, principalmente no(s) link(s) disponibilizado(s)
+no RELATÓRIO DE EXECUÇÃO DA PROPOSTA CULTURAL. Todas as logomarcas
+devem ser inseridas na forma especificada no Manual de Utilização de Marca
+disponibilizado no endereço eletrônico da SECEC: www.cultura.rj.gov.br.
+15.2 Todo material de divulgação e comunicação produzido para a PROPOSTA
+CULTURAL deverá ser previamente aprovado junto à Assessoria de Comunicação da
+SECEC, com no mínimo 10 (dez) dias corridos de antecedência, através do e-mail
+conteudosecec@gmail.com para que seja garantida a correta utilização de identidade
+da Pasta.
+15.2.1 A Assessoria de Comunicação da SECEC avaliará a régua de marcas,
+não se responsabilizando por eventual erro ou alteração na divulgação dos dados do
+PROPONENTE ou da PROPOSTA CULTURAL.
+15.3 Em todas as CATEGORIAS, a PROPOSTA CULTURAL deve prever, ao final de
+sua execução, a entrega do registro em formato de vídeo da apresentação da
+QUADRILHA JUNINA (CATEGORIA A) na íntegra ou do registro da realização do
+FESTIVAL DE QUADRILHAS JUNINAS (CATEGORIA B) resultante de sua
+premiação. O vídeo deverá ser gravado e disponibilizado pelo PROPONENTE
+gratuitamente, na íntegra, através de link(s) permanente(s), obrigatoriamente na
+plataforma digital YouTube, em modo público ou com acesso livre através de link
+compartilhado. Ele será ainda apresentado à SECEC como parte do RELATÓRIO DE
+EXECUÇÃO DA PROPOSTA CULTURAL, conforme disposto no subitem 16.1.
+15.3.1 A qualquer momento, a SECEC poderá solicitar ao PROPONENTE O
+arquivo original do vídeo estabelecido no subitem 15.3 deste Edital.
+15.3.2 À SECEC será autorizada a utilização, reprodução, edição, remix,
+adaptação, distribuição, preparação de obras derivadas, exibição e execução dos
+arquivos disponibilizados, de acordo com o documento DECLARAÇÃO DE DIREITOS
+AUTORAIS E AUTORIZAÇÃO DE USO DE CONTEÚDO DO RELATÓRIO DE
+EXECUÇÃO DA PROPOSTA CULTURAL, conforme ANEXO 07.
+15.4 O(s) arquivo(s) original(is) (fotos e vídeos) do conteúdo apresentado no
+RELATÓRIO DE EXECUÇÃO DA PROPOSTA CULTURAL, conforme ANEXO 12,
+poderá(ão) ser utilizado(s) em produções de divulgação da SECEC, bem como poderá
+ser citado, para fins de divulgação institucional, a seleção dos PROPONENTES.
+15.5 São de exclusiva responsabilidade dos PROPONENTES os compromissos e
+encargos previdenciários, fiscais, sindicais e trabalhistas, incluindo os decorrentes de
+acordo, dissídios e convenções coletivas oriundos da execução de suas ações, assim
+como qualquer despesa, tributo, tarifa, custos, emolumentos ou contribuições federais,
+estaduais ou municipais, que decorram direta ou indiretamente de sua atividade ou da
+utilização de bens móveis ou imóveis, e também decorrentes de direitos autorais e
+
+
+
+
+<!-- imagem -->
+
+Governo do Estado do Rio de Janeiro
+Secretaria de Estado de Cultura e Economia
+propriedade intelectual, classificação indicativa, bem como quaisquer outros
+resultantes da contratação objetivada nesta Chamada, como eventuais reivindicações
+de terceiros que se sintam prejudicados pela sua participação no presente processo
+de seleção, ficando a Secretaria excluída de qualquer responsabilidade direta,
+solidária e/ou subsidiária.
+
+16. RELATÓRIOS DE EXECUÇÃO DA PROPOSTA CULTURAL
+
+16.1 A comprovação de execução da PROPOSTA CULTURAL premiada será
+realizada por meio de 02 (dois) relatórios, preenchidos na Plataforma Desenvolve
+Cultura pelo PROPONENTE, até 80 (oitenta) dias corridos após a finalização da
+execução da PROPOSTA CULTURAL.
+
+16.1.1 A comprovação da execução se dará em duas etapas:
+
+a) ETAPA 1 – Comprovação da realização da proposta através do RELATÓRIO
+DE EXECUÇÃO DA PROPOSTA CULTURAL, conforme modelo no ANEXO 12,
+a ser enviado em até 30 (trinta) dias corridos após a finalização da execução da
+PROPOSTA.
+
+b) ETAPA 2 – Comprovação da execução financeira através do RELATÓRIO
+DE EXECUÇÃO FINANCEIRA DA PROPOSTA CULTURAL, conforme modelo
+no ANEXO 13, a ser enviado em até 30 (trinta) dias corridos após a aprovação
+do RELATÓRIO DE EXECUÇÃO DA CONTRAPARTIDA pela SECEC, que se
+dará em até 20 (vinte) dias após findado o prazo da ETAPA 1. Neste relatório
+será obrigatório anexar o extrato da conta corrente específica com a informação
+de que a conta estava inicialmente zerada, assim como a informação do
+recebimento do valor do aporte, toda a movimentação realizada e informação do
+extrato zerado como forma de comprovação de execução financeira da
+PROPOSTA CULTURAL.
+
+b.1) Todas as movimentações bancárias efetuadas com o aporte recebido pelo
+PROPONENTE deverão ser feitas somente de forma eletrônica ou através de
+cheques, não sendo permitida a utilização do aporte através de saque direto da
+conta.
+
+b.2) As movimentações bancárias, assim como o início das ações referentes à
+PROPOSTA e à CONTRAPARTIDA, deverão ser iniciadas somente após a
+publicação do extrato do TERMO DE COMPROMISSO no DOERJ.
+
+16.1.2 Será necessária a juntada de cópia dos comprovantes de todas as notas
+fiscais, recibos, comprovantes de transações bancárias, comprovantes de pagamentos
+administrativos eletrônicos, como boletos ou contas com data de pagamento posterior
+ao recebimento do recurso, comprovantes de pagamento de ECAD e SBAT, entre
+outros, que deverão ser anexados na aba referente à ETAPA 2, através do sistema
+Desenvolve Cultura.
+
+16.1.2.1 Em caso de sobra de valores na conta corrente referente à PROPOSTA
+
+<!-- imagem -->
+
+Governo do Estado do Rio de Janeiro
+Secretaria de Estado de Cultura e Economia
+CULTURAL, 0 PROPONENTE deverá restituir aos cofres públicos o valor
+remanescente da seguinte forma: efetuar o recolhimento identificado com
+registro da sua RAZÃO SOCIAL e CNPJ e enviar o termo e o comprovante de
+transferência para os e-mails: comafec@cultura.rj.gov.br e cpc@cultura.rj.gov.br.
+
+16.1.3 Os comprovantes citados no subitem 16.1.2, referente à ETAPA 2,
+deverão ser guardados por um período de 10 (dez) anos, podendo ser solicitados a
+qualquer momento pela SECEC.
+
+16.2 Os links enviados no RELATÓRIO DE EXECUÇÃO DA PROPOSTA CULTURAL
+deverão ser disponibilizados na íntegra de forma permanente e gratuita,
+obrigatoriamente na plataforma digital YouTube, respeitando as especificidades
+dispostas no subitem 15.3.
+
+16.2.1 O RELATÓRIO DE EXECUÇÃO DA PROPOSTA CULTURAL deverá ser
+acompanhado do material complementar que comprove a realização da PROPOSTA
+CULTURAL, composto por um arquivo único com registros captados durante a
+execução da PROPOSTA CULTURAL (fotos, prints, listas de presença, borderôs,
+clipping de imprensa e outros), no formato PDF com no máximo 5 MB.
+
+16.3 Caso não seja entregue o RELATÓRIO DE EXECUÇÃO DA PROPOSTA
+CULTURAL no prazo estabelecido no subitem 16.1, ocasionando em sua reprovação
+publicada em DOERJ, o recurso financeiro da premiação deverá retornar ao Fundo
+Estadual de Cultura da SECEC, devidamente corrigido pelo IPCA-E, acrescido de
+multa e juros de 0,5% ao mês até o efetivo pagamento.
+
+17. SANÇÕES ADMINISTRATIVAS
+
+17.1 O inadimplemento, inexecução e/ou infração total ou parcial deste Regulamento
+ou do TERMO DE COMPROMISSO sujeitará o PROPONENTE, sem prejuízo de
+eventual indenização por perdas e danos e das demais sanções cabíveis, e
+observando-se o direito de defesa prévia, a imediata restituição da integralidade do
+aporte efetuado pela SECEC, devidamente corrigido pelo IPCA-E, acrescido de multa
+e juros de 0,5% ao mês até o efetivo pagamento.
+
+17.2 O PROPONENTE ficará igualmente sujeito a proibição de receber recursos da
+SECEC por até 2 (dois) anos a contar da notificação de inadimplência.
+
+17.2.1 Eventuais débitos decorrentes da premiação poderão ser objeto de
+inscrição na Dívida Ativa Estadual e cobrados via execução fiscal.
+
+18. DISPOSIÇÕES FINAIS
+
+18.1 Fica eleito o foro central da Cidade do Rio de Janeiro, com expressa renúncia a
+qualquer outro, por mais privilegiado que seja, para dirimir quaisquer questões,
+dúvidas ou demandas referentes a este processo seletivo, a adjudicação dele
+decorrente, assim como a execução da PROPOSTA CULTURAL selecionado.
+
+<!-- imagem -->
+
+Governo do Estado do Rio de Janeiro
+Secretaria de Estado de Cultura e Economia
+18.2 Os casos omissos serão resolvidos pela Autoridade Superior, observados os
+princípios que informam a atuação da Administração Pública.
+
+18.3 A SECEC poderá revogar a qualquer tempo este processo de seleção, no todo ou
+em parte, por razões de interesse público decorrentes de fatos supervenientes
+devidamente comprovados, devendo anulá-lo por ilegalidade de ofício ou mediante
+provocação de terceiro, através de manifestação escrita e fundamentada, sem que
+possa ser invocada a obrigação de indenizar quaisquer prejuízos a qualquer
+interessado.
+
+18.4 Em caso de impedimentos relacionados aos processos de Tecnologia de
+Informação dispostos neste certame, relacionados aos subitens 9.2, 9.4, 9.5, 11.1 e
+12.1, ficará a cargo da Autoridade Superior da SECEC a excepcionalidade de
+mecanismos alternativos de comunicação.
+
+18.5 Integram o presente Edital, para todos os fins legais, os anexos, as instruções,
+observações e restrições contidas nos seus anexos:
+
+ANEXO 01 – CALENDÁRIO
+
+ANEXO 02 – TERMO DE COMPROMISSO DE ADIMPLÊNCIA E ACEITAÇÃO DOS
+TERMOS DO EDITAL
+
+ΑΝΕΧΟ 03 - DECLARAÇÃO DE USO DO NOME SOCIAL DO RESPONSÁVEL
+PELA EXECUÇÃO
+
+ΑΝΕΧΟ 04 DOCUMENTO DE REPRESENTAÇÃO DA QUADRILHA JUNINA
+(CATEGORIA A)
+
+ANEXO 05 – DOCUMENTO DE REPRESENTAÇÃO DAS QUADRILHAS JUNINAS
+(CATEGORIA B)
+
+ΑΝΕΧΟ 06
+JUNINOS
+COMPROVAÇÃO DE ATUAÇÃO CULTURAL EM FESTEJOS
+
+ANEXO 07 – DECLARAÇÃO DE DIREITOS AUTORAIS E AUTORIZAÇÃO DE USO
+DE CONTEÚDO DO RELATÓRIO DE EXECUÇÃO DA PROPOSTA CULTURAL
+
+ANEXO 08 – PLANILHA ORÇAMENTÁRIA
+
+ANEXO 09 – CRONOGRAMA DE EXECUÇÃO
+
+ANEXO 10 – DECLARAÇÃO DE ABERTURA DE CONTA CORRENTE
+
+ΑΝΕΧΟ 11 - TERMO DE COMPROMISSO
+
+ANEXO 12 – RELATÓRIO DE EXECUÇÃO DA PROPOSTA CULTURAL
+
+
+
+
+
+<!-- imagem -->
+
+Governo do Estado do Rio de Janeiro
+Secretaria de Estado de Cultura e Economia
+ANEXO 13 – RELATÓRIO DE EXECUÇÃO FINANCEIRA DA PROPOSTA
+Rio de Janeiro, 10 de abril de 2023.
+Danielle Barros
+Secretária de Cultura e Economia Criativa
+
+
+
+
+
+
+<!-- imagem -->
+
+Governo do Estado do Rio de Janeiro
+Secretaria de Estado de Cultura e Economia
+ΑΝΕΧΟ 01
+CALENDÁRIO
+
+| ETAPAS                      |                                  | PRAZOS        |
+| :-------------------------- | :------------------------------- | :------------ |
+|                             |                                  | Início      | Término     |
+|                             |                                  |               |               |
+| Recebimento de Inscrições   | 13/04/2023                       | 02/05/2023    |
+| INSCRIÇÕES                  |                                  |               |               |
+| Impugnação do Edital        | 10/04/2023                       | 24/04/2023    |
+|                             |                                  |               |               |
+| Publicação do Resultado     |                                  |               |               |
+| Preliminar                  | 18/05/2023                       |               |
+|                             |                                  |               |               |
+| HABILITAÇÃO E               |                                  |               |               |
+| CREDENCIAMENTO              | Interposição de Recurso ao       |               |               |
+|                             | Resultado Preliminar             | 19/05/2023    | 23/05/2023    |
+|                             |                                  |               |               |
+|                             | Publicação do Resultado dos      |               |               |
+|                             | Recursos e Listagem Final de    |               |               |
+|                             | Habilitados e Credenciados       | 01/06/2023    |               |
+|                             |                                  |               |               |
+| CONTRATAÇÃO E               | Recebimento de Documentação    |               |               |
+| LIBERAÇÃO DOS               | dos Selecionados                 | 02/06/2023    | 03/07/2023    |
+| RECURSOS                    |                                  |               |               |
+
+
+
+
+
+
+<!-- imagem -->
+
+Governo do Estado do Rio de Janeiro
+Secretaria de Estado de Cultura e Economia
+ΑΝΕΧΟ 02
+TERMO DE COMPROMISSO DE ADIMPLÊNCIA
+E ACEITAÇÃO DOS TERMOS DO EDITAL
+(MODELO PARA CONSULTA)
+
+No presente termo, o PROPONENTE declara que assume o compromisso de estar
+adimplente junto aos órgãos e entidades integrantes da Administração Pública
+Estadual, no ato da contratação.
+
+Pela presente Declaração, o PROPONENTE aceita que a inscrição pressupõe a
+prévia e integral aceitação das normas do regulamento do Edital de Chamada
+Emergencial de Credenciamento N° 02/2023 “Arraiá Cultural RJ 2" e de seus
+respectivos anexos. Além disso, assume a responsabilidade pelo acompanhamento
+das publicações no Diário Oficial do Estado do Rio de Janeiro (DOERJ) e no site da
+Secretaria de Estado de Cultura e Economia Criativa (SECEC). Da mesma forma, о
+PROPONENTE autoriza à SECEC a utilização e compartilhamento interno, dentre os
+setores desta Secretaria, dos dados de contato (e-mail e telefone) informados no
+cadastro do proponente para fins exclusivos de comunicação acerca de ações de
+finalidades cultural e artística, com fundamento na Lei nº 13.853, de 8 de julho de
+2019 (Lei Geral de Proteção de Dados).
+
+OBSERVAÇÃO: Anexo para fins de orientação. O Termo de Compromisso de
+Adimplência será preenchido na Plataforma Desenvolve Cultura.
+
+_____________________________________, _______ de ___________________ de 2023
+(Cidade)
+
+______________________________________________________
+Proponente
+
+
+
+
+
+<!-- imagem -->
+
+Governo do Estado do Rio de Janeiro
+Secretaria de Estado de Cultura e Economia
+
+ΑΝΕΧΟ 03
+DECLARAÇÃO DE USO DO NOME SOCIAL DO RESPONSÁVEL PELA
+EXECUÇÃO
+
+Eu (nome social),
+enquanto pessoa travesti, transexual ou transgênero, portador(a) do CPF_n°
+____________________________________________, RG n° ____________________________________________, residente
+na ____________________________________________________________________________________________________________ declaro
+que, em conformidade com o Decreto nº 8.727 de 28 de abril de 2016, assim como
+com a Resolução nº 12, de 16 de janeiro de 2015 do Conselho Nacional de Combate
+à Discriminação e Promoções dos Direitos de Lésbicas, Gays, Travestis e Transexuais
+CNCD/LGBT, desejo ser reconhecido(a), identificado(a) e denominado(a) pelo nome
+social adotado por mim no âmbito desta SECEC/RJ, sem que haja menção ao meu
+nome civil ______________________________________________________________________(nome civil).
+
+Ciente de que os dados registrados em meu documento oficial de identificação não
+coincidem com o nome social adotado por mim, assino abaixo esta DECLARAÇÃO,
+para que eu possa ser devidamente identificado(a) e participar deste certame
+utilizando meu nome social.
+
+_________________________________________, de ____________________ de 2023.
+(Cidade)
+
+____________________________________________________________________________________________________________
+Assinatura do(a) Declarante conforme Documento Oficial no Registro Civil
+
+**INSTRUÇÕES:**
+- O preenchimento deste anexo é opcional.
+- Nos casos em que se aplique, deverá ser entregue no momento da inscrição.
+
+<!-- imagem -->
+
+Governo do Estado do Rio de Janeiro
+Secretaria de Estado de Cultura e Economia
+
+ΑΝΕΧΟ 04 - CATEGORIA A
+DOCUMENTO DE REPRESENTAÇÃO DA QUADRILHA JUNINA
+
+Às ___________ horas e ___________ minutos do dia ___________ de ___________ de 2023, a
+Quadrilha Junina ____________________________________________________________________________________________________________
+sediada no município ____________________________________________________________________________________________________________ Estado do Rio de
+Janeiro, se reuniu para a apresentação da INSCRIÇÃO no EDITAL DE CHAMADA
+EMERGENCIAL DE CREDENCIAMENTO N° 02/2023 “ARRAIÁ CULTURAL RJ 2".
+Neste ato, os participantes abaixo identificados declaram ciência e concordância com
+a participação na execução da PROPOSTA, assim como consentem em serem
+representados por ____________________________________________________________________________________________________________
+(Razão Social do PROPONENTE), portador do CNPJ n°
+____________________________________________________________________________________________________________. Declaram ainda ter conhecimento de que
+qualquer desconformidade nas informações aqui prestadas estará sujeita às
+penalidades da legislação pertinente, na forma do disposto na Lei Estadual nº 6.225,
+de 24 de abril de 2012, bem como no art. 299 do Código Penal.
+
+Por ser verdade, firmam.
+
+_________________________________________, de ____________________ de 2023.
+(Cidade)
+
+**REPRESENTANTE LEGAL DO PROPONENTE**
+NOME: ___________________________________________________________________________________________________________
+CPF: ___________________________________________________________________________________________________________
+ASSINATURA: ___________________________________________________________________________________________________________
+
+**PARTICIPANTES**
+
+**MARCADOR**
+
+1. NOME: ___________________________________________________________________________________________________________
+CPF: ___________________________________________________________________________________________________________
+ASSINATURA: ___________________________________________________________________________________________________________
+
+**PAR N° 01**
+
+2. NOME: ___________________________________________________________________________________________________________
+CPF: ___________________________________________________________________________________________________________
+
+<!-- imagem -->
+
+Governo do Estado do Rio de Janeiro
+Secretaria de Estado de Cultura e Economia
+
+ASSINATURA: ___________________________________________________________________________________________________________
+
+3. NOME: ___________________________________________________________________________________________________________
+CPF: ___________________________________________________________________________________________________________
+ASSINATURA: ___________________________________________________________________________________________________________
+
+**PAR N° 02**
+
+4. NOME: ___________________________________________________________________________________________________________
+CPF: ___________________________________________________________________________________________________________
+ASSINATURA: ___________________________________________________________________________________________________________
+
+5. NOME: ___________________________________________________________________________________________________________
+CPF: ___________________________________________________________________________________________________________
+ASSINATURA: ___________________________________________________________________________________________________________
+
+**PAR Nº 03**
+
+6. NOME: ___________________________________________________________________________________________________________
+CPF: ___________________________________________________________________________________________________________
+ASSINATURA: ___________________________________________________________________________________________________________
+
+7. NOME: ___________________________________________________________________________________________________________
+CPF: ___________________________________________________________________________________________________________
+ASSINATURA: ___________________________________________________________________________________________________________
+
+**PAR N° 04**
+
+8. NOME: ___________________________________________________________________________________________________________
+CPF: ___________________________________________________________________________________________________________
+ASSINATURA: ___________________________________________________________________________________________________________
+
+9. NOME: ___________________________________________________________________________________________________________
+CPF: ___________________________________________________________________________________________________________
+ASSINATURA: ___________________________________________________________________________________________________________
+
+**PAR N° 05**
+
+10. NOME: ___________________________________________________________________________________________________________
+CPF: ___________________________________________________________________________________________________________
+ASSINATURA: ___________________________________________________________________________________________________________
+
+11. NOME: ___________________________________________________________________________________________________________
+
+
+
+CPF:
+ASSINATURA:
+
+PAR Nº 06
+12. NOME:
+CPF:
+ASSINATURA:
+13. NOME:
+CPF:
+ASSINATURA:
+
+PAR N° 07
+14. NOME:
+CPF:
+ASSINATURA:
+15. NOME:
+CPF:
+ASSINATURA:
+
+PAR N° 08
+16. NOME:
+CPF:
+ASSINATURA:
+17. NOME:
+CPF:
+ASSINATURA:
+
+PAR Nº 09
+18. NOME:
+CPF:
+ASSINATURA:
+19. NOME:
+CPF:
+ASSINATURA:
+
+<!-- imagem -->
+
+PAR N° 10
+20. NOME:
+CPF:
+ASSINATURA:
+21. NOME:
+CPF:
+ASSINATURA:
+
+PAR Nº 11
+22. NOME:
+CPF:
+ASSINATURA:
+23. NOME:
+CPF:
+ASSINATURA:
+
+PAR N° 12
+24. NOME:
+CPF:
+ASSINATURA:
+25. NOME:
+CPF:
+ASSINATURA:
+
+ATENÇÃO:
+- Preencher todos os dados, assinar e colher as assinaturas dos participantes da
+QUADRILHA JUNINA de acordo com as orientações da alínea g, do subitem 9.4.1 do
+Edital.
+- Caso haja mais pares, editar o documento adicionando novos campos de assinatura.
+
+<!-- imagem -->
+
+Às horas e minutos do dia de de 2023, as
+Quadrilhas Juninas abaixo relacionadas, sediadas no no Estado do Rio de Janeiro, se
+reuniram para a apresentação da INSCRIÇÃO no EDITAL DE CHAMADA
+EMERGENCIAL DE CREDENCIAMENTO N° 02/2023 “ARRAIÁ CULTURAL RJ 2".
+Neste ato, os participantes abaixo identificados declaram ciência e concordância com
+a participação na execução da PROPOSTA, assim como consentem em serem
+representados por
+(Razão Social do PROPONENTE), portador do CNPJ n°
+Declaram ainda ter conhecimento de que
+qualquer desconformidade nas informações aqui prestadas estará sujeita às
+penalidades da legislação pertinente, na forma do disposto na Lei Estadual nº 6.225,
+de 24 de abril de 2012, bem como no art. 299 do Código Penal.
+
+Por ser verdade, firmam.
+de de 2023.
+
+(Cidade)
+
+REPRESENTANTE LEGAL DO PROPONENTE
+NOME:
+CPF:
+ASSINATURA:
+
+QUADRILHAS PARTICIPANTES
+
+1. DADOS DA QUADRILHA
+NOME DA QUADRILHA:
+N° DE PARTICIPANTES:
+
+DADOS DO RESPONSÁVEL
+NOME:
+CPF:
+ASSINATURA:
+
+2. DADOS DA QUADRILHA
+NOME DA QUADRILHA:
+
+<!-- imagem -->
+
+
+Governo do Estado do Rio de Janeiro
+Secretaria de Estado de Cultura e Economia
+
+N° DE PARTICIPANTES:
+DADOS DO RESPONSÁVEL
+NOME:
+CPF:
+ASSINATURA:
+3. DADOS DA QUADRILHA
+NOME DA QUADRILHA:
+N° DE PARTICIPANTES:
+DADOS DO RESPONSÁVEL
+NOME:
+CPF:
+ASSINATURA:
+4. DADOS DA QUADRILHA
+NOME DA QUADRILHA:
+N° DE PARTICIPANTES:
+DADOS DO RESPONSÁVEL
+NOME:
+CPF:
+ASSINATURA:
+5. DADOS DA QUADRILHA
+NOME DA QUADRILHA:
+N° DE PARTICIPANTES:
+DADOS DO RESPONSÁVEL
+NOME:
+CPF:
+ASSINATURA:
+ATENÇÃO:
+- Preencher todos os dados, assinar e colher as assinaturas dos responsáveis das
+QUADRILHAS JUNINAS de acordo com as orientações da alínea g, do subitem 9.4.1
+do Edital.
+- Caso haja mais quadrilhas, editar o documento adicionando novos campos de
+
+<!-- imagem -->
+
+Governo do Estado do Rio de Janeiro
+Secretaria de Estado de Cultura e Economia
+
+ΑΝΕΧΟ 06
+COMPROVAÇÃO DE ATUAÇÃO CULTURAL (MODELO)
+
+Orientações de preenchimento:
+
+*   Apresente as atividades já realizadas pela(s) Quadrilha(s) Junina(s) com seus respectivos materiais comprobatórios.
+*   Cada quadro deve ser preenchido com as informações e comprovações de apenas 01 (uma) atividade.
+*   Utilize (copie e cole) quantos quadros forem necessários para comprovar as atividades já realizadas pela(s) Quadrilha(s) Junina(s).
+*   Cada atividade devidamente comprovada valerá 05 (cinco) pontos, sendo contabilizado o limite de até 20 (vinte) atividades.
+*   O documento deve ser enviado conforme a alínea i, do subitem 9.4.1 do Edital.
+
+Atividade:
+
+Data: (A indicação da data neste campo, NÃO exclui a obrigatoriedade de a data estar inclusa por escrito no material comprobatório inserido abaixo. O material comprobatório inserido abaixo deve conter data completa, incluindo o ano, obrigatoriamente.)
+
+Local:
+
+Foto(s) e/ou print(s) com link(s) comprobatório(s):
+
+Atividade:
+
+Data: (A indicação da data neste campo, NÃO exclui a obrigatoriedade de a data estar inclusa por escrito no material comprobatório inserido abaixo. O material comprobatório inserido abaixo deve conter data completa, incluindo o ano, obrigatoriamente.)
+
+Local:
+
+Foto(s) e/ou print(s) com link(s) comprobatório(s):
+
+<!-- imagem -->
+
+Governo do Estado do Rio de Janeiro
+Secretaria de Estado de Cultura e Economia
+
+ΑΝΕΧΟ 07
+DECLARAÇÃO DE DIREITOS AUTORAIS E AUTORIZAÇÃO DE USO DE
+CONTEÚDO DO RELATÓRIO DE EXECUÇÃO DA PROPOSTA CULTURAL
+
+Eu,
+de Identidade n°\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, residente à Rua\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_portador(a) da Cédula inscrito(a) no CPF sob n°
+n°\_\_\_\_\_\_, na cidade de\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ DECLARO ser titular dos direitos
+autorais e/ou conexos sobre todo o conteúdo do produto audiovisual apresentado no
+RELATÓRIO DE EXECUÇÃO DA PROPOSTA CULTURAL, dentro dos termos do
+EDITAL DE CHAMADA EMERGENCIAL DE CREDENCIAMENTO N° 02/2023
+“ARRAIÁ CULTURAL RJ 2”, possuindo as respectivas licenças ou autorizações para
+a utilização de obras de terceiros que porventura integrem o mesmo; e, como tal,
+AUTORIZO a Secretaria de Cultura e Economia Criativa do Estado do Rio de Janeiro,
+utilizar o(s) arquivo(s) original(is) (fotos e vídeos) do conteúdo apresentado neste
+RELATÓRIO DE EXECUÇÃO DA PROPOSTA CULTURAL, em parte ou em sua
+totalidade, para fins institucionais e sem finalidade comercial, pelo prazo de 10 (dez)
+anos; sendo autorizada sua reprodução, edição, remix, adaptação, distribuição,
+preparação de obras derivadas, exibição e execução
+
+A presente autorização é concedida a título gratuito, abrangendo o uso do conteúdo
+acima mencionado em todo território nacional e no exterior, em todas as suas
+modalidades e, em destaque, das seguintes formas:
+
+i. Sítio eletrônico ou em toda sua rede social;
+ii. Arquivo digital;
+iii. Cartazes;
+iv. Divulgação em geral.
+
+Por esta ser a expressão da minha vontade declaro possuir os direitos autorais e
+autorizo o uso acima descrito sem que nada haja a ser reclamado a título de direitos
+conexos ao conteúdo, à minha imagem, à imagem de terceiros ou a qualquer outro.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, de \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ de 2023.
+(Cidade)
+
+REPRESENTANTE LEGAL DO PROPONENTE
+
+<!-- imagem -->
+
+
+
+
+<!-- imagem -->
+
+Governo do Estado do Rio de Janeiro
+Secretaria de Estado de Cultura e Economia
+
+ΑΝΕΧΟ 08
+
+PLANILHA ORÇAMENTÁRIA
+(MODELO PARA CONSULTA)
+
+**ATENÇÃO! AO FINALIZAR O PREENCHIMENTO CONFIRA SE A SOMA DOS ITENS
+ESTÁ CORRETA. É DE RESPONSABILIDADE DO PROPONENTE A LEITURA E O
+CUMPRIMENTO DE TODAS AS REGRAS DEFINIDAS NA CHAMADA PÚBLICA. ESTE
+ANEXO É APENAS UM MODELO, O ORÇAMENTO DEVERÁ SER INSERIDO NO
+SISTEMA DESENVOLVE CULTURA.**
+
+PROPONENTE
+
+NOME DA QUADRILHA /
+FESTIVAL
+
+| N.   | Descrição                                        | Qtde. | Und. | Qtde. de Unidade | Valor | Subtotal |
+| :----- | :----------------------------------------------- | :---- | :--- | :---------------- | :---- | :------- |
+| **1 - Pessoal - Cachê dos Integrantes das Quadrilhas Juninas** |
+| 1.1  |                                                  |       |      |                   |       | R$ -     |
+| 1.2  |                                                  |       |      |                   |       | R$ -     |
+| 1....  |                                                 |       |      |                   |       | R$ -     |
+| **2 - Pessoal - Demais Prestadores de Serviços**        |
+| 2.1  |                                                  |       |      |                   |       | R$ -     |
+| 2.2  |                                                  |       |      |                   |       | R$ -     |
+| 2....  |                                                 |       |      |                   |       | R$ -     |
+| **3 - Equipamentos / Material**                         |
+| 3.1  |                                                  |       |      |                   |       | R$ -     |
+| 3.2  |                                                  |       |      |                   |       | R$ -     |
+
+<!-- imagem -->
+
+Governo do Estado do Rio de Janeiro
+Secretaria de Estado de Cultura e Economia
+
+| 3. ... |  |  |  |  |  | R$ - |
+|---|---|---|---|---|---|---|
+| **4 - Estrutura** |
+| 4.1 | | | | | |  |
+| 4.2 | | | | | |  |
+| 4... | | | | | |  |
+| **5 - Logística** |
+| 5.1 | | | | | | R$ - |
+| 5.2 | | | | | | R$ - |
+| 5. ... | | | | | | R$ - |
+| **6- Divulgação, Mídia e Comunicação** |
+| 6.1 | | | | | | R$ - |
+| 6.2 | | | | | | R$ - |
+| 6. ... | | | | | | R$ - |
+| **7- Custos Administrativos** |
+| 7.1 | | | | | | R$ - |
+| 7.2 | | | | | | R$ - |
+| 7. ... | | | | | | R$ - |
+| **8 - Taxas e Seguros** |
+| 8.1 | | | | | | R$ - |
+| 8.2 | | | | | | R$ - |
+| 8. ... | | | | | | R$ - |
+| **9 - Remuneração do Proponente** |
+| 9.1 | | | | | |  |
+| 9... | | | | | |  |
+| **Total** |  |  |  |  |  | R$ - |
+
+<!-- imagem -->
+
+Governo do Estado do Rio de Janeiro
+Secretaria de Estado de Cultura e Economia
+
+ΑΝΕΧΟ 09
+
+CRONOGRAMA DE EXECUÇÃO
+(MODELO PARA CONSULTA)
+
+**É DE RESPONSABILIDADE DO PROPONENTE A LEITURA E O CUMPRIMENTO DE
+TODAS AS REGRAS DEFINIDAS NA CHAMADA PÚBLICA. ESTE ANEXO É APENAS
+UM MODELO, O CRONOGRAMA DEVERÁ SER INSERIDO NO SISTEMA DESENVOLVE
+CULTURA.**
+
+PROPONENTE
+
+NOME DA QUADRILHA
+/ FESTIVAL
+
+| N. | ATIVIDADE              | Mês 1 | Mês 2 | Mês 3 | Mês 4 | Mês ... |
+|----|-----------------------|-------|-------|-------|-------|---------|
+| 1  | PLANEJADA / READEQUADA |       |       |       |       |         |
+| 2  | PLANEJADA / READEQUADA |       |       |       |       |         |
+| 3  | PLANEJADA / READEQUADA |       |       |       |       |         |
+| 4  | PLANEJADA / READEQUADA |       |       |       |       |         |
+| 5  | PLANEJADA / READEQUADA |       |       |       |       |         |
+| 6  | PLANEJADA / READEQUADA |       |       |       |       |         |
+| 7  | PLANEJADA / READEQUADA |       |       |       |       |         |
+| 8  | PLANEJADA / READEQUADA |       |       |       |       |         |
+| 9  | PLANEJADA / READEQUADA |       |       |       |       |         |
+| 10 | PLANEJADA / READEQUADA |       |       |       |       |         |
+| .. |                       |       |       |       |       |         |
+
+
+
+Eu,
+Governo do Estado do Rio de Janeiro
+Secretaria de Estado de Cultura e Economia
+ΑΝΕΧΟ 10
+DECLARAÇÃO DE ABERTURA DE CONTA CORRENTE
+domiciliado(a) no endereço
+CPF n°
+CEP
+RG n°
+bairro
+sediada no endereço
+de
+município de
+representante legal da pessoa jurídica
+CNPJ n°
+CEP
+,
+bairro
+município
+venho declarar que a conta corrente
+abaixo identificada foi aberta no Banco Bradesco (conforme Instrução Normativa
+SEC/GAB N° 01 de 16 de agosto de 2018) para depósito e movimentação exclusivos
+dos recursos transferidos por esta Secretaria, para realização do projeto selecionado
+no EDITAL DE CHAMADA EMERGENCIAL DE CREDENCIAMENTO N° 02/2023
+"ARRAIÁ CULTURAL RJ 2"
+Agência:
+Conta corrente:
+de
+de 2023.
+(Cidade)
+REPRESENTANTE LEGAL DO PROPONENTE
+
+<!-- imagem -->
+
+Governo do Estado do Rio de Janeiro
+Secretaria de Estado de Cultura e Economia
+ΑΝΕΧΟ 11
+TERMO DE COMPROMISSO
+TERMO DE COMPROMISSO N° ACR2 XXX/2023
+PARA
+DA PROPOSTA
+REALIZAÇÃO
+"XXXXXXXXXXXXXXXXXXX".
+Aos
+dias do mês de
+de 2023, o ESTADO DO RIO DE
+JANEIRO, por intermédio de sua SECRETARIA DE CULTURA E ECONOMIA
+CRIATIVA SECEC/RJ, neste ato, representado pela Secretária Estadual de
+Cultura e Economia Criativa, Sra. Danielle Barros, consoante delegação do Decreto
+XXXXXXXXXXX, inscrita no CPF n° XXX.XXX.XXX-XX e o PROPONENTE
+XXXXXXXXXXXXXXXX CNPJ n° XX.XXX.XXX/XXXX-XX, sediado(a) na (endereço)
+(bairro) - (cidade) – (Estado) CEP: XX.XXX-XXX, neste ato representado por
+seu/sua Responsável Legal (nome completo), portador(a) da carteira de identidade
+n° XX.XXX.XXX-X (órgão expedidor), CPF n°XXX.XXX.XXX-XX, celebram o
+presente TERMO DE COMPROMISSO para a realização da proposta selecionada
+por meio do Edital de Chamada Emergencial de Credenciamento nº 02/2023,
+“ARRAIÁ CULTURAL RJ 2”, que dispõe sobre o credenciamento de Pessoas
+Jurídicas representantes de quadrilhas juninas para realização de apresentações e
+festivais de quadrilhas juninas no Estado do Rio de Janeiro, que se regerá por toda
+a legislação aplicável à espécie, e ainda pelas que a completarem, cujas normas,
+desde já, entendem-se como integrantes deste, as quais o PROPONENTE declara
+conhecer e se obriga a respeitar, ainda que não transcritas neste instrumento,
+mediante as seguintes cláusulas e condições:
+
+1.  OBJETO
+
+2.  Concessão de apoio financeiro ao PROPONENTE para a realização da
+proposta "XXXXXXXXXXXXXXXXXXXX” selecionada através da
+CHAMADA EMERGENCIAL DE CREDENCIAMENTO N° 02/2023
+"ARRAIÁ CULTURAL RJ 2".
+
+II. DO COMPROMISSO DAS PARTES
+
+1.  A SECEC se compromete a realizar, em parcela única, a transferência
+de recursos financeiros à empresa responsável pela execução do
+projeto selecionado.
+
+2.  O PROPONENTE obriga-se perante o Estado do Rio de Janeiro a:
+
+<!-- imagem -->
+
+Governo do Estado do Rio de Janeiro
+Secretaria de Estado de Cultura e Economia
+
+a. Realizar a proposta em até 90 (noventa) dias corridos a partir do
+recebimento do aporte, na forma e condição propostas no
+Regulamento da CHAMADA EMERGENCIAL DE
+CREDENCIAMENTO N°02/2023 “ARRAIÁ CULTURAL RJ 2",
+o qual é parte integrante do presente TERMO.
+
+b. Realizar a(s) ação(ões) de CONTRAPARTIDA prevista(s) no
+item 14 do Edital correspondente ao presente TERMO.
+
+b.1. O registro da execução da CONTRAPARTIDA deverá ser
+apresentado em formato de vídeo, possuindo, obrigatoriamente,
+a duração mínima de 20 (vinte) minutos para a Categoria A e 30
+(trinta) minutos para a Categoria B, e deverá ser disponibilizado
+gratuitamente, na íntegra, através de link permanente, em
+plataforma digital (YouTube), em modo público.
+
+c. Mencionar o Estado do Rio de Janeiro/Secretaria de Estado de
+Cultura e Economia Criativa nos créditos e em todo material de
+divulgação do projeto (impresso, virtual e audiovisual) inserir a
+logomarca em todas as peças de divulgação, na forma
+especificada no Manual de Aplicação da Marca disponibilizado
+no endereço eletrônico da Secretaria: www.cultura.rj.gov.br.
+
+d. Todo material de divulgação deverá ser previamente aprovado
+junto à Assessoria de Comunicação da Secretaria de Estado de
+Cultura e Economia Criativa, com no mínimo 10 (dez) dias
+corridos de antecedência, através do e-mail
+conteudosecec@gmail.com para que seja garantida a correta
+utilização de identidade da Pasta.
+
+e. Abrir conta corrente no Banco Bradesco, banco oficial
+conveniado com o Estado do Rio de Janeiro, em nome da
+Pessoa Jurídica proponente, selecionada e classificada na
+Chamada Emergencial, com objetivo de receber a transferência
+do recurso.
+
+f. O PROPONENTE será exclusivamente responsável pelo
+cumprimento de todas as obrigações fiscais, previdenciárias,
+trabalhistas e comerciais relativas à equipe técnica utilizada na
+execução do projeto selecionado.
+
+g. Arcar com todos os demais custos que superem a estimativa
+prevista na planilha de custos.
+
+<!-- imagem -->
+
+
+
+<!-- imagem -->
+
+Governo do Estado do Rio de Janeiro
+Secretaria de Estado de Cultura e Economia
+
+III. DO APORTE FINANCEIRO
+1. O valor do aporte financeiro ao PROPONENTE selecionado é da ordem
+de R$ XX.000,00 (XXXXXXX mil reais), cuja despesa prevista para o
+presente exercício será atendida pelo PT n° XXXXXXXX, XXXXXXX,
+Fonte XXXXXX, através da emissão da Nota de Empenho n°
+XXXXXX/XXXXXXX.
+2. A liberação do recurso será feita em parcela única, através de crédito
+em conta corrente do PROPONENTE, a saber: Banco Bradesco,
+Agência nº XXXX, Conta corrente n° XXXXXXX-X, após conclusão dos
+procedimentos necessários à transferência bancária.
+
+IV. DA EXECUÇÃO DA PROPOSTA
+1. O PROPONENTE deverá apresentar o Relatório de Execução da
+Proposta Cultural e o Relatório de Execução Financeira da Proposta, no
+prazo de até 80 (oitenta) dias corridos, a contar do término da
+realização da proposta, conforme definido na Chamada.
+2. O PROPONENTE deverá observar e atender as exigências
+estabelecidas no Regulamento do Edital de Chamada Emergencial de
+Credenciamento que concorreu.
+
+V. DA VIGÊNCIA E ALTERAÇÕES
+1. O presente TERMO vigorará até XX de XXXXXX de 2023, com
+adimplemento de todas as obrigações do PROPONENTE.
+2. A SECEC, através de sua Autoridade Superior, poderá aprovar,
+excepcionalmente, a alteração da programação da execução deste
+TERMO, mediante proposta do PROPONENTE, fundamentada em
+razões concretas que a justifique, desde que não importe mudança de
+objeto.
+
+VI. DAS RESPONSABILIDADES DO PROPONENTE
+1. O PROPONENTE assume como exclusivamente seus, os riscos e as
+despesas decorrentes do fornecimento da mão de obra necessária à
+boa e perfeita execução do presente TERMO, e pelo comportamento de
+seus empregados, prepostos ou subordinados, e ainda, quaisquer
+prejuízos que sejam causados ao Estado ou a terceiros.
+
+<!-- imagem -->
+
+Governo do Estado do Rio de Janeiro
+Secretaria de Estado de Cultura e Economia
+
+2. Os danos e prejuízos deverão ser ressarcidos ao Estado no prazo de
+48 (quarenta e oito) horas contadas da notificação ao PROPONENTE
+do ato administrativo que lhes fixar o valor, sob pena de multa.
+3. O Estado não é responsável por quaisquer ônus, direito e obrigações
+vinculadas à legislação tributária, trabalhista, previdenciária ou
+securitária e decorrente da execução do presente TERMO, cujo
+cumprimento e responsabilidade caberão, exclusivamente, ao
+PROPONENTE.
+4. O Estado não será responsável por quaisquer compromissos
+assumidos pelo PROPONENTE com terceiros, ainda que vinculados à
+execução do presente TERMO, bem como por seus empregados,
+prepostos ou subordinados.
+
+VII. DAS SANÇÕES
+1. O inadimplemento, inexecução e/ou infração total ou parcial deste
+Regulamento ou do TERMO DE COMPROMISSO sujeitará a
+PROPONENTE, sem prejuízo de eventual indenização por perdas e
+danos e das demais sanções cabíveis, e observando-se o direito de
+defesa prévia, bem como à imediata restituição da integralidade do
+aporte efetuado pela SECEC, devidamente corrigido pelo IPCA-E,
+acrescido de multa e juros de 0,5% ao mês até o efetivo pagamento.
+2. Ο PROPONENTE ficará igualmente sujeito a proibição de receber
+recursos da SECEC por até 02 (dois) anos a contar da notificação de
+inadimplência.
+3. Eventuais débitos decorrentes da contratação poderão ser objeto de
+inscrição na Dívida Ativa Estadual e cobrados via execução fiscal.
+
+VIII. DAS DISPOSIÇÕES FINAIS
+1. A publicação do presente instrumento, em extrato, no Diário Oficial do
+Estado do Rio de Janeiro, será providenciada pela SECEC até o quinto
+dia útil do mês seguinte ao de sua assinatura, no prazo máximo de 20
+(vinte) dias, à conta do Estado.
+2. Este TERMO DE COMPROMISSO só terá validade após sua
+publicação no Diário Oficial do Estado do Rio de Janeiro.
+
+<!-- imagem -->
+
+Governo do Estado do Rio de Janeiro
+Secretaria de Estado de Cultura e Economia
+
+3. As partes se submetem, expressamente, a todo e qualquer
+procedimento de fiscalização à rigorosa observância das normas
+estaduais em vigor, bem como a toda regulamentação complementar
+que vier a ser baixada para disciplinar a concessão do apoio financeiro
+em questão.
+4. Para dirimir qualquer questão decorrente deste TERMO, que não puder
+ser resolvida por mútuo acordo entre os partícipes, fica eleito o foro da
+Cidade do Rio de Janeiro renunciando, desde já, o PROPONENTE a
+qualquer outro que porventura venha a ter, por mais privilegiado que
+seja.
+
+Por estarem assim justas e acordadas, assinam os partícipes o presente TERMO.
+
+Estado do Rio de Janeiro
+SECRETÁRIA DE ESTADO DE CULTURA E ECONOMIA CRIATIVA
+Danielle Barros
+
+TESTEMUNHAS:
+
+1.  
+CPF/MF
+
+2.  
+CPF/MF
+
+PROPONENTE
+
+
+
+
+
+<!-- imagem -->
+
+Governo do Estado do Rio de Janeiro
+Secretaria de Estado de Cultura e Economia
+
+ΑΝΕΧΟ 12
+
+RELATÓRIO DE EXECUÇÃO DA PROPOSTA CULTURAL
+(MODELO PARA CONSULTA)
+
+**RELATÓRIO DE EXECUÇÃO DA PROPOSTA CULTURAL**
+
+|                                        |                                                                                                                                  |
+| :------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------- |
+| Data de realização:                   |                                                                                                                                  |
+| Quantitativo de público atingido:       |                                                                                                                                  |
+| Número de profissionais diretamente envolvidos: |                                                                                                                                  |
+| Link do Vídeo da Contrapartida (YouTube), conforme subitem 15.3:    |                                                                                                                                  |
+|                                        | Disponibilizado na íntegra, gratuitamente, através de link permanente, em plataforma digital (YouTube), em modo público.          |
+| Como se deu a execução da Proposta Cultural?     |                                                                                                                                  |
+| Material complementar que comprove a realização da Produção:                                |                                                                                                                                  |
+|                                        | Links, lista de presença, borderôs, peças gráficas, links de divulgação, registro fotográfico da execução da ação etc.       |
+| Desdobramentos (se houver):            |                                                                                                                                  |
+
+**ATENÇÃO:** Anexo para fins de orientação. O relatório será preenchido na Plataforma Desenvolve Cultura.
+
+<!-- imagem -->
+
+Governo do Estado do Rio de Janeiro
+Secretaria de Estado de Cultura e Economia
+
+ΑΝΕΧΟ 13
+
+RELATÓRIO DE EXECUÇÃO FINANCEIRA DA PROPOSTA
+(MODELO PARA CONSULTA)
+
+**É DE RESPONSABILIDADE DO PROPONENTE A LEITURA E O CUMPRIMENTO DE TODAS AS
+REGRAS DEFINIDAS NA CHAMADA PÚBLICA. ESTE ANEXO É APENAS UM MODELO, Ο
+RELATÓRIO FINANCEIRO DEVERÁ SER INSERIDO NO SISTEMA DESENVOLVE CULTURA.**
+
+| CPF/CNPJ | Favorecido | N° Nota Fiscal | Data de Emissão | Comprovante de Pagamento | Item Orçamentário | Valor | Arquivos¹ |
+| :------- | :--------- | :------------- | :-------------- | :---------------------- | :---------------- | :---- | :-------- |
+|          |            |                |                 |                         |                   |       |           |
+|          |            |                |                 |                         |                   |       |           |
+|          |            |                |                 |                         |                   |       |           |
+|          |            |                |                 |                         |                   |       |           |
+|          |            |                |                 |                         |                   |       |           |
+|          |            |                |                 |                         |                   |       |           |
+|          |            |                |                 |                         |                   |       |           |
+|          |            |                |                 |                         |                   |       |           |
+|          |            |                |                 |                         |                   |       |           |
+|          |            |                |                 |                         |                   |       |           |
+|          |            |                |                 |                         |                   |       |           |
+
+Arquivos anexos de extrato bancário²
+
+¹ Todos os comprovantes fiscais referentes à execução da proposta devem ser inseridos, em formato PDF, na coluna "Arquivos".
+
+² Extrato bancário da conta inscrita deve ser inserido, em formato PDF, no campo "Arquivos anexos de extrato bancário".
+

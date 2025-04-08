@@ -1,0 +1,1788 @@
+
+
+XV EDITAL
+MECENAS DO CEARÁ
+
+<!-- imagem -->
+
+ceara CEARÁ
+cultura
+SECULT
+GOVERNO DO ESTADO
+SECRETARIA DA CULTURA
+
+SUMÁRIO
+SUMÁRIO CLICÁVEL
+
+1. DAS DISPOSIÇÕES PRELIMINARES E DOS
+OBJETIVOS........................................................................................04
+13. DA CAPTAÇÃO E FORMALIZAÇÃO DO
+TERMO DE MECENATO........................................................................29
+
+2. DO OBJETO..........................................................................................07
+14. DA ACESSIBILIDADE........................................................................31
+
+3. DAS MODALIDADES DE CAPTAÇÃO................................08
+15. DO INCENTIVO AOS PROJETOS
+AUTORIZADOS E DAS OBRIGAÇÕES
+DOS PROPONENTES..........................................................................33
+
+4. DO LIMITE ORÇAMENTÁRIO PARA
+FINANCIAMENTO DOS PROJETOS.........................................10
+16. DA EMISSÃO DO CERTIFICADO
+DE INCENTIVO FISCAL À
+CULTURA (CEFIC) E REPASSE
+DO RECURSO FINANCEIRO..............................................................34
+
+5. DAS CONDIÇÕES DE PARTICIPAÇÃO...............................11
+17. DA EXECUÇÃO DOS
+PROJETOS...............................................................................................35
+
+6. DAS INSCRIÇÕES.........................................................................12
+18. DO PLANO DE
+COMUNICAÇÃO...................................................................................37
+
+7. DAS VEDAÇÕES DE PARTICIPAÇÃO................................20
+19. DO ACOMPANHAMENTO E
+MONITORAMENTO............................................................................38
+
+8. DO PROCESSO DE ANÁLISE E
+AUTORIZAÇÃO DAS PROPOSTAS...........................................21
+20. DA PRESTAÇÃO
+DE
+CONTAS.................................................................................................39
+
+9. DA METODOLOGIA PARA AVALIAÇÃO
+TÉCNICA DAS PROPOSTAS........................................................22
+21. QUANDO DA ANÁLISE DA EXECUÇÃO
+FINANCEIRA........................................................................................41
+
+10. DA COMISSÃO ESTADUAL DE INCENTIVO
+À CULTURA (CEIC).........................................................................25
+22. DA TOMADA DE CONTAS
+ESPECIAL...............................................................................................44
+
+11. DO RESULTADO E DA
+HOMOLOGAÇÃO...............................................................................26
+23. DAS DISPOSIÇÕES FINAIS........................................................47
+
+12. DO CRONOGRAMA...................................................................28
+
+<!-- imagem -->
+
+CEARÁ
+GOVERNO DO ESTADO
+SECRETARIA DA CULTURA
+
+APRESENTAÇÃO
+
+A Secretaria da Cultura do Estado do Ceará, com fundamento nas disposições da Lei
+Estadual nº 18.012, de 01 de abril de 2022, que institui a Lei Orgânica da Cultura do Estado
+do Ceará, dispõe sobre o Sistema Estadual da Cultura (SIEC) e Lei Estadual nº 16.026, de 1º
+de junho de 2016, que institui o Plano Estadual da Cultura (PEC), Instrução Normativa
+Conjunta TCE/CE N° 3, de 29 de agosto de 2017, que dispõe sobre o processo de tomada
+de contas especial e subsidiariamente a Lei N° 8.666, 21 de junho de 1993, que dispõe
+sobre licitações e contratos administrativos; a Lei nº 10.098, de 19 de dezembro de 2000,
+que estabelece normas gerais e critérios básicos para a promoção da acessibilidade das
+pessoas com deficiência ou com mobilidade reduzida e da Lei nº 13.146, de 06 de julho de
+2015, que institui a Lei Brasileira de Inclusão da Pessoa com Deficiência (Estatuto da
+Pessoa com Deficiência), Lei nº 12.933, de 26 de dezembro de 2013, que dispõe sobre a
+meia-entrada, e, no que couber, às demais legislações aplicáveis à matéria, torna público o
+XV EDITAL MECENAS DO CEARÁ, que regulamenta o processo de inscrição e seleção
+pública de projetos culturais que visem a captação de recursos por meio do Mecenato
+Estadual.
+
+O presente Edital contém 04 (quatro) anexos, incluindo Proposta de Plano de Trabalho
+(Anexo I), Termo de Compromisso Pessoa Física (Anexo II), Termo de Compromisso Pessoa
+Jurídica com e sem fins lucrativos (Anexo III) e Formulário de Recurso (Anexo IV).
+
+Os demais documentos relativos à formalização, acompanhamento dos projetos e
+prestação de contas estarão disponíveis no site http://editais.cultura.ce.gov.br/. São eles:
+
+* Ofício para Abertura de Processo (Documento l);
+* Declaração de Aceitação ao Incentivo (Documento II);
+* Termo de Incentivo à Cultura - TIC (Documento III);
+* Formulário de Ajuste (Documento IV);
+* Modelo de Declaração de Residência (Documento V);
+* Termo de Mecenato (Documento VI);
+* Relatório de Execução Parcial do Objeto (Documento VII);
+* Relatório de Execução do Objeto (Documento VIII);
+* Demonstrativo da Execução da Receita e da Despesa (Documento IX);
+* Relação de Pagamentos (Documento X);
+* Conciliação Bancária (Documento XI);
+* Relação de Bens (Documento XII);
+* Recibo do CEFIC a cada repasse do incentivador (Documento XIII)
+* Relatório de Execução Físico-Financeira (Documento XIV)
+
+
+
+
+
+1
+DAS DISPOSIÇÕES
+PRELIMINARES E DOS OBJETIVOS
+<!-- imagem -->
+1.1. O presente Edital apresenta-se em observância ao Plano Estadual da Cultura (PEC),
+e busca garantir o fortalecimento das políticas culturais democráticas, inovadoras,
+plurais, sustentáveis e inclusivas, por meio do apoio a projetos artísticos e culturais e do
+fomento à cultura, utilizando-se, dentre outras ferramentas, do lançamento de editais e
+de seleções públicas.
+
+1.2. Para fins deste Edital, ficam estipuladas as seguintes definições:
+
+1.2.1. Mecenato Estadual: O mecenato estadual é o mecanismo de fomento às
+atividades culturais por meio da renúncia fiscal, no qual os contribuintes do Imposto
+sobre Operações Relativas à Circulação de Mercadorias e sobre a Prestação de Serviços
+de Transporte Interestadual e Intermunicipal e de Comunicação (ICMS) incentivam
+projetos culturais mediante doação ou investimento, deduzindo o percentual legal do
+imposto devido no limite de até 2% (dois por cento) do ICMS a ser recolhido
+mensalmente, na forma estabelecida em Lei.
+
+1.2.2. Comissão Estadual de Incentivo à Cultura (CEIC): órgão colegiado com
+composição paritária, composta por servidores da Secretaria da Cultura do Estado do
+Ceará e Sociedade Civil, devendo ter um membro indicado pelo CEPC, com competência
+para avaliar e deliberar sobre a avaliação e a decisão acerca dos projetos submetidos ao
+Mecenato, sob presidência da Secretaria da Cultura.
+
+1.2.3. Termo de Incentivo à Cultura (TIC): instrumento firmado entre o contribuinte
+incentivador e o proponente, com a interveniência da Secretaria da Cultura, em que
+conste a identificação do empresa incentivadora, do seu representante legal, a
+identificação do projeto, do objeto e prazo de execução;
+
+1.2.4. Termo de Mecenato: instrumento jurídico simplificado a ser celebrado entre a
+Secretaria da Cultura do Estado do Ceará e o proponente representante do projeto
+autorizado a captar, que deverá conter, no mínimo, o objeto do projeto, o valor máximo a
+ser captado, as obrigações das partes e as regras de monitoramento, de geração de
+indicadores e de prestação de contas.
+
+5
+DAS DISPOSIÇÕES PRELIMINARES E DOS OBJETIVOS
+<!-- imagem -->
+1.2.5. Declaração de Aceitação ao Incentivo: instrumento firmado entre o contribuinte
+incentivador e o proponente, em que conste razão social, número do CNPJ, inscrição
+Estadual, nome do representante da empresa de acordo com os atos constitutivos,
+telefones para contato, bem como a indicação do proponente, projeto cultural a ser
+incentivado, modalidade e valor do incentivo.
+
+1.2.6. Certificado Fiscal de Incentivo à Cultura - CEFIC: documento fiscal emitido pela
+Secretaria da Fazenda do Ceará (Sefaz-CE), que autoriza o contribuinte incentivador a
+deduzir do ICMS devido mensalmente. Nele deve estar discriminado o nome do projeto
+cultural, do proponente, o número do processo na Secretaria da Cultura do Estado do
+Ceará, o nome ou razão social do contribuinte incentivador e o valor do certificado.
+
+1.2.7. Proponente: pessoa física ou jurídica, pública ou privada, diretamente responsável
+pelo projeto a ser beneficiado por meio de incentivo fiscal.
+
+1.2.8. Contribuinte Incentivador: empresa contribuinte do Imposto sobre Circulação de
+Mercadorias e sobre Prestação de Serviços de Transporte Interestadual e Intermunicipal
+e Comunicações (ICMS) que a título de compensação para dedução dos valores devidos
+ao Estado incentiva projetos culturais chancelados pelo poder público.
+
+1.2.9. Interveniente/Órgão Governamental: atribuição desempenhada pelo Estado,
+através da Secretaria da Cultura, no âmbito da relação firmada entre o proponente e o
+contribuinte incentivador, por ocasião da assinatura e da execução do Termo de
+Incentivo à Cultura - Mecenato, incumbindo ao referido órgão a função de acompanhar e
+fiscalizar a execução do objeto do projeto a que se destinam recursos do mecenato, bem
+como de realizar o repasse do Certificado Fiscal de Incentivo à Cultura (CEFIC).
+Atribuições essas constantes também no Termo de Mecenato.
+
+6
+DAS DISPOSIÇÕES PRELIMINARES E DOS OBJETIVOS
+<!-- imagem -->
+1.3. O Edital visa atender aos seguintes objetivos:
+
+a) Fortalecer o setor cultural como eixo de desenvolvimento social e econômico do
+estado do Ceará, em parceria com o setor privado;
+
+b) Fomentar os processos de criação, produção, difusão, formação, pesquisa, intercâmbio
+e fruição das expressões artísticas no âmbito da diversidade cultural cearense;
+
+c) Contribuir para o fortalecimento das ações de salvaguarda do patrimônio material e
+imaterial do estado do Ceará.
+
+d) Incentivar a sustentabilidade de artistas, grupos, coletivos, companhias e demais
+profissionais e empreendimentos culturais cearenses;
+
+e) Colaborar com o fortalecimento do circuito e do calendário cultural e turístico do
+estado do Ceará;
+
+f) Preservar e observar os Direitos Culturais.
+
+CLIQUE AQUI PARA
+VOLTAR AO SUMARIO
+
+
+
+
+
+2
+DO OBJETO
+<!-- imagem -->
+2.1. Este Edital tem como objeto a seleção de projetos artísticos e culturais aptos a serem
+incentivados via renúncia fiscal. O proponente terá o prazo de 240 (duzentos e quarenta)
+dias para buscar apoio de contribuintes do ICMS. Após a publicação do Termo de
+Mecenato (Documento VI), o projeto incentivado terá o prazo máximo de até 24 (vinte
+quatro) meses, improrrogáveis, para ser executado integralmente.
+
+2.2. Os projetos apresentados deverão desenvolver em seu processo de execução a
+produção de bens e/ou serviços relacionados a pelo menos uma das seguintes áreas
+culturais:
+
+*   Artes integradas (projetos que contemplem mais de uma linguagem artística);
+*   Áreas Técnicas;
+*   Arte cultura digital e jogos;
+*   Artes visuais;
+*   Fotografia;
+*   Audiovisual;
+*   Cultura alimentar;
+*   Circo;
+*   Dança;
+*   Design;
+*   Economia criativa;
+*   Literatura, livro e leitura;
+*   Moda;
+*   Música;
+*   Patrimônio material e imaterial;
+*   Performance;
+*   Teatro;
+
+2.3. Poderão ser submetidos projetos iniciantes ou de continuidade, sendo:
+
+2.3.1. Projetos iniciantes: projetos que nunca captaram via Mecenato Estadual, mesmo já
+tendo sido autorizado em outras edições ou fomentado por outros editais.
+
+2.3.2. Projetos de continuidade: quando o projeto já houver sido fomentado pelo
+Mecenato Estadual pelo menos uma vez nos últimos 02 (dois) anos.
+
+2.4. Poderão ser submetidos projetos a serem executados no formato presencial ou
+híbrido (com ações presenciais e virtuais).
+
+7
+
+3
+DAS MODALIDADES
+DE CAPTAÇÃO
+<!-- imagem -->
+3.1. São modalidades de captação de recurso no Mecenato Estadual:
+
+3.2. DOAÇÃO (100%): a transferência de recursos em favor de projeto aprovado em
+edital de Mecenato da Secretaria da Cultura do Estado do Ceará, permitida ao doador a
+associação de seu nome, marca ou imagem, em agradecimento, em qualquer veículo de
+mídia impressa ou eletrônica (art. 96, inciso I da Lei 18.012/2022).
+
+3.2.1. Poderão se inscrever na modalidade de Doação projetos que:
+
+a) Promovam a formação artístico-cultural e que estimulem o empreendedorismo e/ou a
+cidadania cultural;
+
+b) Beneficiem segmentos historicamente vulnerabilizados, promovendo a sua inclusão
+social;
+
+c) Promovam práticas de participação da(s) comunidade(s) beneficiada(s) nas várias
+etapas do processo de produção de bens e serviços culturais.
+
+3.2.2. Sob essa modalidade, todos os produtos devem ser disponibilizados
+integralmente de forma gratuita ao público (art.102, § 5º da Lei 18.012/2022).
+
+3.3. INVESTIMENTO (90%): a transferência de numerário, com finalidade promocional
+para o investidor, pelo contribuinte do ICMS ou a utilização de bem móvel ou imóvel do
+seu patrimônio, sem a transferência de domínio, para a realização, por outra pessoa física
+ou jurídica de atividade cultural, com ou sem finalidade lucrativa, tendo o investidor sua
+marca, imagem ou nome divulgado em todas as peças de publicidade ou produtos
+resultantes do projeto que investiu (art. 96, inciso II da Lei 18.012/2022).
+
+3.3.1. Poderão se inscrever na modalidade de Investimento projetos que:
+
+a) Apresentem vantagens competitivas, consolidação e liderança no mercado cultural
+cearense;
+
+b) Estimulem o consumo e a comercialização de produtos e serviços culturais;
+
+c) Contenham propostas inovadoras que colaborem com o fortalecimento da economia
+da cultura;
+
+d) Tenham capacidade de agregar valores às ações de comunicação do Investidor.
+
+8
+
+DAS MODALIDADES DE CAPTAÇÃO
+
+3.3.2. Sob essa modalidade, a cobrança de ingressos ou venda de produtos deverá
+observar o limite máximo de 10% (dez por cento) do salário mínimo vigente para os
+valores unitários, atentando também para o que dispõe a Lei nº 12.933/2013 sobre a
+meia-entrada para estudantes, idosos, pessoas com deficiência e jovens de 15 a 29 anos,
+comprovadamente carentes, em espetáculos artístico-culturais.
+
+3.4. Caberá ao proponente, no ato da inscrição do projeto cultural, a escolha da
+modalidade de captação entre doação e/ou investimento. Quando da escolha por ambas
+as modalidades, o proponente definirá o valor para cada, respeitando o valor total
+autorizado a captar, e observando informação constante no item 5.3.
+
+3.4.1. Para projetos que captarem nas duas modalidades (doação e investimento), as
+regras de distribuição/comercialização dos produtos/ingressos deverão observar o
+percentual referente à cada modalidade no valor total captado.
+
+CLIQUE AQUI PARA
+VOLTAR AO SUMARIO
+<!-- imagem -->
+9
+
+
+
+
+
+4
+DO LIMITE ORÇAMENTÁRIO PARA
+FINANCIAMENTO DOS PROJETOS
+<!-- imagem -->
+
+4.1. O valor autorizado pelo Poder Público para captação é oriundo do Mecenato
+Estadual, mediante a conjugação de recursos do Poder Público Estadual e de
+particulares, obtidos por renúncia fiscal, nos termos do art. 95, da Lei Orgânica da
+Cultura do Estado do Ceará nº 18.012/2022.
+
+4.2. Estipula-se o valor global de até R$ 24.000.000,00 (vinte e quatro milhões de reais)
+para projetos a serem autorizados a realizar captação, distribuídos entre as áreas
+culturais listadas no item 2.2.
+
+4.2.1. O valor máximo a ser autorizado por projeto será de até R$ 1.000.000,00 (um
+milhão de reais), visando a democratização dos recursos financeiros oriundos da
+renúncia fiscal.
+
+4.3. Para fins de emissão dos Certificados Fiscais de Incentivo à Cultura (CEFIC's)
+relativos aos projetos apoiados, fica estipulado o valor disponível para captação a ser
+distribuído de acordo com o limite de renúncia fiscal mensal definido em Portaria emitida
+pelo Poder Público Estadual, como também o limite mensal de renúncia do contribuinte
+incentivador.
+
+4.4. Os recursos deste Edital poderão custear:
+
+*   Eventos artístico-culturais, de qualquer natureza, desde que estejam em consonância
+    com as áreas culturais listadas no item 2.2. deste Edital;
+*   Produtos/bens culturais;
+*   Seminários, oficinas e cursos de caráter cultural ou artístico, destinados à formação,
+    especialização e aperfeiçoamento de pessoal na área da Cultura;
+*   Transporte e seguro de objeto de valor destinado à exposição pública, bem como à
+    exposição permanente em equipamentos culturais pertencentes ao Estado do Ceará,
+    administrados ou não pela Secretaria da Cultura do Estado do Ceará;
+*   Prêmios a criadores, autores, artistas, técnicos e suas obras, filmes, espetáculos
+    musicais e de artes cênicas e quaisquer outros produtos gerados de qualquer das
+    áreas apoiadas pelo item 2.2 deste Edital, desde que resultado de concurso público
+    de seleção realizado no âmbito do Estado;
+*   Construção, formação, organização, manutenção, ampliação e aparelhagem de
+    museus, bibliotecas, arquivos, teatros, centros culturais, bandas de música e outras
+    organizações culturais, bem como de suas coleções e acervos;
+*   Restauração de obras de arte e bens móveis e imóveis de reconhecido valor cultural;
+*   Distribuição gratuita e pública de ingressos para espetáculos culturais e artísticos;
+*   Levantamento, estudos e pesquisas na área da cultura e da arte e de seus vários
+    segmentos;
+*   Realização de missões culturais no País e no exterior, inclusive por meio do
+    fornecimento de passagens;
+*   Contratação de serviços para elaboração de projetos culturais;
+*   Outras ações não previstas acima e consideradas relevantes pela Secretaria da
+    Cultura do Estado do Ceará, enquadráveis nos princípios e objetivos da Lei nº
+    18.012/2022.
+
+10
+
+5
+DAS CONDIÇÕES DE
+PARTICIPAÇÃO
+<!-- imagem -->
+
+5.1. Poderão inscrever-se no Edital Mecenas os seguintes perfis de proponentes:
+
+5.1.1. PESSOAS FÍSICAS, maiores de 18 (dezoito) anos, residentes e domiciliados no
+Estado do Ceará há pelo menos 01 (um) ano, com atuação comprovada no âmbito das
+áreas artísticas e culturais de que trata o item 2.2.
+
+5.1.2. PESSOAS JURÍDICAS DE DIREITO PRIVADO, COM OU SEM FINS
+LUCRATIVOS, com efetiva constituição e atuação há pelo menos 01 (um) ano no Estado
+do Ceará, que apresentem em seus atos constitutivos finalidade ou atividade no âmbito
+das áreas artísticas e culturais de que trata o item 2.2.
+
+5.1.2.1 Nos casos de inscrições apresentadas por pessoa jurídica, o projeto deverá
+indicar a pessoa física responsável, maior de 18 (dezoito) anos, residente e domiciliada
+no Estado do Ceará, há pelo menos 01 (um) ano e com comprovada atuação no campo
+artístico cultural, dentro ou fora do Estado. Não é obrigatório que a pessoa física,
+responsável pela realização do projeto, seja o representante legal da instituição
+proponente.
+
+5.2 As pessoas físicas e as pessoas jurídicas de direito privado sem fins lucrativos
+poderão receber incentivo nas modalidades Doação e Investimento.
+
+5.3 As pessoas jurídicas de direito privado com fins lucrativos, somente poderão receber
+incentivo na modalidade Investimento (90%), com 10% de contrapartida financeira a
+ser integralizada na conta do projeto pela empresa incentivadora.
+
+5.4. Para fins de comprovação de sede e foro das pessoas jurídicas, será considerado o
+endereço constante nos seus atos constitutivos.
+
+5.5. Para fins de comprovação do tempo de constituição de pessoa jurídica, conforme as
+disposições legais, será considerada a data constante nos seus atos constitutivos ou no
+cartão do CNPJ emitido pela Receita Federal.
+
+CLIQUE AQUI PARA
+VOLTAR AO SUMARIO
+
+11
+
+6
+DAS INSCRIÇÕES
+<!-- imagem -->
+
+6.1. As inscrições serão gratuitas e realizadas exclusivamente online pelo site
+[http://editais.cultura.ce.gov.br](http://editais.cultura.ce.gov.br), no período de 01 a 30 de junho de 2023, até às 23h59
+(vinte e três horas e cinquenta e nove minutos), horário local.
+
+6.2. Não serão aceitas, para efeito de inscrição, propostas entregues presencialmente na
+sede da Secretaria da Cultura do Estado do Ceará ou materiais postados via Correios.
+
+6.3. Cada proponente poderá inscrever até 02 (duas) propostas de projeto neste Edital.
+Entretanto, só será emitida autorização para captação para um projeto por proponente.
+
+6.3.1. Em se verificando que, em dois ou mais projetos aprovados, uma mesma pessoa
+se apresenta como proponente pessoa física (item 5.1.1) e/ou como componente do
+quadro diretivo de pessoas jurídicas (item 5.1.2), esta deverá indicar, no prazo
+estabelecido no item 11.3, qual projeto continuará no certame.
+
+6.3.2. Caso não seja constatada manifestação formal do proponente, será considerada
+válida apenas a última inscrição.
+
+6.4. Para efeito de inscrição neste Edital, todos os proponentes deverão estar
+cadastrados no Mapa Cultural do Ceará, no seguinte endereço eletrônico:
+[https://mapacultural.secult.ce.gov.br](https://mapacultural.secult.ce.gov.br).
+
+6.5. Os proponentes cadastrados na Rede de Mapas Municipais estão automaticamente
+integrados ao Mapa Cultural do Ceará, não havendo necessidade da realização de um
+novo cadastro.
+
+6.6. O Mapa Cultural do Ceará é a plataforma digital do Sistema de Informações
+Culturais do Estado do Ceará (Siscult), previsto pela Lei Orgânica da Cultura do Estado
+do Ceará nº18.012/2022, além de vincular-se aos mapas culturais integrados ao
+Sistema Nacional de Informações e Indicadores Culturais no âmbito do Ministério da
+Cultura - Minc.
+
+6.7. Para efeito de inscrição neste Edital, o proponente deve inserir em seu perfil no
+Mapa Cultural do Ceará, arquivos em PDF contendo currículo e/ou portfólio, e outros
+documentos que considerar relevantes para fins de comprovação da atuação no campo
+cultural. Podendo inserir também fotos, vídeos e links em campos específicos no seu
+perfil.
+
+12
+
+
+
+
+
+DAS INSCRIÇÕES
+6.8. Para validação da inscrição, o cadastro no Mapa Cultural, bem como a ficha de
+inscrição online, deverão estar obrigatoriamente preenchidos com as seguintes
+informações:
+6.8.1 Proponentes que ainda não possuam cadastro no Mapa Cultural deverão realizar
+inicialmente o cadastro como pessoa física e como pessoa jurídica, este quando
+necessário.
+
+a) Pessoa Física: Realizar o cadastro como Agente Individual e, em seguida, preencher
+os dados cadastrais e profissionais.
+
+b) Pessoa Jurídica: Realizar o cadastro como Agente Individual (pessoa responsável pela
+inscrição). Em seguida, vincular na ficha de inscrição, como Instituição Proponente, o
+perfil de Agente Coletivo da instituição. Por fim, preencher os dados cadastrais e
+profissionais.
+
+6.9. São dados cadastrais dos agentes no Mapa Cultural:
+
+a) PESSOA FÍSICA:
+
+I - Nome Completo do proponente;
+II - Nome Artístico/Nome Social;
+III - Registro Geral (RG - Cédula de Identidade);
+IV - Data de Expedição do RG;
+V - Órgão Expedidor do RG;
+VI - UF do RG;
+VII - Cadastro Pessoa Física (CPF);
+VIII - Endereço Residencial Completo, com CEP;
+IX - Município;
+X - Telefone fixo e celular;
+XI - E-mails;
+XII - Data de Nascimento;
+XIII - Estado Civil;
+XIV - Gênero;
+XV - Orientação sexual;
+XVI - Raça/Cor;
+XVII - Pessoa com/sem deficiência;
+
+b) PESSOA JURÍDICA:
+
+I - Nome da Razão Social;
+II - Nome Fantasia;
+III - Cadastro Nacional de Pessoa Jurídica (CNPJ);
+IV- Data de Fundação;
+V - Código / Natureza Jurídica;
+VI - Código / Atividade Principal;
+VII - Endereço Comercial Completo, com CEP;
+VIII - Município;
+IX - Telefone fixo e celular;
+X - E-mails;
+XI - Dados do Dirigente (Nome completo, RG com órgão expedidor e data de expedição,
+CPF, cargo, endereço residencial, telefones e emails).
+
+<!-- imagem -->
+
+DAS INSCRIÇÕES
+6.10. São dados profissionais (proponente pessoa física e jurídica) no Mapa Cultural:
+
+I - Perfil preenchido com foto e texto constando o histórico do Proponente, descrevendo
+as experiências realizadas no âmbito artístico e/ou cultural (obrigatório);
+||
+Anexos com, no mínimo, 01 (uma) imagem de ações culturais realizadas pelo
+Proponente, nos formatos JPG ou PNG (opcional);
+III - Link ou anexo de portfólio ou clipping de mídia, com notícias de ações do proponente
+e/ou do projeto inscrito publicadas em veículos de comunicação convencionais ou
+alternativos e materiais de divulgação de atividades anteriores (opcional);
+IV - Links para site ou blog do Proponente (opcional);
+V
+Links de vídeos do Proponente, publicados nos serviços YouTube ou Vimeo
+(opcional);
+VI - Anexos ou links para áudios nos formatos MP3 ou OGG (opcional);
+VII - Outros links ou anexos que o Proponente julgue necessários para comprovação de
+histórico de atividades de cunho artístico e/ou cultural, compatível com a proposta
+inscrita, como declarações, extratos de convênios, certificações, dentre outros materiais
+(opcional).
+
+6.11. São dados cadastrais da Proposta na Ficha de Inscrição:
+
+a) Título do projeto;
+b) Modalidade de captação (Doação, Investimento ou Doação/Investimento);
+c) Projeto Iniciante ou de continuidade, em casos de projetos de continuidade informar o
+histórico de captação (Ano/Valor/Empresa/Nome do Projeto/Proponente) nos últimos
+dois anos;
+d) Linguagem relacionada à ação proposta;
+e) Projetos de intervenção em bens edificados (tombados ou não), devem informar a
+etapa do projeto a ser realizada: estudo/elaboração do projeto, execução ou finalização
+da obra;
+f) Período de execução do projeto;
+g) Objeto do projeto, descrevendo sucintamente sobre o que consiste o projeto (é
+vedada a alteração do objeto do projeto incentivado, após sua aprovação);
+h) Justificativa (apontando os principais aspectos que justifiquem a relevância cultural e
+social do projeto);
+i) Público alvo direto e indireto (indicando estimativa quantitativa de público);
+j) Objetivo geral;
+k) Objetivos específicos;
+I) Metas/ações e atividades/produtos a serem realizados;
+m) Em caso de festivais ou outros eventos calendarizados, deve ser indicado o período
+de realização, resultados esperados e meios de verificação;
+n) Local(is) de execução do projeto;
+o) Valor solicitado para captação;
+p) Indicação de empresa(s) apoiadora(s), se for o caso;
+q) Geração de empregos ou postos de trabalho (diretos);
+r) Estimativa de emprego ou postos de trabalho (indiretos);
+s) Ficha técnica do projeto.
+
+<!-- imagem -->
+
+DAS INSCRIÇÕES
+6.12. Para realização da inscrição, além das informações solicitadas no item 6.9, 6.10 е
+6.11, o proponente Pessoa Física ou Pessoa Jurídica deverá anexar a seguinte
+documentação na ficha de inscrição:
+
+6.12.1. PESSOAS FÍSICAS:
+
+a) Cópia de documento de identificação oficial ou da Carteira Nacional de Habilitação ou
+de Carteira de Categoria Profissional (obrigatório);
+b) Cópia do CPF ou Comprovante de Situação Cadastral no CPF, emitido no site:
+http://www.receita.fazenda.gov.br/aplicacoes/atcta/cpf/consultapublica.asp (obrigatório);
+c) Comprovante de endereço residencial (obrigatório):
+c.1) Emitido até 03 (três) meses, contando a partir da data da inscrição do projeto; ou
+c.2) Declaração de residência (Documento V) assinada pelo próprio proponente;
+d) Proposta de Plano de Trabalho (Anexo I) (obrigatório):
+e) Carta de Intenção de apoio ao projeto, emitida por potencial contribuinte incentivador
+com sinalização de renúncia fiscal em favor da proposta (opcional);
+f) Carta de Intenção de apoio ao projeto, emitida por qualquer instituição que tenha
+objetivo de contribuir com o projeto por outras vias (opcional).
+g) Termo de Compromisso para Pessoa Física (obrigatório);
+
+6.12.2. PESSOAS JURÍDICAS DE DIREITO PRIVADO SEM FINS LUCRATIVOS:
+
+a) Cópia de documento de identificação oficial ou da Carteira Nacional de Habilitação ou
+de Carteira de Categoria Profissional do dirigente da pessoa jurídica; (obrigatório)
+b) Cópia do CPF ou Comprovante de Situação Cadastral no CPF do dirigente da pessoa
+jurídica,
+emitido
+no
+site:
+http://www.receita.fazenda.gov.br/aplicacoes/atcta/cpf/consultapublica.asp (obrigatório);
+c) Comprovante de endereço residencial do dirigente da pessoa jurídica (obrigatório):
+c.1) emitido até 03 (três) meses, contando a partir da data da inscrição do projeto; ou
+c.2) declaração de residência (Documento V) assinada pelo dirigente da pessoa
+jurídica;
+d) Cartão do CNPJ, emitido pela Secretaria da Receita Federal no site:
+https://servicos.receita.fazenda.gov.br/servicos/cnpjreva/cnpjreva_solicitacao.asp
+(obrigatório);
+e) Cópia do estatuto da pessoa jurídica, com suas alterações consolidadas (obrigatório);
+f) Cópia da ata de eleição e posse da atual diretoria (obrigatório);
+g) Proposta de Plano de Trabalho (Anexo I) (obrigatório):
+h) Carta de intenção de apoio ao projeto, emitida por potencial contribuinte incentivador
+com sinalização de renúncia fiscal em favor da proposta (opcional);
+i) Carta de Intenção de apoio ao projeto, emitida por qualquer instituição que tenha
+objetivo de contribuir com o projeto por outras vias (opcional).
+j) Termo de Compromisso para Pessoa Jurídica sem fins (obrigatório);
+
+<!-- imagem -->
+
+
+
+# DAS INSCRIÇÕES
+
+6.12.3. PESSOAS JURÍDICAS DE DIREITO PRIVADO COM FINS LUCRATIVOS:
+
+a) Cópia de documento de identificação oficial ou da Carteira Nacional de Habilitação ou
+de Carteira de Categoria Profissional do dirigente da instituição proponente
+(obrigatório);
+b) Cópia do CPF ou Comprovante de Situação Cadastral no CPF do dirigente da
+instituição, emitida em:
+http://www.receita.fazenda.gov.br/aplicacoes/atcta/cpf/consultapublica.asp (obrigatório);
+c) Comprovante de endereço residencial do dirigente da pessoa jurídica, não sendo
+aceito para estes fins documento relativo ao endereço onde se estabelece a própria
+entidade (obrigatório):
+c.1) Emitido até 03 (três) meses, contando a partir da data da inscrição do projeto; ou
+c.2) Declaração de residência (Documento V) assinada pelo dirigente da pessoa
+jurídica;
+d) Cartão do CNPJ, emitido pela Secretaria da Receita Federal no site:
+https://servicos.receita.fazenda.gov.br/servicos/cnpjreva/cnpjreva_solicitacao.asp
+(obrigatório);
+e) Cópia do Contrato Social da Pessoa Jurídica e suas últimas alterações; com previsão
+de atuação nas áreas do item 2.2. (obrigatório);
+f) Proposta de Plano de Trabalho (Anexo I) (obrigatório):
+g) Carta de intenção de apoio ao projeto, emitida por potencial contribuinte incentivador
+com sinalização de renúncia fiscal em favor da proposta (opcional);
+h) Carta de Intenção de apoio ao projeto, emitida por qualquer instituição que tenha
+objetivo de contribuir com o projeto por outras vias (opcional).
+i) Termo de Compromisso para Pessoa Jurídica com fins (obrigatório);
+
+6.13. Caso haja patrocínio e/ou investimento de outras fontes, o proponente deverá
+mencioná-los na apresentação da proposta, bem como no plano de trabalho.
+
+6.14. Se houver incentivador pré-definido, o Proponente poderá apresentar a respectiva
+carta de intenção de apoio ao projeto do pretenso incentivador, ciente de que isso não
+implicará na aprovação do respectivo projeto e/ou valor pela Comissão Estadual de
+Incentivo à Cultura (CEIC).
+
+6.15. O projeto que captar valores iguais ou superiores a R$ 100.000,00 (cem mil reais),
+deverá, obrigatoriamente, prever no plano de trabalho a contratação de serviço jurídico e
+contábil, observado o limite de 10% do valor total captado, que deverá subsidiar a
+execução do projeto.
+
+<!-- imagem -->
+
+# DAS INSCRIÇÕES
+
+6.16. Todos os documentos requisitados, assim como todas as informações
+necessárias, deverão estar discriminados na ficha de inscrição on-line, sendo
+necessário o upload do material (envio de arquivos), bem como, direcionamento através
+de links (endereços de páginas na Internet) em caso de vídeo, áudio e para materiais
+apresentados em tamanho superior ao suportado pela plataforma Mapa Cultural.
+
+6.17. A Secretaria da Cultura do Estado do Ceará disponibilizará, durante o período de
+inscrição, atendimento remoto aos proponentes em dias úteis, das 8h às 12h e de 13h às
+17h. As dúvidas deverão ser encaminhadas para Ο endereço eletrônico
+editalmecenas@secult.ce.gov.br e sanadas pelo contato telefônico (85) 3101-6740.
+
+6.18. As dúvidas técnicas relacionadas ao Mapa Cultural deverão ser encaminhadas
+ao endereço eletrônico mapa@secult.ce.gov.br ou realizadas por meio chat disponível
+na plataforma, em dias úteis, das 8h às 12h e de 13h às 17h.
+
+6.19. A Secretaria da Cultura do Estado do Ceará não se responsabilizará pelo
+congestionamento do sistema ou qualquer fato superveniente que impossibilite a
+inscrição até às 23h59min (vinte e três horas e cinquenta e nove minutos) do último
+dia da inscrição.
+
+6.20. Serão consideradas válidas, somente as inscrições finalizadas, por meio do envio
+da proposta, até o horário e data limite estipulados neste Edital.
+
+6.21. Serão desconsideradas as propostas com status de rascunho.
+
+6.22. A apresentação da inscrição implica prévia e integral concordância do proponente
+com as disposições previstas neste Edital.
+
+6.23. O proponente será o único responsável pela veracidade das informações e
+documentos encaminhados. A Secretaria da Cultura do Estado do Ceará está isenta de
+qualquer responsabilidade civil ou penal decorrente de quaisquer inscrições.
+
+6.24. Quando identificadas quaisquer ilegalidades nas informações enviadas no ato da
+inscrição, implicarão na desclassificação do projeto do certame, sem prejuízo da
+aplicação das medidas legais cabíveis.
+
+6.25. As propostas inscritas deverão apresentar orçamento de forma detalhada na
+proposta de Plano de Trabalho, com descrição de todas as despesas financeiras e
+também descrição das etapas e prazos de execução física do projeto.
+
+<!-- imagem -->
+
+# DAS INSCRIÇÕES
+
+6.26. Para melhor navegação, recomenda-se a utilização dos navegadores Firefox ou
+Google Chrome. Os vídeos (caso componham o processo de inscrição) deverão ser
+inseridos através de links dos serviços Youtube (www.youtube.com) ou Vimeo
+(www.vimeo.com).
+
+6.27. Sobre a documentação exigida para PROJETOS E OBRAS DE INTERVENÇÃO EM
+BENS EDIFICADOS e BENS TOMBADOS
+
+6.27.1. Em se tratando de OBRAS DE INTERVENÇÃO EM BENS EDIFICADOS que
+envolvam manutenção, reforma ou construção, deverá ser apresentada,
+obrigatoriamente, especificações técnicas, justificativa técnica, projeto de intervenção
+com os respectivos memoriais, projetos complementares, orçamento e cronograma
+físico-financeiro. Tais documentos deverão ser elaborados por profissional devida e
+regularmente inscrito pelo Conselho de Arquitetura e Urbanismo (CAU) ou Conselho
+Regional de Engenharia e Agronomia (CREA). Também deverá ser apresentada a
+anuência do proprietário do bem em questão para realização das obras pleiteadas.
+
+6.27.2 Em se tratando de OBRAS DE INTERVENÇÃO EM BENS TOMBADOS que
+envolvam reforma e/ou restauro, deverá ser apresentada, obrigatoriamente, além dos
+itens descritos no tópico anterior, a aprovação da intervenção pela instância que tombou
+o bem (imóvel ou móvel); e também a comprovação de que a empresa executora possui
+como Responsável(is) Técnico(s) ou em seu quadro permanente, profissional(is) de nível
+superior, reconhecido(s) pelo CREA ou CAU detentor(es) de CERTIDÃO DE ACERVO
+TÉCNICO, com Registro de Atestado, que comprove a execução de obras de
+características técnicas similares às do objeto tombado, e, cuja(s) parte(s) da obra de
+maior relevância técnica tenha(m) sido de área em m² de igual ou maior dimensão do que
+está sendo proposto. Também deverá ser apresentada a anuência do proprietário do
+bem em questão para realização das obras pleiteadas.
+
+<!-- imagem -->
+
+
+
+DAS INSCRIÇÕES
+6.27.3. Propostas de intervenção em bens edificados (tombados ou não) que tenham
+como objeto apenas a fase de estudo/elaboração do projeto arquitetônico, ficam
+isentos da apresentação da documentação dos itens 6.27.1 e 6.27.2, no momento da
+inscrição. O estudo/projeto arquitetônico, bem como demais documentos pertinentes,
+deverão ser apresentados no momento da prestação de contas como comprovação do
+cumprimento do objeto.
+
+6.28. Para os PROJETOS DE FORMAÇÃO, é obrigatório a apresentação do Programa
+Formativo completo com seus respectivos Planos de Curso e Ementas.
+
+6.28.1. Entende-se por projetos de formação aqueles que contemplem em seu escopo
+percurso(s) formativo(s), constituído(s) por cursos e/ou atividades de caráter formativo
+em formatos diversos, que somadas totalizem carga horária mínima de 80 (oitenta)
+horas-aulas.
+
+6.29. É dispensada a apresentação de comprovação de endereço por parte de
+proponentes que façam parte de comunidades nômades ou itinerantes, tais como
+comunidade cigana e circense, e que apresentem projeto cultural cujo objeto faz
+referência às práticas culturais de sua comunidade.
+
+<!-- imagem -->
+
+7
+DAS VEDAÇÕES DE
+PARTICIPAÇÃO
+
+7.1. São vedações de participação neste edital:
+
+a) Ser membro da Comissão Estadual de Incentivo à Cultura;
+b) Ser servidor público estadual vinculado à Secretaria da Cultura do Estado do Ceará ou
+aos seus equipamentos, bem como comissionado, terceirizado, ou pessoa que exerça
+função permanente;
+c) Ser vinculado, em cargo de diretoria ou gestão, a Organização Social - OS com a qual
+a Secretaria da Cultura do Estado do Ceará possua Contrato de Gestão vigente para
+gestão de seus equipamentos culturais;
+d) Ser vinculado a rede de equipamentos culturais em cargo permanente de
+coordenação, gestão e/ou direção;
+e) Ser pessoa jurídica que tenha, em sua diretoria, membros com as características
+dispostas nos itens anteriores;
+f) Não se adequar às condições de participação, conforme estabelecido no item 5 do
+Edital e em seus subitens.
+
+<!-- imagem -->
+
+8
+DO PROCESSO DE ANÁLISE E
+AUTORIZAÇÃO DAS PROPOSTAS
+
+8.1. Os projetos serão analisados em fase única onde serão realizadas: 1) a verificação
+da regularidade documental e 2) a análise técnica da proposta.
+
+8.2. Verificação da regularidade documental: consiste na conferência da documentação
+exigida no ato da inscrição, onde serão analisadas as condições de participação e as
+informações prestadas, sendo realizada por comissão formada por analistas da
+Secretaria da Cultura do Estado do Ceará.
+
+8.2.1. Serão consideradas irregulares as propostas que:
+
+a) Não comprovarem o tempo de atuação no âmbito das áreas artísticas e culturais de
+que tratam os itens 5.1.1, 5.1.2 e 5.5 (válido para pessoa física e para pessoa jurídica);
+b) Não comprovarem inscrição no CNPJ e ato constitutivo da pessoa jurídica em
+conformidade com as atividades relacionadas no projeto proposto e no item 2.2 (válido
+para pessoa jurídica);
+c) Não apresentarem os anexos e documentos obrigatórios, devidamente preenchidos,
+definidos nos itens 6.11 e 6.12.1, 6.12.2 e 6.12.3 (válido para pessoa física e para
+pessoa jurídica);
+
+8.3. Análise Técnica da Proposta: realização da análise técnica dos projetos pela
+Comissão Estadual de Incentivo à Cultura (CEIC), instituída pela Secretaria da Cultura do
+Estado do Ceará. Consiste na avaliação da proposta apresentada na ficha de inscrição
+online, currículos e demais materiais que compõem o portfólio, conforme os critérios e a
+metodologia de avaliação.
+
+<!-- imagem -->
+
+
+
+
+
+9
+DA METODOLOGIA PARA
+AVALIAÇÃO TÉCNICA DAS PROPOSTAS
+<!-- imagem -->
+9.1. A Comissão Estadual de Incentivo à Cultura (CEIC) analisará cada proposta com
+observância dos seguintes critérios:
+
+9.1.1. Critérios de Mérito Cultural:
+
+| ITEM                                                                                                                                                                        | PESO | PONTUAÇÃO | TOTAL |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--- | :-------- | :---- |
+| a) Grau de relevância do projeto no estímulo à dinâmica da criação, produção, pesquisa, formação, difusão, circulação e/ou fruição artística por meio das atividades e produtos indicados na proposta; | 3    | 0a4       | 12    |
+| b) Grau de contribuição da proposta em relação à geração de trabalho e renda para profissionais da cultura, dentre outros aspectos de promoção da economia da cultura no estado;      | 3    | 0a4       | 12    |
+| c) Grau de contribuição e abrangência da proposta no fortalecimento de direitos culturais (diversidade artística, etária, de gênero, políticas afirmativas, dentre outros), do acesso e da inclusão social;          | 2    | 0a4       | 08    |
+| d) Grau de contribuição e abrangência da proposta no fortalecimento das manifestações afro-brasileiras e indígenas.                                                     | 2    | 0a4       | 08    |
+| TOTAL MÁXIMO DE PONTOS                                                                                                                                                     | -    | -         | 40    |
+
+22
+
+DA METODOLOGIA PARA AVALIAÇÃO TÉCNICA DAS PROPOSTAS
+
+9.1.2. Critérios de Capacidade Técnica:
+
+| ITEM                                                                                                                                 | PESO | PONTUAÇÃO | TOTAL |
+| :----------------------------------------------------------------------------------------------------------------------------------- | :--- | :-------- | :---- |
+| a) Capacidade técnica de execução da proposta, tendo como base os currículos e portfólios apresentados;                               | 3    | 0a4       | 12    |
+| b) Exequibilidade da proposta com base na relação de equilíbrio entre as atividades, as despesas e os custos apresentados;          | 3    | 0a4       | 12    |
+| c) Pertinência da proposta em relação a modalidade escolhida: fundamentação, atividades e/ou produtos a serem gerados; | 2    | 0a4       | 08    |
+| TOTAL MÁXIMO DE PONTOS                                                                                                               | -    | -         | 32    |
+
+9.1.3. Os projetos avaliados pelos critérios estabelecidos nos itens **9.1.1** e **9.1.2** terão a
+seguinte gradação de pontos na análise de cada critério:
+
+|           |                       |
+| :-------- | :-------------------- |
+| 0 ponto   | Não atende aos critérios |
+| 01 e 1,5 pontos | Atende insuficientemente aos critérios |
+| 02 e 2,5 pontos | Atende parcialmente aos critérios |
+| 03 e 3,5 pontos | Atende satisfatoriamente aos critérios |
+| 04 pontos | Atende plenamente aos critérios |
+
+23
+
+DA METODOLOGIA PARA AVALIAÇÃO TÉCNICA DAS PROPOSTAS
+
+9.2. A pontuação máxima de cada proposta será de **72** (setenta e dois) pontos,
+considerando a soma dos critérios dos itens **9.1.1** e **9.1.2**.
+
+9.3. Os projetos serão analisados coletivamente pela Comissão, considerando os
+seguintes aspectos:
+
+a) Pontuação atribuída nos Critérios de Mérito Cultural e Capacidade Técnica;
+b) Garantia da diversidade das linguagens artísticas e público-alvo;
+c) Respeito ao limite financeiro do Edital.
+
+9.4. Não serão autorizados a captar os projetos que não obtiverem o mínimo de **40**
+(quarenta) pontos.
+
+9.5. Após a análise das propostas, um membro da Comissão Estadual de Incentivo à
+Cultura (CEIC) emitirá Parecer com as considerações sobre a análise, mas cabe ao
+colegiado a autorização total, parcial ou não autorização dos valores solicitados.
+
+9.5.1. No caso de propostas que tenham em seu escopo **PROJETOS DE INTERVENÇÃO
+EM BENS EDIFICADOS, TOMBADOS OU NÃO**, de que trata o item **6.27**, o parecer final
+da Comissão Estadual de Incentivo à Cultura (CEIC) deverá, ser subsidiado por um
+parecer de Servidor da Secretaria da Cultura do Estado do Ceará (Engenheiro Civil ou
+Arquiteto) sobre o projeto.
+
+9.5.2. Nas demais propostas, poderá ser solicitado parecer técnico de servidor da
+Secretaria da Cultura, ligado à área finalística, que tenha relação com a proposta
+apresentada para subsidiar a decisão final da Comissão Estadual de Incentivo à Cultura
+(CEIC).
+
+CLIQUE AQUI PARA
+VOLTAR AO SUMARIO
+<!-- imagem -->
+24
+
+
+
+
+
+10
+DA COMISSÃO ESTADUAL DE
+INCENTIVO À CULTURA (CEIC)
+M
+M
+
+10.1. A Comissão Estadual de Incentivo à Cultura (CEIC) será paritária e composta por
+no mínimo 11 (onze) membros efetivos, da seguinte forma:
+
+a) Secretária da Cultura do Estado do Ceará (presidente da Comissão);
+b) 05 (cinco) integrantes da equipe da Secretaria da Cultura do Estado do Ceará; e
+c) 05 (cinco) representantes da sociedade civil, indicados pelo CEPC e nomeados por ato
+da secretária da cultura.
+
+10.1.1. Poderão ser nomeados membros suplentes para a Comissão, que atuarão na
+eventual indisponibilidade de um dos membros titulares, respeitando a paridade.
+
+10.2. A Comissão analisará a proposta, com base na ficha de inscrição online, currículo,
+portfólio e demais informações e documentos disponibilizados pelo proponente no ato da
+inscrição.
+
+10.2.1. No caso de projetos de continuidade, a Secretaria da Cultura do Estado do Ceará
+disponibilizará para a CEIC o histórico de execução física e financeira dos projetos
+propostos.
+
+10.3. A CEIC é investida de autonomia e definirá, de acordo com os critérios de
+avaliação, os valores, e as quantidades de projetos autorizados, onde poderá
+recomendar redução ou eliminação de despesas apresentadas na ficha de inscrição
+online e na proposta de Plano de Trabalho (Anexos I), que sejam consideradas
+incompatíveis com os preços praticados no mercado local ou com a finalidade do
+projeto a ser realizado.
+
+25
+
+11
+DO RESULTADO E DA
+HOMOLOGAÇÃO
+<!-- imagem -->
+
+11.1. A Secretaria da Cultura do Estado do Ceará publicará o resultado da análise
+documental e das propostas com a relação dos projetos autorizados e não autorizados à
+captar recursos.
+
+11.2. O resultado será divulgado nos endereços eletrônicos https://www.secult.ce.gov.br
+e http://editais.cultura.ce.gov.br, sendo de total responsabilidade do proponente
+acompanhar a divulgação do resultado.
+
+11.3. Após a divulgação do resultado da análise documental e da proposta, caberá ao
+proponente pedido de recurso e/ou retificação documental no prazo de até 05 (cinco)
+dias úteis, a contar do dia seguinte à publicação do resultado no site.
+
+11.3.1. Pedido de recurso: consiste na contestação das análises documental e/ou
+técnica. O pedido deverá conter, obrigatoriamente, justificativa e ser encaminhado
+exclusivamente para o e-mail editalmecenas@secult.ce.gov.br, em formulário de recurso
+(Anexo V).
+
+11.3.2. Retificação de documentos: consiste na reapresentação dos documentos
+listados nos itens 6.11 e 6.12, que porventura tenham sido apresentados com alguma
+desconformidade, de acordo com o pronunciamento da comissão de habilitação. Os
+documentos deverão ser encaminhados para o e-mail editalmecenas@secult.ce.gov.br. É
+vedada a inclusão de novos documentos.
+
+11.3.2.1. Documentos relacionados às condições elencadas no item 8.2.1 não são
+passíveis de retificação documental.
+
+11.4. Findado o período de recurso, ocorrerá a homologação do resultado que consistirá
+em dois momentos:
+
+11.4.1. Homologação do Resultado das propostas sem recurso, será publicado o
+resultado no Diário Oficial do Estado (DOE), como também divulgada nos sites
+https://www.secult.ce.gov.br e http://editais.cultura.ce.gov.br, das propostas que não
+terão necessidade de análise de pedido de recurso. Após a homologação, os ofícios de
+captação serão encaminhados aos proponentes autorizados a captar relacionados neste
+resultado.
+
+26
+
+DO RESULTADO E DA HOMOLOGAÇÃO
+
+11.4.2. Homologação do Resultado das propostas com recurso.
+
+11.4.2.1 A Comissão de técnicos da Secretaria da Cultura do Estado do Ceará,
+responsável pela análise documental, analisará os pedidos de recursos no que lhe é
+cabível.
+
+11.4.2.2. A Comissão Estadual de Incentivo à Cultura (CEIC) designará, entre seus
+membros, aqueles que elaborarão parecer acerca dos pedidos de recurso da análise
+proposta que, em seguida, serão remetidos à Presidente da Comissão Estadual de
+Incentivo à Cultura (CEIC) para análise e decisão.
+
+11.4.2.3 A Secretaria da Cultura do Estado do Ceará publicará o resultado das análises
+dos recursos nos sites https://www.secult.ce.gov.br e http://editais.cultura.ce.gov.br.
+
+11.4.2.4. Findada às análises dos recursos, será publicada a Homologação do Resultado
+das propostas que tiveram pedido de recurso analisado no Diário Oficial do Estado
+(DOE), como também divulgada nos sites https://www.secult.ce.gov.br e
+http://editais.cultura.ce.gov.br. Após a homologação, os ofícios de captação serão
+encaminhados aos proponentes autorizados a captar relacionados neste resultado.
+
+11.5. A homologação das propostas nesse molde não afeta o certame, visto que o
+objetivo deste é a autorização da captação dos projetos e as propostas não competem
+entre si neste processo.
+
+11.6. Após publicadas homologações não caberá mais pedido de recurso.
+
+11.7. O proponente deverá considerar como prazo para captação, 240 (duzentos e
+quarenta dias) contados a partir do resultado homologado publicado no DOE no qual
+conste a autorização do seu projeto.
+
+CLIQUE AQUI PARA
+VOLTAR AO SUMARIO
+27
+
+
+
+
+
+12
+DO CRONOGRAMA
+L
+12.1 O certame seguirá o seguinte calendário, passível de alteração por parte da
+SECULT:
+
+|                                      |                         |
+| :----------------------------------- | :---------------------- |
+| Período de inscrições                 | 01/06/2023 a 30/06/2023 |
+| Período de análise documental e da proposta | 03/07/2023 a 31/08/2023 |
+| Divulgação do Resultado da análise documental e da proposta | 01/09/2023              |
+| Período de solicitação de recurso e retificação de documentos | 04/09/2023 a 11/09/2023 |
+| Homologação do Resultado das propostas sem recurso (DOE) | 14/09/2023              |
+| Análise dos Recursos                 | 12/09/2023 a 22/09/2023 |
+| Divulgação do Resultado após recursos | 25/09/2023              |
+| Homologação do Resultado das propostas com recurso (DOE) | 28/09/2023              |
+
+28
+
+13
+DA CAPTAÇÃO E FORMALIZAÇÃO
+DO TERMO DE MECENATO
+
+13.1. O proponente terá o prazo de 240 (duzentos e quarenta) dias corridos e
+improrrogáveis para buscar apoios de contribuintes de ICMS. A contagem desse prazo
+inicia a partir da homologação do resultado do projeto no Diário Oficial do Estado, no
+qual conste sua autorização para captar.
+
+13.1.1. Findado o prazo e o proponente não tendo realizado a captação igual ou superior
+a 35% (trinta e cinco por cento) do recurso autorizado para o seu projeto, será revogada
+automaticamente a autorização de captação.
+
+13.2. O proponente que obtiver êxito na captação do recurso, no prazo e percentual
+mínimo estipulados nos itens 13.1 e 13.1.1, deverá encaminhar para formalização do
+Termo de Mecenato, os documentos abaixo:
+
+a) Ofício para Abertura de processo (Documento I).
+b) Ficha da proposta inserida no Mapa Cultural do Ceará e todos os anexos inseridos;
+c) Declaração de Aceitação ao Incentivo (Documento II);
+d) Termo de Incentivo à Cultura - TIC (Documento III);
+e) Documento comprobatório de conta bancária específica para o projeto.
+f) Formulário de Ajuste, devidamente rubricado e assinado (Documento IV);
+g) Proposta de Plano de Trabalho (Anexo I), de acordo com valor captado, devidamente
+assinado;
+h) Certidão Negativa de Débitos Trabalhistas (atualizada), emitida no site
+http://www.tst.jus.br;
+i) Certidão Negativa de Débitos relativos aos Tributos Federais e à Dívida Ativa da União
+(atualizada), emitida no site http://www.receita.fazenda.gov.br;
+j) Certidão Negativa de Débitos Estaduais (atualizada), emitida pela Secretaria da
+Fazenda do Ceará (Sefaz-CE) através do site http://www.sefaz.ce.gov.br;
+k) Certidão Negativa de Débitos Municipais (atualizada), emitida pela Prefeitura do
+município do Proponente;
+I) Certidão de regularidade junto ao FGTS (atualizada), emitida pela Caixa Econômica
+Federal através do site www.caixa.gov.br, somente para Pessoa Jurídica de direito
+privado;
+
+29
+
+DA CAPTAÇÃO E FORMALIZAÇÃO DO TERMO DE MECENΑΤΟ
+<!-- imagem -->
+13.3. Os projetos de intervenção em bens (tombados ou não) deverão apresentar, além
+dos documentos acima elencados, o alvará de obras, o plano de gerenciamento de
+resíduos sólidos da construção civil, e outras licenças/autorizações previstas na
+legislação ambiental, quando se fizerem necessárias.
+
+13.3.1. No caso de bens tombados, também deverá ser apresentada Carta de Anuência
+do(s) órgão(s) competente(s) de acordo com a esfera responsável pelo tombamento.
+
+13.4. Os documentos que demandem assinatura serão aceitos apenas com apresentação
+da assinatura de próprio punho ou realizada por meio de certificado digital. Assinaturas
+no formato de foto (recortadas/copiadas e coladas) não serão aceitas.
+
+13.5. Os documentos deverão ser encaminhados para editalmecenas@secult.ce.gov.br.
+Não serão aceitos documentos entregues físicos ou encaminhados pelos Correios.
+
+13.6. O não atendimento de forma integral dos itens 13.2, 13.3, 13.3.1, 13.4 e 13.5
+inviabiliza a formalização do Termo de Mecenato.
+
+13.7. O proponente só receberá os CEFICs relativos ao seu projeto após deferimento de
+todos os ajustes por analista da Secult, como também assinatura e publicação no DOE
+do Termo de Mecenato.
+<!-- imagem -->
+CLIQUE AQUI PARA
+VOLTAR AO SUMARIO
+
+30
+
+
+
+
+
+14
+DA ACESSIBILIDADE
+<!-- imagem -->
+14.1. Os projetos incentivados por meio deste edital deverão, obrigatoriamente,
+implementar a inclusão e a viabilidade da participação das pessoas com deficiência ou
+com mobilidade reduzida, visando assegurar e promover condições de igualdade, o
+exercício dos direitos e das liberdades fundamentais da pessoa com deficiência, sua
+inclusão e cidadania.
+
+14.2. As ações de acessibilidade propostas nos projetos devem ser balizadas a partir dos
+conceitos presentes no Estatuto da Pessoa com Deficiência, Lei nº 13.146/2015, quais
+sejam:
+
+14.2.1. Acessibilidade: possibilidade e condição de alcance para utilização, com
+segurança e autonomia, de espaços, mobiliários, equipamentos urbanos, edificações,
+transportes, informação e comunicação, inclusive seus sistemas e tecnologias, bem como
+de outros serviços e instalações abertos ao público, de uso público ou privados de uso
+coletivo, tanto na zona urbana como na rural, por pessoa com deficiência ou com
+mobilidade reduzida (art. 3º, inciso I)
+
+14.2.2. Barreiras: qualquer entrave, obstáculo, atitude ou comportamento que limite ou
+impeça a participação social da pessoa, bem como o gozo, a fruição e o exercício de seus
+direitos à acessibilidade, à liberdade de movimento e de expressão, à comunicação, ao
+acesso à informação, à compreensão, à circulação com segurança, entre outros (art. 3º,
+inciso IV).
+
+14.2.3. Pessoa com deficiência: considera-se pessoa com deficiência aquela que tem
+impedimento de longo prazo de natureza física, mental, intelectual ou sensorial, o qual,
+em interação com uma ou mais barreiras, pode obstruir sua participação plena e efetiva
+na sociedade em igualdade de condições com as demais pessoas (art. 2º).
+
+14.2.4. Pessoa com mobilidade reduzida: considera-se pessoa com mobilidade reduzida
+aquela que tenha, por qualquer motivo, dificuldade de movimentação, permanente ou
+temporária, gerando redução efetiva da mobilidade, da flexibilidade, da coordenação
+motora ou da percepção, incluindo idoso, gestante, lactante, pessoa com criança de colo
+e obeso (art. 3º, inciso IX).
+
+31
+DA ACESSIBILIDADE
+
+14.3. Para efeito de cumprimento do item 14.1, são consideradas propostas de ações
+que visem a redução ou eliminação de qualquer uma das barreiras descritas na
+legislação. São elas: barreiras urbanísticas, barreiras arquitetônicas, barreiras nos
+transportes, barreiras nas comunicações e na informação, barreiras atitudinais e barreiras
+tecnológicas.
+
+14.4. O projeto que captar valores inferiores a R$ 100.000,00 (cem mil reais) deverá,
+obrigatoriamente, adotar pelo menos 01 (uma) ação de promoção de acessibilidade.
+
+14.5. O projeto que captar valores iguais ou superiores a R$ 100.000,00 (cem mil reais)
+deverá, obrigatoriamente, adotar pelo menos 02 (duas) ações distintas de promoção de
+acessibilidade.
+
+14.6. É vedado o reajuste no plano de trabalho que pretenda extinguir, em sua
+integralidade, as ações de implementação de acessibilidade e inclusão, em virtude de
+autorização para captação menor que o valor proposto no projeto inicial.
+
+CLIQUE AQUI PARA
+VOLTAR AO SUMARIO
+<!-- imagem -->
+32
+15
+DO INCENTIVO AOS PROJETOS
+AUTORIZADOS E DAS OBRIGAÇÕES
+DOS PROPONENTES
+<!-- imagem -->
+15.1. Os valores autorizados para captação de recursos consistem em valores brutos.
+Cabe ao proponente, a quantificação e o recolhimento de todos os tributos, taxas e
+despesas correlatas ao projeto selecionado.
+
+15.2. O repasse do recurso captado poderá ser parcial ou integral e só contemplará o
+projeto que, obrigatoriamente, apresente plano de execução vinculado ao período de até
+12 (doze) meses, que poderá ser prorrogado por mais 12 (doze) meses, totalizando o
+prazo improrrogável de 24 (vinte e quatro) meses; e esteja regular perante as Fazendas
+Públicas.
+
+15.3. O valor recebido deverá cobrir os custos do plano de trabalho, como serviços
+artísticos, curadoria, produção, assessoria de comunicação, técnicos e demais serviços
+especializados, locação de equipamentos de som e iluminação, produção de material de
+divulgação impresso e digital, dentre outros itens necessários à execução e à divulgação
+das atividades previstas do projeto.
+
+15.3.1. O proponente poderá ser remunerado com recursos do projeto captado via
+Mecenato, desde que preste serviço ao projeto, que este esteja previsto no orçamento
+aprovado pela Secretaria da Cultura do Estado do Ceará e que o valor desta
+remuneração, ainda que por serviços diversos, não ultrapasse 30% (trinta por cento) do
+valor aprovado.
+
+15.3.2. A remuneração para o serviço de captação de recursos é limitada a 5% (cinco por
+cento) do valor do custo do projeto, devendo ser paga proporcionalmente às parcelas já
+captadas.
+
+15.3.3. O proponente que captar valores abaixo de R$ 100.000,00 poderá empregar
+recursos recebidos no pagamento de atividades de assessoria contábil e jurídica, no
+percentual de até 10% (dez por cento) do valor total do projeto.
+
+15.4. O proponente deverá apresentar conta corrente específica (conta pessoa física ou
+conta pessoa jurídica, de acordo com perfil do agente), em seu próprio nome, para fins de
+recebimentos dos recursos referentes ao projeto autorizado, sendo vedada a
+movimentação de qualquer outro valor na referida conta corrente, para atendimento da
+alínea "f" do item 13.2.
+
+15.6. O contribuinte incentivador não poderá efetuar renúncia fiscal em favor de
+proponente e/ou projeto a ele vinculado nas modalidades de doação e investimento.
+
+15.7. Fica o proponente obrigado a prever no Formulário de Ajuste (Documento IV)
+indicadores relacionados às metas, às ações e aos resultados esperados pela execução
+do projeto.
+
+33
+
+
+
+16
+DA EMISSÃO DO CERTIFICADO DE
+INCENTIVO FISCAL À CULTURA (CEFIC)
+E REPASSE DO RECURSO FINANCEIRO
+<!-- imagem -->
+16.1. Para fins de recebimento dos CEFICs, o proponente deverá estar regular e
+adimplente perante os entes federal, estadual e municipal. A verificação ocorrerá da
+seguinte forma:
+
+16.1.1. Pessoa física e pessoa jurídica sem fins lucrativos deverão, obrigatoriamente,
+realizar o Cadastro Geral de Parceiros no Sistema de Convênios e Congêneres do Estado
+do Ceará (e-Parcerias), por meio do endereço eletrônico e-parcerias.cge.ce.gov.br.
+
+16.1.2. Pessoa jurídica com fins lucrativos será verificada a adimplência e regularidade
+nos sites oficiais.
+
+16.2. Após emissão do CEFIC pela Sefaz, o proponente só receberá o documento por
+parte da Secult após Termo de Mecenato publicado.
+
+16.3. Após recebimento do CEFIC, o proponente deverá apresentar o documento na
+empresa incentivadora para fazer que esta realize o pagamento.
+
+16.4. De posse do CEFIC, o contribuinte incentivador realizará a transferência do recurso
+financeiro, total ou parcial, conforme disposto no documento, para conta corrente
+específica do projeto. A transferência estará condicionada à regularidade e adimplência,
+conforme item 16.1.
+
+16.5. Somente serão reconhecidos como recursos transferidos, pelo contribuinte
+incentivador, os depósitos com identificação, efetivamente creditados na conta corrente
+aberta exclusivamente para o projeto, não sendo admitida qualquer outra forma de
+repasse.
+
+16.6. O recurso financeiro tem caráter público e cabe ao proponente a correta utilização
+e emprego, única e exclusivamente, para a realização do projeto proposto, não se
+sujeitando ao sigilo fiscal.
+
+16.7. O cancelamento do Certificado Fiscal de Incentivo à Cultura – CEFIC poderá ocorrer
+caso seja verificado inconsistência no documento ou impossibilidade de pagamento por
+parte da empresa incentivadora.
+
+34
+17
+DA EXECUÇÃO DOS PROJETOS
+<!-- imagem -->
+17.1. O projeto deverá cumprir integralmente a proposta aprovada, conforme
+Cronograma de Execução, Plano de Mídia, Orçamento e Cronograma Físico-financeiro
+apresentados na proposta de Plano de Trabalho (Anexo I) e firmados em Termo de
+Mecenato, vedada a alteração de seu objeto, respondendo o proponente pelas
+consequências de sua inexecução total ou parcial.
+
+17.2. Durante a execução do projeto, o proponente deverá, obrigatoriamente:
+
+a) Movimentar os recursos financeiros do projeto em conta corrente exclusiva, aplicando-
+os integralmente na execução do objeto aprovado;
+b) Permitir o acesso do público em geral aos bens e serviços decorrentes dos projetos;
+c) Efetuar aquisição de bens e/ou serviços com observância aos princípios
+administrativos da impessoalidade, moralidade, publicidade, economicidade e eficiência,
+com cotação prévia de preços, salvo casos de inexigibilidade, que devem ser
+formalmente comprovados e justificados;
+
+17.3. Independentemente da comercialização ou não dos bens e/ou produtos gerados
+pelo projeto, o proponente que tiver seu projeto apoiado na modalidade doação e/ou
+investimento deverá destinar pelo menos 10% (dez por cento) do produto resultante de
+seu projeto em benefício de comunidades e segmentos historicamente vulnerabilizados,
+escolas públicas, entidades civis sem fins econômicos e de caráter sociocultural.
+
+17.4. Quando o objeto do projeto conter publicação de conteúdo em livro ou equiparado,
+impresso ou em dispositivos de armazenamento, o proponente deverá comprovar o
+envio de pelo menos 10% dos exemplares da obra à Biblioteca Pública Estadual do
+Ceará (BECE).
+
+17.5. Caso haja necessidade de alteração do orçamento físico-financeiro do projeto
+apto a captar, este deverá observar o disposto no art. 102 § 1º, § 2º e § 3º da Lei nº
+18.012/2022.
+
+17.5.1. Fica autorizado o remanejamento entre rubricas da mesma natureza de
+despesa, previstas no plano de trabalho do projeto, independentemente de solicitação
+prévia, observado o limite de 30% (trinta por cento) do valor total do projeto, devendo
+essas modificações serem informadas quando da prestação de contas.
+
+17.5.2. As solicitações que necessitem de parecer da Secretaria da Cultura devem ser
+requeridas com antecedência mínima de 30 (trinta) dias, antes da execução da despesa
+ou fim da vigência do instrumento.
+
+35
+DA EXECUÇÃO DOS PROJETOS
+17.6. É dispensada a solicitação de autorização para uso dos rendimentos bancários
+oriundos da aplicação financeira do projeto, sendo permitido ao proponente aplicá-los
+em itens orçamentários já previstos ou em itens novos, desde que não fujam da natureza
+do objeto do projeto e observem o valor e prática do mercado, observados os limites
+previstos, conforme art. 103 § 6º da Lei nº 18.012/2022.
+
+17.7. A Secretaria da Cultura do Estado do Ceará não se responsabilizará pelos atos,
+contratos ou compromissos assumidos de natureza comercial, financeira, trabalhista ou
+outros realizados pelo proponente, responsável pelo projeto, para fins de execução das
+atividades previstas na proposta de Plano de Trabalho (Anexo I).
+
+17.8. São ações vedadas ao proponente, que podem ensejar em sanção administrativa:
+
+1. Alterar o objeto do projeto incentivado;
+2. Praticar qualquer discriminação de qualquer natureza (política, racial, de gênero,
+etária, religiosa etc) que atente contra a liberdade de expressão, de atividade
+intelectual e artística, de consciência ou crença, no andamento da execução das
+propostas aprovadas;
+3. Praticar violação de direitos intelectuais;
+4. Deixar de veicular, no material de divulgação ou em entrevistas, o apoio concedido
+por este Edital;
+5. Obstar, por ação ou omissão, o regular andamento do projeto incentivado;
+6. Executar despesas fora do período previsto para execução do projeto;
+7. Adquirir bens e serviços não previstos na proposta apresentada ou em inobservância
+das disposições da Lei de Licitações, que poderá ser usada subsidiariamente;
+8. Sub-rogar, todo ou em parte, sem a anuência formal desta Secretaria, das obrigações
+assumidas em decorrência deste Edital.
+9. Subcontratar e favorecer o privilégio no fornecimento de produtos e serviços a um
+determinado particular acima do percentual máximo de 50% do recurso recebido. É
+vedada a subcontratação por terceiros, preservando o princípio da participação no
+recurso público, exceto quando determinado serviço ou produto ultrapasse o
+percentual citado, conforme o art. 72 da Lei N° 8.666, 21 de junho de 1993;
+10. Prever em seu escopo e orçamento a aquisição de acervo para distribuição gratuita
+em qualquer natureza de evento, salvo se for para distribuir o acervo adquirido ao
+Sistema Estadual de Bibliotecas Públicas (SEBP/CE) ou Sistema Estadual de Museus
+(SEM/CE).
+
+17.9. A prática de quaisquer das condutas descritas no item 17.8 deste Edital, por
+responsável direto ou indireto do projeto, ensejará a apuração de responsabilidade
+por parte desta Secretaria da Cultura do Estado do Ceará.
+
+36
+
+
+
+
+18
+DO PLANO DE COMUNICAÇÃO
+目
+<!-- imagem -->
+18.1. O apoio do Governo do Estado do Ceará deverá ser divulgado nos projetos
+incentivados por intermédio da Secretaria da Cultura do Estado do Ceará, fazendo
+constar, em todo material de divulgação impressa e televisiva e em quaisquer projetos
+gráficos associados ao produto final e sua divulgação (cartazes, folders, panfletos,
+peças de vídeo, flyers virtuais e outras peças para redes sociais e aplicativos de
+mensagens, vídeos, publicações e outros), a veiculação e inserção do nome e símbolos
+oficiais do Estado do Ceará, de acordo com o padrão de identidade visual fornecido
+pela Assessoria de Comunicação da Secretaria da Cultura e disponível no site
+(https://www.secult.ce.gov.br), incluindo selo do Sistema Estadual de Cultura, com
+seguinte texto: “ESTE PROJETO É APOIADO PELA LEI ESTADUAL DE INCENTIVO À
+CULTURA – LEI Nº 18.012, DE 01 DE ABRIL DE 2022”, obedecendo-se o disposto no
+artigo 49 da lei nº 18.012/2022.
+
+18.2. O apoio do Governo do Estado do Ceará por meio da Secretaria da Cultura deve ser
+citado verbalmente em todas as ocasiões de apresentação e divulgação do projeto e
+em todas as entrevistas à imprensa.
+
+18.3. Todo material de divulgação deverá seguir o plano de mídia aprovado pela
+Assessoria de Comunicação da Secretaria da Cultura (contatos: 3101.6761;
+ascom@secult.ce.gov.br). Eventuais modificações deverão ser enviadas à Secretaria da
+Cultura para prévia aprovação, sob pena de NÃO ser aprovada a prestação de contas do
+projeto.
+
+18.4. Fica facultado à Secretaria da Cultura do Estado do Ceará a realização de ação
+pública gratuita de divulgação e acesso aos resultados obtidos pelos projetos
+selecionados, como publicação (impressa ou eletrônica), mostra, exposição, feira,
+seminário ou festival, com livre uso de imagens, textos e produtos produzidos, sendo
+vedado o pagamento de cachês ou qualquer outra modalidade de pagamento para os
+seus proponentes e/ou participantes.
+
+CLIQUE AQUI PARA
+VOLTAR AO SUMARIO
+<!-- imagem -->
+37
+
+---
+19
+DO ACOMPANHAMENTO
+E MONITORAMENTO
+<!-- imagem -->
+19.1. A Secretaria da Cultura do Estado do Ceará acompanhará e avaliará o
+desenvolvimento dos projetos selecionados, com foco na mensuração dos seus
+resultados e impacto social na economia da cultura, sendo o acompanhamento e o
+monitoramento realizados sob o aspecto da execução física do objeto e, quando
+necessário, sob o aspecto financeiro, conforme art. 104 e art. 73 da Lei 18.012/2022.
+
+19.2. A Secretaria da Cultura designará fiscal para acompanhar a execução física dos
+projetos apoiados, que emitirá pareceres técnicos e avaliação acerca da execução do
+objeto e dos resultados do projeto apoiado.
+
+19.3. A Secretaria da Cultura poderá contratar terceiros, pessoas físicas ou jurídicas, para
+executar atividades de avaliação de cumprimento do objeto e subsidiar a análise do
+fiscal.
+
+19.4. Para acompanhamento da execução física dos projetos poderão ser realizadas
+visitas "in loco" pelo fiscal, por terceiros contratados ou por outro agente vinculado à
+Secretaria da Cultura e designado para tanto.
+
+19.4.1. O agente público emitirá um Relatório de Verificação Presencial.
+
+19.5. O proponente que fizer jus ao apoio a que se destina este Edital deverá apresentar,
+OBRIGATORIAMENTE, o preenchimento do Relatório de Execução Parcial do Objeto
+(Documento VII) em até 90 (noventa) dias corridos, após o recebimento de 50%
+(cinquenta por cento) do valor total do projeto pela empresa incentivadora, independente
+de solicitação desta secretaria.
+
+19.6. Após a análise do Relatório de Execução Parcial do Objeto, o fiscal emitirá parecer
+técnico sobre o andamento da execução do objeto em até 60 (sessenta) dias.
+
+19.7. Durante a execução do projeto, havendo suspeita de irregularidades, a Secretaria
+da Cultura do Estado do Ceará poderá solicitar informações/justificativas ao proponente
+e caso julgue necessário poderá suspender a liberação das parcelas seguintes até a
+regularização do fato motivador da ocorrência.
+
+38
+---
+20
+DA PRESTAÇÃO DE CONTAS
+$
+$
+$
+<!-- imagem -->
+20.1. A prestação de contas do projeto deverá ser realizada mediante comprovação da
+realização integral do objeto, conforme último Plano de Trabalho aprovado.
+
+20.2. Projetos com valores captados abaixo de R$ 200.000,00 (duzentos mil reais)
+poderão prestar contas por meio do Relatório de Execução do Objeto (Documento VIII),
+acompanhado das devidas comprovações.
+
+20.2.1. Os projetos enquadrados no item anterior deverão fazer a guarda de toda a
+documentação financeira, considerando que a mesma poderá ser solicitada a qualquer
+tempo pela Secult ou órgãos de controle.
+
+20.3. Para os projetos que captem valores a partir de R$ 200.000,00 (duzentos mil reais)
+é obrigatória a apresentação da execução financeira, juntamente com Relatório de
+Execução do Objeto e as devidas comprovações.
+
+20.4. Após encerramento da vigência do Termo de Mecenato, o proponente deverá,
+OBRIGATORIAMENTE, apresentar o Relatório de Execução do Objeto em até 60
+(sessenta) dias corridos para fins de prestação de contas.
+
+20.4.1. Deverão ser anexadas ao Relatório de Execução do Objeto documentação
+complementar que comprovem a execução das ações, tais como:
+a) Registros de mídia (fotos, vídeos, clipping, websites, links, redes sociais, etc.);
+b) Documentos em geral, tais como, frequências, fichas de inscrição, certificados,
+certificados de vistoria e conclusão de obras, declarações, resultado de pesquisas e
+estudos, bancos de dados, termos de parcerias, relatórios adicionais e outros;
+c) Apresentação dos produtos gerados, tais como, livros e publicações diversas,
+dispositivos de armazenamento e transmissão de mídia (CDs, DVDs, etc.), e outros;
+
+39
+
+
+
+
+
+DA PRESTAÇÃO DE CONTAS
+
+20.4.2. Os projetos que prevêem ações a serem realizadas em espaços públicos ou
+privados deverão apresentar autorização de uso de espaço físico, carta de anuência ou
+similar, emitido em data anterior às ações do projeto, observando as seguintes regras:
+
+a) Espaços Privados - Carta de anuência emitida pelo responsável de onde se realizará o
+projeto, indicando local e data de realização;
+b) Espaços Públicos Documento emitido pelo órgão público competente, que
+demonstre o atendimento à legislação pertinente ao caso, e indicando local e data de
+realização;
+
+20.5. O Fiscal responsável emitirá Parecer Técnico, em até 60 (sessenta) dias, sobre o
+Relatório de Execução do Objeto, onde poderá:
+
+1. Aprovar total ou parcialmente o cumprimento do objeto, este último devendo ser
+justificado;
+2. Solicitar documentação complementar relativa ao cumprimento do objeto;
+3. Solicitar apresentação do Relatório de Execução Financeira.
+
+20.5.1. Instrumentos com valor superior a R$ 200.000,00 (duzentos mil reais) deverão
+apresentar Relatório de Execução Financeira junto ao Relatório de Execução do Objeto.
+
+<!-- imagem -->
+
+40
+
+21
+QUANDO DA ANÁLISE DA
+EXECUÇÃO FINANCEIRA
+<!-- imagem -->
+
+21.1. Instrumentos com valor superior a R$ 200.000,00 (duzentos mil reais) deverão
+apresentar Relatório de Execução Financeira junto ao Relatório de Execução do Objeto.
+
+21.1.1. O Relatório de Execução Financeira é composto pelos documentos abaixo:
+
+a) Ofício de abertura de processo (Documento I);
+b) Demonstrativo da Execução da Receita e da Despesa (Documento IX);
+c) Relação de Pagamentos (Documento X);
+d) Conciliação Bancária (Documento XI);
+e) Relação de Bens (Documento XII);
+f) Relatório de Execução Físico-Financeira (Documento XIV);
+g) Cópia dos Certificados Fiscais de Incentivo a Cultura - CEFICs emitidos;
+h) Recibo do CEFIC a cada repasse do incentivador (Documento XIII);
+i) Plano de Trabalho (último aprovado);
+j) Conjunto de notas fiscais atestadas, Recibo de Pagamento Autônomo (RPA), nota
+fiscal avulsa, recibos e faturas (todas devidamente identificadas com número do
+processo inicial, número do Termo de Mecenato e a edição do edital);
+k) Contratos, cotação de preços, documentos do processo de inexigibilidade caso tenha
+ocorrido na execução do projeto a dispensa da cotação de preços;
+I) Comprovantes de pagamentos de tributos como ISS, INSS (previdenciário e patronal),
+Imposto de Renda, se houver sido recolhidos na execução do projeto;
+m) Certidões negativas de débito do fornecedor vencedor (das esferas municipal,
+estadual e federal, FGTS e trabalhista), válidas no período do pagamento da despesa;
+n) Comprovante de devolução de saldo remanescente ou de rendimentos não utilizados,
+se houver.
+o) Extrato da conta corrente do projeto, onde seja possível a identificação do nexo da
+utilização dos recursos, e da aplicação financeira, abrangendo do período do primeiro
+depósito até a última movimentação, com saldo zerado.
+
+21.2. Os modelos dos documentos acima constam como anexos do edital e também
+podem ser encontrados na página da Secretaria da Cultura do Estado do Ceará:
+http://editais.cultura.ce.gov.br/.
+
+21.3. Todos os documentos listados no item 21.1 deverão ser mantidos em posse do
+proponente, pois a qualquer momento poderão ser solicitados.
+
+41
+
+QUANDO DA ANÁLISE DA EXECUÇÃO FINANCEIRA
+
+21.4. Os documentos relativos à prestação de contas do cumprimento do objeto ou
+relativo à execução financeira, esta quando necessária, deverão ser encaminhados de
+forma virtual para o e-mail editalmecenas@secult.ce.gov.br para abertura de protocolo.
+
+21.5. Os rendimentos das aplicações no mercado financeiro só poderão ser utilizados na
+execução do objeto do projeto, estando sujeitos às mesmas condições de prestação de
+contas exigidos para os recursos transferidos. Em caso de não utilização, os rendimentos
+deverão ser devolvidos para a conta do FEC ao final da execução.
+
+21.6. Na hipótese de inexecução do projeto incentivado, deverá ser apresentada
+justificativa à Secretaria da Cultura do Estado do Ceará, acompanhada da devida
+restituição dos valores do incentivo recebido, corrigidos monetariamente.
+
+21.7. O Fiscal responsável pelo julgamento da prestação de contas poderá:
+
+a) Solicitar documentação complementar;
+b) Aprovar sem ressalvas;
+c) Aprovar com ressalvas, quando houver comprovação de que a ação cultural foi
+realizada, mas for verificada inadequação na execução do objeto ou na execução
+financeira, sem má-fé; ou
+d) Rejeitar, total ou parcialmente.
+
+21.8. Quando a prestação de contas for rejeitada, total ou parcialmente, o fiscal
+determinará uma das seguintes medidas:
+
+a) Devolução de recursos em valor proporcional à inexecução de objeto verificada,
+monetariamente corrigidos;
+b) Pagamento de multa, incidente sobre o valor captado, nos percentuais mínimos de
+20% (vinte por cento) e máximo de 100% (cem por cento), a ser quantificado em
+conformidade com a gravidade da conduta;
+c) Suspensão da possibilidade de celebrar novo instrumento do regime próprio de
+fomento à cultura pelo prazo de 180 (cento e oitenta) a 540 (quinhentos e quarenta)
+dias, contados a partir da data da aplicação da sanção.
+
+21.9. As sanções descritas no item anterior poderão ser aplicadas de forma
+cumulativa, conforme o grau de culpabilidade do responsável.
+
+42
+
+
+
+
+
+QUANDO DA ANÁLISE DA EXECUÇÃO FINANCEIRA
+21.10. Nos casos de rejeição da prestação de contas, após exaurida a fase recursal, se
+mantida a decisão, o proponente poderá solicitar autorização para que o ressarcimento
+ao erário seja promovido por meio de ações compensatórias de interesse público, desde
+que não tenha havido dolo ou fraude e não seja o caso de restituição integral dos
+recursos.
+21.11. Dúvidas relativas à prestação de contas poderão ser dirimidas por meio dos
+emails editalmecenas@secult.ce.gov.br ou telefone 3101.6740.
+21.12. Considera-se em situação de inadimplência, devendo o órgão/entidade
+concedente proceder de forma direta ou por determinação do órgão de controle interno
+do Poder Executivo a inscrição no CADINE o proponente que:
+a) não apresentar a prestação de contas final dos recursos recebidos do incentivador a
+partir do mínimo citado no item 20.3, e nos prazos estipulados por este edital;
+b) não tiver a sua prestação de contas aprovada pelo concedente, por qualquer fato
+que resulte em prejuízo ao erário estadual;
+c) estiver em débito junto a órgão ou entidade da Administração Pública Estadual, em
+relação a obrigações fiscais ou contribuições legais;
+d) nas hipóteses das letras “a”, “b” e “c” acima, a entidade, se tiver outro administrador
+que não o faltoso, e uma vez comprovada a instauração da competente Tomada de
+Contas Especial, com a imediata transcrição do responsável anterior em dívida ativa,
+poderá ser liberada para receber novas transferências, mediante a suspensão da
+inadimplência por ato expresso do ordenador de despesas do órgão concedente. O novo
+dirigente deverá comprovar ao concedente o prosseguimento das ações adotadas, sob
+pena de retorno à situação de inadimplência em prazo dado pelo concedente.
+
+CLIQUE AQUI PARA
+VOLTAR AO SUMARIO
+
+<!-- imagem -->
+
+43
+
+
+
+
+
+22
+DA TOMADA DE CONTAS
+ESPECIAL
+
+<!-- imagem -->
+
+!
+22.1. Será instaurada a competente Tomada de Contas Especial, visando a apuração dos
+fatos, identificação dos responsáveis e quantificação dos danos, pelo ordenador de
+despesas do órgão concedente ou, na sua omissão, por determinação do Órgão de
+Controle Interno ou Tribunal de Contas do Estado - TCE, quando:
+a) Não for apresentada a prestação de contas no prazo de até 30 dias concedido em
+notificação pelo concedente;
+b) Não for aprovada a prestação de contas, apesar de eventuais justificativas pelo
+proponente, em decorrência de:
+I) não execução total do objeto pactuado;
+II) atingimento parcial dos objetivos avençados;
+III) desvio de finalidade;
+IV) impugnação de despesas;
+V) não cumprimento dos recursos da contrapartida no caso de modalidade de
+investimento;
+VI) não utilização de rendimentos de aplicações financeiras no objeto pactuado;
+VII) ocorrer qualquer outro fato do qual resulte prejuízo ao erário estadual.
+22.2. A instauração da Tomada de Contas Especial, obedecida a Instrução Normativa
+Conjunta TCE/CE N°3, de 29 de agosto de 2017, será precedida ainda de providências
+saneadoras por parte do concedente e da notificação do responsável, assinalando prazo
+de, no máximo, 30 dias, para que apresente a prestação de contas ou recolha o valor do
+débito imputado, atualizado monetariamente e acrescido de juros de mora, bem assim,
+as justificativas e alegações de defesa julgadas necessárias pelo notificado, nos casos em
+que a prestação de contas não tenha sido aprovada.
+22.3. Instaurada a Tomada de Contas Especial e havendo a apresentação, embora
+intempestiva, da prestação de contas ou recolhimento do débito imputado, inclusive
+gravames legais, poderão ocorrer as seguintes hipóteses:
+44
+
+
+
+
+
+DA TOMADA DE CONTAS ESPECIAL
+22.3.1. No caso da apresentação da prestação de contas ou recolhimento integral do
+débito imputado, antes do encaminhamento da Tomada de Contas Especial ao Tribunal
+de Contas do Estado, deverá ser dada baixa do registro de inadimplência, e:
+a) Aprovada a prestação de contas ou comprovado o recolhimento, tal circunstância
+deverá ser imediatamente comunicada ao órgão onde se encontra a Tomada de Contas
+Especial, visando o arquivamento do processo e mantendo-se baixa da inadimplência e
+efetuando-se o registro da baixa da responsabilidade, sem prejuízo de ser dado
+conhecimento do fato ao Tribunal de Contas do Estado, em relatório de atividade do
+gestor, quando da tomada ou prestação de contas anual do ordenador de despesas do
+órgão/entidade concedente;
+b) Não aprovada a prestação de contas, o fato deverá ser comunicado ao órgão onde se
+encontre a Tomada de Contas Especial para que adote as providências necessárias ao
+prosseguimento do feito, sob esse novo fundamento, reescrevendo-se a inadimplência,
+no caso de a Tomada de Contas Especial referir-se ao atual administrador, tendo em
+vista a sua permanência à frente da administração do órgão convenente.
+22.3.2. No caso da apresentação da prestação de contas ou recolhimento integral do
+débito imputado, após o encaminhamento da Tomada de Contas Especial ao Tribunal de
+Contas do Estado, proceder se-á, também, a baixa de inadimplência, e:
+a) Sendo aprovada a prestação de contas ou comprovado o recolhimento, tal
+circunstância deverá ser imediatamente comunicada ao respectivo órgão de controle
+interno que certificou as contas para adoção das providências junto ao Tribunal de
+Contas do Estado, mantendo-se a baixa da inadimplência bem como a inscrição da
+responsabilidade apurada;
+b) Não sendo aprovada a prestação de contas adotar-se-á as providências do inciso
+anterior quanto à comunicação ao órgão de controle interno, reinscrevendo-se,
+entretanto, a inadimplência, bem como a inscrição da responsabilidade apurada, no caso
+da Tomada de Contas Especial referir-se ao atual administrador, tendo em vista a sua
+permanência à frente da administração do órgão convenente.
+45
+
+
+
+
+
+<!-- imagem -->
+
+23
+DAS DISPOSIÇÕES FINAIS
+23.1. Será admitida a obtenção de recursos financeiros do FEC, do Mecenato Estadual ou
+de outras fontes do Siec, concomitantemente, para um mesmo projeto, desde que sejam
+destinados a rubricas ou etapas comprovadamente diferentes.
+
+23.1.1. No caso de utilização de recursos de forma concomitante, o proponente deverá
+apresentar a última versão dos planos de trabalho autorizados do projeto para fim de
+conferência no momento da prestação de contas, podendo o fiscal do projeto solicitar
+maiores comprovações para verificar se houve ou não sobreposição de rubricas.
+
+23.2. Os direitos patrimoniais, autorais e de imagem e licenciamento de tecnologias
+produzidos no âmbito dos projetos apoiados serão de responsabilidade dos autores
+envolvidos. A Secretaria da Cultura do Estado do Ceará, a Comissão Estadual de
+Incentivo à Cultura e o contribuinte incentivador da proposta ficam isentos de
+responsabilidades sobre fatos decorrentes do uso indevido ou sem autorização de
+imagens e/ou obras de terceiros, respondendo por isso, exclusivamente, o proponente do
+projeto, conforme disposição da Lei nº 9.610/1998 (Lei do Direito Autoral).
+
+23.3. Os projetos incentivados serão identificados pelo número do Termo de Mecenato.
+
+23.4. Os dados da inscrição, enviados pelos proponentes, integrarão parte do cadastro
+do Mapa Cultural do Ceará / Sistema de Informações Culturais do Estado do Ceará
+(Siscult).
+
+23.5. Eventos, produtos e obras, bem como a documentação das ações financiadas por
+meio deste Edital, devem ser publicados como projetos e eventos no Mapa Cultural do
+Ceará.
+
+23.6. Os casos omissos neste Edital serão decididos pela Comissão Estadual de Incentivo
+à Cultura (CEIC), ouvido o Conselho Estadual de Política Cultural (CEPC), nos termos da
+Lei Estadual nº 18.012/2022.
+
+46
+
+<!-- imagem -->
+
+DAS DISPOSIÇÕES FINAIS
+23.7. A Comissão Estadual de Incentivo à Cultura (CEIC) não pode descumprir as normas
+e condições estabelecidas no presente Edital, ao qual está estritamente vinculada.
+
+23.8. O proponente, responsável pelo projeto selecionado, deverá permitir que os
+membros da Comissão Estadual de Incentivo à Cultura (CEIC) e os técnicos da Secretaria
+da Cultura do Estado do Ceará, devidamente identificados, tenham acesso aos locais de
+execução dos projetos.
+
+23.9. Mais informações poderão ser obtidas prioritariamente pelo e-mail
+editalmecenas@secult.ce.gov.br e pelo telefone (85) 3101.6740 no horário de segunda a
+sexta de 8 às 17h.
+
+Luisa Cela de Arruda Coelho
+Secretária da Cultura
+
+47
+
+<!-- imagem -->
+
+XV EDITAL
+MECENAS DO CEARÁ
+Rua Major Facundo, 500 - Centro,
+CEP: 60025-100 Fortaleza - CE,
+Fone: (85) 3101-6744
+ceará
+cultura
+SECULT
+CEARÁ
+GOVERNO DO ESTADO
+SECRETARIA DA CULTURA
+

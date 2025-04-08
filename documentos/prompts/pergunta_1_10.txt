@@ -1,0 +1,11 @@
+Qual a natureza(s) jurídica(s) permitida(s) para proponentes no edital? Escolha uma ou mais das opções abaixo:
+
+* Pessoa Física (a própria pessoa a ser contemplada)
+* Pessoa Física (representando outra a ser a ser contemplada)
+* Pessoa Física (representando coletivos culturais despersonalizados juridicamente)
+* Pessoa jurídica com fins lucrativos (Sociedade empresária, Sociedade simples)
+* Microempresário individual- MEI
+* Empresário individual
+* Sociedade unipessoal
+* Pessoa jurídica sem fins lucrativos (Organização da sociedade civil)
+* Outra(s). Especifique:

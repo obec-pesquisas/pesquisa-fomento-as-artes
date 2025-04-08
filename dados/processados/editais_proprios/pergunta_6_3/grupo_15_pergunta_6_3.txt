@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 24_editais_especificos_4.txt | Edital de seleção de projetos n°. 09/2023 | Espírito Santo | 2023 | Obrigatoriedade de gratuidade total; Autorização para cobrança a preço popular (com ou sem faixa de valores definida no edital) | 10.10; 10.10.1; 10.10.2 |
+| 24_editais_especificos_5.txt | Edital de seleção de projetos n°. 10/2023 | Espírito Santo | 2023 | Obrigatoriedade de gratuidade total; Autorização para cobrança a preço popular (com ou sem faixa de valores definida no edital) | 10.10; 10.10.1; 10.10.2 |
+| 24_editais_especificos_6.txt | Edital de seleção de projetos n°. 11/2023 | Espírito Santo | 2023 | Projeto apresenta boa estrategia de distribuição, prevendo formação de público e acesso da população, especialmente moradores de áreas vulneráveis, aos bens e produtos culturais gerados. | 8.1.D |
+| 24_editais_especificos_7.txt | Edital de seleção de projetos n°. 12/2023 | Espírito Santo | 2023 | Obrigatoriedade de gratuidade total; Autorização para cobrança a preço popular (com ou sem faixa de valores definida no edital) | 10.10; 10.10.1; 10.10.2 |
+| 24_editais_especificos_8.txt | Edital de seleção de projetos n°. 13/2023 | Espírito Santo | 2023 | Obrigatoriedade de gratuidade total; Autorização para cobrança a preço popular (com ou sem faixa de valores definida no edital) | 10.10; 10.10.1; 10.10.2; 10.10.3 |
+```

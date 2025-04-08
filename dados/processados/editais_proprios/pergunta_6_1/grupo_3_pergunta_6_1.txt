@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 1_editais_especificos_5.txt | EDITAL N° 05/2023 - SECULT/AL | Alagoas | 2023 | Não encontrado | O edital não especifica medidas obrigatórias de acessibilidade. |
+| 1_editais_especificos_6.txt | EDITAL N° 06/2023-SECULT/AL | Alagoas | 2023 | Não encontrado | O edital não especifica medidas obrigatórias de acessibilidade. |
+| 1_editais_especificos_7.txt | EDITAL N° 07/2023 | Alagoas | 2023 | Não encontrado | O edital não especifica medidas obrigatórias de acessibilidade. |
+| 1_editais_especificos_8.txt | EDITAL N°08/2023 – SECULT/AL | Alagoas | 2023 | Não encontrado | O edital não especifica medidas obrigatórias de acessibilidade. |
+| 20_editais_especificos_1.txt | EDITAL DE LICITAÇÃO/MODALIDADE CONCURSO FOMENTO ÀS AÇÕES FORMATIVAS 1/2023 – FUNDO CULTURAL | Goiás | 2023 | É obrigatório contemplar, na descrição e na planilha orçamentária do projeto, de acordo com a proposta e demanda do projeto, o uso de meios e estruturas físicas acessíveis às pessoas idosas, com mobilidade reduzida ou com deficiência, em suas múltiplas especificidades, seja auditiva, visual, motora ou intelectual.; Os proponentes deverão garantir a participação dos idosos em atividades culturais mediante descontos de pelo menos 50% (cinquenta por cento) nos ingressos para eventos artísticos e culturais.; Os proponentes deverão prever o atendimento da acessibilidade para as pessoas com deficiência (PcD) e aos idosos por meio de: materiais de divulgação, folders, programas, catálogos, ingressos, chamada em áudio, sites, dentre outros. | 8.4; 8.8; 8.9 |
+```

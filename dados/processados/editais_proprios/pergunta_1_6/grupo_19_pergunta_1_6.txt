@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 3_editais_especificos_3.txt | XVIII EDITAL CEARÁ CICLO NATALINO PARA MOSTRAS REGIONAIS E XVI MOSTRA ESTADUAL - 2023 | Ceará | 2023 | R$ 414.400,00 destinado as Mostras Regionais Natalinas; R$ 194.600,00 destinado a XVI Mostra Estadual | 4.1 |
+| 3_editais_especificos_4.txt | XVI EDITAL CICLO NATALINO - 2023 | Ceará | 2023 | Não encontrado | O edital trata da seleção de curadores, não da distribuição de recursos em categorias. |
+| 3_editais_especificos_5.txt | Processo de Seleção Simplificada para Pesquisadores(as)/Avaliadores(as) – Ciclo Carnavalesco 2023 | Ceará | 2023 | Não encontrado | O edital trata da seleção de pesquisadores, não da distribuição de recursos em categorias. |
+| 3_editais_especificos_6.txt | XVI EDITAL CEARÁ CICLO CARNAVALESCO – 2023 | Ceará | 2023 | R$60.000,00 para a categoria Difusão do repertório carnavalesco; R$483 840,00 para categoria Maracatus; R$268 800,00 para categoria Escolas de Samba; R$123 200,00 para Categoria Blocos; R$49 280,00 para categoria Cordões; R$98 560,00 para categoria Afoxés; R$199.200,00 para a categoria Culturas Camponesas; R$ 201.600,00 para a categoria Bailes e Matinês; R$42.560,00 para despesas com a Comissão de Avaliação e Seleção da Proposta. | 6.1.1 |
+| 3_editais_especificos_7.txt | XV EDITAL MECENAS DO CEARÁ | Ceará | Não encontrado | Estipula-se o valor global de até R$ 24.000.000,00 (vinte e quatro milhões de reais) para projetos a serem autorizados a realizar captação, distribuídos entre as áreas culturais listadas no item 2.2. | 4.2 |
+```

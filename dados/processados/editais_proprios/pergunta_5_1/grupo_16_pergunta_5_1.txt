@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 24_editais_especificos_9.txt | Edital de seleção de projetos n°. 14/2023 | Espírito Santo | 2023 | Qualidade do projeto; Adequação da proposta orçamentária e viabilidade do projeto; Capacidade do proponente e da equipe envolvida no projeto; Democratização de acesso; Ações de Acessibilidade | 8.1 |
+| 25_editais_especificos_1.txt | EDITAL DE CONCURSO PÚBLICO Nº 30/2023 | Santa Catarina | 2023 | Excelência e qualidade técnica da Proposta Cultural; Qualificação da Proponente e Equipe técnica; Interesse para o Setor Cultural; Viabilidade de realização; Compatibilidade Orçamentária; Contrapartida Social | 9.6 |
+| 26_editais_especificos_1.txt | Edital Sedac nº 03/2023 | Rio Grande do Sul | 2023 | verificação de possíveis inconsistências formais quanto ao envio da documentação, documentos desatualizados ou falta de anexação de algum documento; adequação do projeto cultural ao objeto da Chamada Pública; viabilidade orçamentária e financeira do Plano de Trabalho; atendimento do item 10.1, alínea “b”, referente à discussão do objeto do projeto junto ao Conselho Municipal de Cultura; verificação se o evento proposto no Plano de Trabalho não é objeto de projeto aprovado para captação por meio do financiamento indireto do PRÓ-CULTURA RS – Lei de Incentivo à Cultura | 10.5.1 |
+| 2_editais_especificos_1.txt | EDITAL N° 007/2023 | Bahia | 2023 | Mérito artístico e relevância da proposta artístico-cultural; Conformidade com o propósito do Concha Negra; Viabilidade de execução da proposta; Consonância com as políticas culturais | 4.7 |
+| 2_editais_especificos_10.txt | EDITAL N° 006/2023 | Bahia | 2023 | Mérito artistico e relevância da proposta artistico-cultural; Conformidade com o propósito do Projeto Novembro das Artes Negras; Viabilidade de execução da proposta; Consonância com as políticas culturais | 5.3 |
+```

@@ -1,0 +1,9 @@
+```markdown
+| Nome do arquivo | Nome do Edital | Ente Federativo | Ano | Resposta | Linha(s) de Referência |
+|---|---|---|---|---|---|
+| 4_editais_especificos_1.txt | EDITAL DE CREDENCIAMENTO № 001/2023 – SECMA | Maranhão | 2023 | Não especificado | O edital não especifica o tipo de espaço para a realização das apresentações. |
+| 5_editais_especificos_1.txt | EDITAL Nº 001/2023 DE CHAMAMENTO PÚBLICO PARA CONCESSÃO DE APOIO A INICIATIVAS DE CIRCULAÇÃO ARTÍSTICA | Paraíba | 2023 | Não especificado | O edital não especifica o tipo de espaço para a realização das apresentações, apenas que sejam coerentes com a Declaração da Iniciativa (item 9.5.3). |
+| 5_editais_especificos_2.txt | EDITAL Nº 018/2023 DE CHAMAMENTO PÚBLICO PARA CONCESSÃO DE FOMENTO ÀS MOSTRAS E FESTIVAIS DE AUDIOVISUAL | Paraíba | 2023 | Espaço público (praças, parques, ruas, centros culturais públicos, escolas públicas, bibliotecas públicas, etc) | 3.2. Compreende-se como "mostra" ou "festival”: evento de natureza pública; de acesso gratuito; duração mínima de 03 (três) dias, sendo pelo menos 01 (uma) sessão diária de filme de longa-metragem ou de conjunto de filmes de curta-metragem; e pelo menos dois terços da programação dedicada a filmes brasileiros e, sempre que possível, com destaque à produção paraibana. |
+| 5_editais_especificos_3.txt | EDITAL Nº 004/2023 DE CHAMAMENTO PÚBLICO PARA SELEÇÃO DE PROJETOS CULTURAIS DENTRO DO “PROGRAMA ICMS CULTURAL” | Paraíba | 2023 | Não especificado | O edital não especifica o tipo de espaço para a realização dos projetos culturais. |
+| 6_editais_especificos_1.txt | EDITAL DO 1º PRÊMIO TRAJETÓRIAS EM DANÇA MÔNICA JAPIASSU - 2023 | Pernambuco | 2023 | Não especificado | O edital não especifica o tipo de espaço para a realização das apresentações. |
+```
